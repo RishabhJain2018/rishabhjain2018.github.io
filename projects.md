@@ -75,7 +75,6 @@ layout: default
       
     <img src="/images/contents/sherlocked.jpg" alt="Python India" class=" home-thumbnail" style="float: right; height: 90px; width: auto;" width="100" height="100" />
     </div>
-    <br>
         <div>
         An online mystery game web application which is based on a storyline. <br>The project is open source and can be found  <a class="talk-title" href="https://github.com/RishabhJain2018/Sherlocked" target="_blank" style="color: #381ebc;text-decoration:none;"> here </a>.
         </div>
