@@ -24,7 +24,7 @@ layout: default
     <br>
         <div>
         Actively maintain CloudCV Project which aims to make AI research more reproducible.<br>
-        Responsible for the design, development and maintenance of EvalAI that enable researchers to build, <br> compare and share state-of-the-art algorithms.
+        Responsible for the design, development and maintenance of EvalAI that enable researchers to build, compare and share state-of-the-art algorithms.
         </div>
     </div>
   </div>
@@ -113,7 +113,7 @@ layout: default
     </div>
     <br>
         <div>
-        Responsible for creating a platform for smile detection in which a classifier was trained for classifying <br> smiling and unsmiling images using OpenCV, dlib python packages.
+        Responsible for creating a platform for smile detection in which a classifier was trained for classifying smiling and unsmiling images using OpenCV, dlib python packages.
         </div>
     </div>
   </div>
@@ -135,7 +135,7 @@ layout: default
     </div>
     <br>
         <div>
-        Responsible for the development of REST APIs and managing the infrastructure of InfoConnect.<br>
+        Responsible for the development of REST APIs and managing the infrastructure of InfoConnect.
         I was also responsible for Organizing college’s Tech-fest Zealicon along with its website and other management tasks.
         </div>
     </div>
