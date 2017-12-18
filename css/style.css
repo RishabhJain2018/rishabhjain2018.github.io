@@ -494,8 +494,6 @@ iframe.video { border:0; }
   float: right;
   position: relative;
   z-index: 99;
-  font-family: 'Quicksand', sans-serif;
-  font-weight: bold;
 }
 #menu-primary .menu {
   float: right;
