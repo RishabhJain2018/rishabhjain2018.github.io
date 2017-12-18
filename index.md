@@ -6,7 +6,7 @@ layout: default
 <div class="hfeed">
   <hr />
   <div class="hentry post no-border">
-    <img src="/images/contents/rishabh_jain.jpeg" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" width="160" height="200" />
+    <img src="/images/contents/me2.jpg" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" width="160" height="200" />
 
     <div class="entry-summary">
       <p>I am Rishabh Jain, an engineer interested in machine learning and artificial intelligence.</p>
