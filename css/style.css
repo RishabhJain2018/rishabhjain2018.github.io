@@ -399,7 +399,7 @@ pre code {
 /* Forms
 -------------------------------------------------------------- */
 form label, form input, form textarea {
-  font-family: 'Quicksand', Helvetica;
+  font-family: 'Quicksand', sans-serif, Helvetica;
 }
 form label {
   line-height: 1em;
@@ -494,7 +494,7 @@ iframe.video { border:0; }
   float: right;
   position: relative;
   z-index: 99;
-  font-family: 'Quicksand';
+  font-family: 'Quicksand', sans-serif;
   font-weight: bold;
 }
 #menu-primary .menu {
@@ -516,7 +516,7 @@ iframe.video { border:0; }
   margin-left: 20px;
   display: block;
   text-transform: uppercase;
-  font-family: 'Quicksand';
+  font-family: 'Quicksand', sans-serif;
   font-weight: bold;
 }
 #menu-primary li.current-menu-item a { color: #aaa; }
@@ -680,7 +680,7 @@ body.skills           div.menu li.skills          a {
 .byline a, .byline a:visited { color: #aaa; }
 .byline a:hover { color: #000; }
 .author, .published, .category, .edit {
-  font-family: 'Quicksand', Helvetica;
+  font-family: 'Quicksand', sans-serif, Helvetica;
   font-style: normal;
 }
 .comment-list .published, .comment-list .edit, .comment-list .comment-reply-link {
@@ -860,7 +860,7 @@ li.image {
     clear: both;
     width: 100%;
     margin-top: 5px;
-    font: 'Quicksand';
+    font: 'Quicksand', sans-serif;
   }
   #menu-primary .menu { float: left; }
   #menu-primary ul li { clear: left; }
