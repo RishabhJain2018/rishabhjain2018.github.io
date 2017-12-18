@@ -516,8 +516,6 @@ iframe.video { border:0; }
   margin-left: 20px;
   display: block;
   text-transform: uppercase;
-  font-family: 'Quicksand', sans-serif;
-  font-weight: bold;
 }
 #menu-primary li.current-menu-item a { color: #aaa; }
 #menu-primary ul li a:hover { color: #222; }
