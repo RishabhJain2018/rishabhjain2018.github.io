@@ -36,7 +36,7 @@ layout: default
   <div class="hentry post project-batch-title">
     <h4>Open Source & Git Workshop</h4>
     <div class="entry-summary">
-        <p><a class="talk-title" href="https://hackncs.com/" target="_blank">Nibble Computer Society, Oct 2016</a>: During this workshop hands on experience on using git/github were given to a group of 150+ students. Also, there were sessions on how to start contributing in open source.</p>
+        <p><a class="talk-title" href="http://hackncs.com/" target="_blank">Nibble Computer Society, Oct 2016</a>: During this workshop hands on experience on using git/github were given to a group of 150+ students. Also, there were sessions on how to start contributing in open source.</p>
     </div>
   </div>
 
@@ -44,7 +44,7 @@ layout: default
   <div class="hentry post project-batch-title">
     <h4>Workshop on Web Technologies</h4>
     <div class="entry-summary">
-        <p><a class="talk-title" href="https://hackncs.com/" target="_blank">Nibble Computer Society, Sep 2016</a>: During this workshop 
+        <p><a class="talk-title" href="http://hackncs.com/" target="_blank">Nibble Computer Society, Sep 2016</a>: During this workshop 
         a group of 200+ students were taught about the basic frontend web technologies as well as backend web technologies.</p>
     </div>
   </div>

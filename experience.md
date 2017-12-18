@@ -8,7 +8,7 @@ layout: default
 
 <!-- CloudCV -->
   <div class="hentry post project-batch-title">
-        <h2>CloudCV</h2>
+        <h2><a href="https://cloudcv.org" target="_blank" style="color: #4e2a8e;">CloudCV</a></h2>
   </div>
 
   <div class="hentry post">
@@ -32,7 +32,7 @@ layout: default
 
 <!-- Google Code In -->
   <div class="hentry post project-batch-title">
-        <h2>Google Code In 2017</h2>
+        <h2>Google Code In (<a href="https://codein.withgoogle.com/" target="_blank" style="color: #4e2a8e;">GCI</a>) 2017</h2>
   </div>
 
   <div class="hentry post">
@@ -54,7 +54,7 @@ layout: default
 
 <!-- Google Summer Of Code 2017 -->
   <div class="hentry post project-batch-title">
-        <h2>Google Summer Of Code 2017</h2>
+        <h2>Google Summer Of Code (<a href="https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/" target="_blank" style="color: #4e2a8e;">GSoC</a>) 2017</h2>
   </div>
 
   <div class="hentry post">
@@ -76,7 +76,7 @@ layout: default
 
   <!-- Google Code In -->
   <div class="hentry post project-batch-title">
-        <h2>Python Software Society of India</h2>
+        <h2>Python Software Society of India (<a href="https://github.com/pythonindia" target="_blank" style="color: #4e2a8e;">PSSI</a>)</h2>
   </div>
 
   <div class="hentry post">
@@ -91,14 +91,14 @@ layout: default
     </div>
     <br>
         <div>
-        Developed the feature of user’s profile for Junction project.(It is a software to manage proposals, reviews, schedule, feedback during conference).
+        Developed the feature of user’s profile for <a href="https://github.com/pythonindia/junction/graphs/contributors" target="_blank" style="color: #4e2a8e;text-decoration: none;">Junction</a> project.(It is a software to manage proposals, reviews, schedule, feedback during conference).
         </div>
     </div>
   </div>
 
   <!-- Google Code In -->
   <div class="hentry post project-batch-title">
-        <h2>iAugmentor Labs</h2>
+        <h2><a href="https://www.iaugmentor.com/" target="_blank" style="color: #4e2a8e;">iAugmentor</a> Labs</h2>
   </div>
 
   <div class="hentry post">
@@ -120,7 +120,7 @@ layout: default
 
   <!-- Google Code In -->
   <div class="hentry post project-batch-title">
-        <h2>Nibble Computer Society</h2>
+        <h2>Nibble Computer Society (<a href="http://hackncs.com" target="_blank" style="color: #4e2a8e;">NCS</a>)</h2>
   </div>
 
   <div class="hentry post">
@@ -143,7 +143,7 @@ layout: default
 
   <!-- Google Code In -->
   <div class="hentry post project-batch-title">
-        <h2>Mathematical Sciences Foundation</h2>
+        <h2>Mathematical Sciences Foundation (<a href="http://www.mathscifound.org/" target="_blank" style="color: #4e2a8e;">MSF</a>)</h2>
   </div>
 
   <div class="hentry post">
