@@ -858,6 +858,7 @@ li.image {
     clear: both;
     width: 100%;
     margin-top: 5px;
+    font-family: 'Quicksand';
   }
   #menu-primary .menu { float: left; }
   #menu-primary ul li { clear: left; }
