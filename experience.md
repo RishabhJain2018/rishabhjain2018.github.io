@@ -1,5 +1,5 @@
 ---
-title: Education
+title: Experience
 section: experience
 layout: default
 ---
