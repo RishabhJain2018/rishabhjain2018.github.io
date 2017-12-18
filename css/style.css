@@ -553,7 +553,7 @@ body.skills           div.menu li.skills          a {
   margin: 0 0 20px 5px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  /*font-family: 'Helvetica Neue', Helvetica;*/
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   word-wrap: break-word;
   text-decoration: none;
 }
