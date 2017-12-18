@@ -516,6 +516,8 @@ iframe.video { border:0; }
   margin-left: 20px;
   display: block;
   text-transform: uppercase;
+  font-family: 'Quicksand';
+  font-weight: bold;
 }
 #menu-primary li.current-menu-item a { color: #aaa; }
 #menu-primary ul li a:hover { color: #222; }
@@ -858,7 +860,7 @@ li.image {
     clear: both;
     width: 100%;
     margin-top: 5px;
-    font-family: 'Quicksand';
+    font: 'Quicksand';
   }
   #menu-primary .menu { float: left; }
   #menu-primary ul li { clear: left; }
