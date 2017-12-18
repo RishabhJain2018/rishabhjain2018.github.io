@@ -18,7 +18,7 @@ layout: default
     <li><strong> NPTEL Elite Certification for Design & Analysis of Algorithms </strong> recipient (2016) </li>
     <li><strong>Governer Award </strong> recipient for <a href="http://www.bsgindia.org/" style="text-decoration: none;"> Bharat Scout & Guides</a> </li>
     <li>Certified for<strong> Code For India Hackathon</strong> Noida, 2015</li> 
-    <li> Certified for <strong>International Technical Quiz</strong>competition (2011) </li> 
+    <li> Certified for <strong>International Technical Quiz </strong>competition (2011) </li> 
   </ul>
   </div>
 </div>
