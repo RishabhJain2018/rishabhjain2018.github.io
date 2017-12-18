@@ -1,0 +1,32 @@
+highlighter: rouge
+permalink: none
+kramdown:
+  input: GFM
+  hard_wrap: false
+repository: rishabhjain2018/rishabhjain2018.github.io
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /blog/:year/:month/:day/:title/
+# google_analytics: ''
+title: Rishabh Jain
+description: Rishabh Jain's portfolio
+author: Rishabh Jain
+twitter:
+  username: rishabhjain2018
+logo: images/contents/rishabh_jain.jpeg
+social:
+  name: Rishabh Jain
+  links:
+    - https://twitter.com/rishabhjain2018
+    - https://www.linkedin.com/in/rishabh-jain-2621a3b4
+    - https://github.com/rishabhjain2018
+    - https://speakerdeck.com/rishabhjain2018
