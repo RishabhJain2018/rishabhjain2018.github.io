@@ -33,7 +33,7 @@ html {
 }
 body {
   margin: 0;
-  font: 0.9em/1.692307em 'Oswald', Helvetica, Times;
+  font: 0.9em/1.692307em 'Roboto', Helvetica;
   color: #555;
   padding: 0;
   height: 100%;
@@ -399,7 +399,7 @@ pre code {
 /* Forms
 -------------------------------------------------------------- */
 form label, form input, form textarea {
-  font-family: 'Oswald', Helvetica, Times;
+  font-family: 'Quicksand', Helvetica, Times;
 }
 form label {
   line-height: 1em;
@@ -494,6 +494,8 @@ iframe.video { border:0; }
   float: right;
   position: relative;
   z-index: 99;
+  font-family: 'Quicksand';
+  font-weight: bold;
 }
 #menu-primary .menu {
   float: right;
@@ -676,7 +678,7 @@ body.skills           div.menu li.skills          a {
 .byline a, .byline a:visited { color: #aaa; }
 .byline a:hover { color: #000; }
 .author, .published, .category, .edit {
-  font-family: 'Oswald', Helvetica, Times;
+  font-family: 'Quicksand', Helvetica, Times;
   font-style: normal;
 }
 .comment-list .published, .comment-list .edit, .comment-list .comment-reply-link {
