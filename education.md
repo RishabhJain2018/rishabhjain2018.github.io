@@ -16,7 +16,7 @@ layout: default
     <img src="/images/contents/jss.jpg" alt="Rishabh Jain" class=" home-thumbnail" style="float: right; height: 100px; width: auto; margin-right: 10px;" width="160" height="200" />
         <strong>JSS Academy of Technical Education, Noida </strong> &nbsp;&nbsp; (Aug.2014 -- Present)
       <ul>
-        <li> Final year student with an aggregate of <strong> 82.4%(with Hons.) </strong></li>
+        <li> Final year student with an aggregate of <strong> 82.4% (with Hons.) </strong></li>
         <li> Class Rank: <strong>9th out of 150 Students </strong></li>
       </ul>
     </div>
