@@ -13,8 +13,8 @@ layout: default
 
   <div class="hentry post project-batch-title">
   <ul>
-    <li><strong> Primary Email: </strong> username-at-domain.com (where username = rishabhjain2018, domain = gmail)</li>
-    <li><strong>Secondary Email: </strong> username-at-domain.ac.in (where username = rishabhjain, domain=jssaten)</li>
+    <li><strong> Primary Email: </strong> rishabhjain2018@gmail.com</li>
+    <li><strong>Secondary Email: </strong> rishabhjain@jssaten.ac.in</li>
     <li><strong>Mobile: </strong> +91-8375867839 </li>
   </ul>
   </div>
