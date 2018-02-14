@@ -6,6 +6,28 @@ layout: default
 
 <div class="hfeed">
 
+<!-- Google Summer Of Code 2018 -->
+  <div class="hentry post project-batch-title">
+        <h2>Google Summer Of Code (<a href="https://codein.withgoogle.com/" target="_blank" style="color: #4e2a8e;">GSoC</a>) 2018</h2>
+  </div>
+
+  <div class="hentry post">
+    <div class="entry-summary">
+    <div>
+      
+    <img src="/images/contents/gci.png" alt="Google Code In" class=" home-thumbnail" style="float: right; height: 90px; width: 90px;" width="100" height="100" />
+    </div>
+    <div>
+        <strong><i>Organization Mentor</i></strong> &nbsp;
+         (Feb. 2018 -- Present) 
+    </div>
+    <br>
+        <div>
+        Selected as a Mentor at CloudCV to help university students resolve their issues while completing their Google Summer Of Code project and also help them achieve better understanding in software development throughout the internship period.
+        </div>
+    </div>
+  </div>
+
 <!-- CloudCV -->
   <div class="hentry post project-batch-title">
         <h2><a href="https://cloudcv.org" target="_blank" style="color: #4e2a8e;">CloudCV</a></h2>
@@ -42,12 +64,12 @@ layout: default
     <img src="/images/contents/gci.png" alt="Google Code In" class=" home-thumbnail" style="float: right; height: 90px; width: 90px;" width="100" height="100" />
     </div>
     <div>
-        <strong><i>Mentor</i></strong> &nbsp;
-         (Nov. 2017 -- Present) 
+        <strong><i>Organization Mentor</i></strong> &nbsp;
+         (Nov. 2017 -- Jan. 2018) 
     </div>
     <br>
         <div>
-        Mentoring students to ramp up in open source projects. Helping students in back-end as well as in front-end technologies.
+        Selected as a Mentor at CloudCV to help high school students resolve their issues while contributing in open source project and also help them achieve better understanding in software development.
         </div>
     </div>
   </div>
