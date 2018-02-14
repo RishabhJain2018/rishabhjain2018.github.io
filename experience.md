@@ -15,7 +15,7 @@ layout: default
     <div class="entry-summary">
     <div>
       
-    <img src="/images/contents/gci.png" alt="Google Code In" class=" home-thumbnail" style="float: right; height: 90px; width: 90px;" width="100" height="100" />
+    <img src="/images/contents/gsoc2017.png" alt="Google Summer Of Code" class=" home-thumbnail" style="float: right; height: 90px; width: 90px;" width="100" height="100" />
     </div>
     <div>
         <strong><i>Organization Mentor</i></strong> &nbsp;
