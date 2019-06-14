@@ -9,15 +9,11 @@ layout: default
     <img src="/images/contents/me2.jpg" style="margin-bottom: 100px;" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" width="160" height="200" />
 
     <div class="entry-summary">
-      <p>I am Rishabh Jain, a senior undergraduate student at JSS Noida interested in machine learning, specifically solving problems using deep learning techniques.</p>
+      <p>I am a Visiting research scholar at Georgia Institute of Technology, advised by <a href="https://www.cc.gatech.edu/~dbatra/">Dr. Dhruv Batra </a> and works closely with <a href="https://www.cc.gatech.edu/~parikh/">Dr. Devi Parikh</a>. My research interests lies at the intersection of software engineering and AI research. I’m enthusiastic to build large scale machine learning systems in order to help the research community. I’m also excited about deep learning with its application in computer vision and natural language processing. I also lead <a href="http://cloudcv.org/" target="_blank">CloudCV</a> which is an open source organization, building tools for reproducible AI research.</p>
 
-      <p> I am a <a href="https://summerofcode.withgoogle.com/">Google Summer Of Code 2018</a> <strong> Mentor </strong> and an open source contributor to <a class="talk-title" href="http://cloudcv.org/" target="_blank">CloudCV</a> Organization which aims to make AI research reproducible. At CloudCV, I currently work on <a href="https://evalai.cloudcv.org/" target="_blank">EvalAI</a> Project and help in designing and implementing core features. I was selected as <a href="https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/" target="_blank">Google Summer Of Code 2017</a> student and worked on the same project, <a href="https://evalai.cloudcv.org/" target="_blank">EvalAI</a>.</p>
-
-      <p>Prior to CloudCV; I was a member of <a href="http://hackncs.com/" target="_blank">Nibble Computer Society</a> working on really impactful projects like <a href="http://210.212.85.155/" target="_blank"> JSS InfoConnect </a> (20000+ users, 5000+ daily active users etc).
-      </p>
-      <p>In my free time I always try to explore something new and contribute to other open source projects.
+      <p>During my undergraduate studies, I was selected as a <a href="https://summerofcode.withgoogle.com/archive/2017/projects/4507838760091648/" target="_blank"> Google Summer of Code student (2017) </a> with <a href="http://cloudcv.org/" target="_blank"> CloudCV </a> and also mentored students in <a href="https://summerofcode.withgoogle.com/archive/2018/projects/4538857819209728/" target="_blank"> Google Summer of Code (2018) </a> for the same organization in 2018. Parallel to CloudCV; I was also member of <a href="http://hackncs.com/" target="_blank">Nibble Computer Society</a> and worked on really impactful projects like <a href="http://210.212.85.155/" target="_blank"> JSS InfoConnect </a> (20000+ users, 5000+ daily active users etc).
       </p>
     </div>
-    <hr />
   </div>
+  <hr />
 </div>
