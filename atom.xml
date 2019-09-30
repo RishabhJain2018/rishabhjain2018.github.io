@@ -1,11 +1,11 @@
 ---
 layout: null
-site_url: http://sourabhbajaj.com
+site_url: http://rishabhjain2018@gmail.com
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>Sourabh Bajaj</title>
+<title>Rishabh Jain</title>
 <link href="{{ page.site_url }}/atom.xml" rel="self"/>
 <link href="{{ page.site_url }}"/>
 <updated>{{ site.time | date_to_xmlschema }}</updated>

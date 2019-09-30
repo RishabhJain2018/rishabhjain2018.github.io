@@ -171,14 +171,13 @@ dd { margin: 5px 0 0 1.5em }
 h1, h2, h3, h4, h5, h6 {
   font-style: normal;
   font-weight: normal;
-  margin: 0 0 15px 0;
+  margin: 0 0 05px 0;
   color: #333;
   line-height: 1.3em;
 }
 h1 { font-size: 44px; }    /* 36 / 13 = 44 */
 h2 {
   font-size: 29px;    /* 24 / 13 = 1.846153846153846 */
-  margin-top: 23px;       /* 35 / 24 = 1.458333333 */
 }
 h3 { font-size: 24px; }    /* 20 / 13 = 1.538461538461538 */
 h4 { font-size: 22px; }    /* 18 / 13 = 1.384615384615385 */
@@ -252,7 +251,7 @@ th, td { text-align: left; }
 
 /* WordPress classes
 -------------------------------------------------------------- */
-.hfeed h1, .hfeed h2, .hfeed h3, .hfeed h4, .hfeed h5, .hfeed h6 { font-weight: normal; }
+.hfeed h1, .hfeed h2, .hfeed h3, .hfeed h4, .hfeed h5, .hfeed h6 { font-weight: lighter; }
 .hcat h5 {
   font-weight: normal;
   margin-top: 25px;
@@ -281,6 +280,7 @@ blockquote.alignleft, blockquote .alignright { width: 33%; }
 .byline abbr, .entry-meta abbr, .comment-meta abbr { border: none; }
 .clear { clear: both; }
 .no-border { border: 0 };
+.no-border-bottom {border-bottom: 0 !important;}
 
 /* Tables
 -------------------------------------------------------------- */
@@ -489,12 +489,11 @@ iframe.video { border:0; }
 -------------------------------------------------------------- */
 #menu-primary {
   font-size: 1em;
-  width: 65%;
+  width: 75%;
   margin: 30px 0 12px 0;
   float: right;
   position: relative;
   z-index: 99;
-  font-weight: bold;
 }
 #menu-primary .menu {
   float: right;
@@ -514,7 +513,7 @@ iframe.video { border:0; }
   font-size: 1em;
   margin-left: 20px;
   display: block;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 #menu-primary li.current-menu-item a { color: #aaa; }
 #menu-primary ul li a:hover { color: #222; }
@@ -542,19 +541,18 @@ body.skills           div.menu li.skills          a {
 }
 #branding {
   float: left;
-  width: 35%;
+  width: 25%;
   overflow: hidden;
   margin-top: 20px;
-  margin-bottom: 20px;
 }
 #site-title {
   font-size: 2.307692307692308em;  /* 30 / 13 = 2.307692307692308 */
   line-height: 1em;
-  /*font-weight: bold;*/
+  font-weight: lighter;
   margin: 0 0 20px 5px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 1px;
-  font-family: Helvetica, Arial, san;
+  font-family: Roboto;
   word-wrap: break-word;
   text-decoration: none;
 }
@@ -564,10 +562,6 @@ body.skills           div.menu li.skills          a {
   text-decoration: none;
 }
 #header img { max-width: 100%; }
-
-#header {
-  padding-bottom: 10px;
-}
 
 #site-description {
   display: none;
@@ -599,8 +593,14 @@ body.skills           div.menu li.skills          a {
   color: #333;
 }
 
+
 /* Posts
 -------------------------------------------------------------- */
+.hentry-no-border {
+  float: left;
+  width: 100%;
+  font-size: 1em;
+}
 .hentry {
   float: left;
   width: 100%;
@@ -886,7 +886,7 @@ li.image {
   }
 }
 
-/*  sourabhbajaj.org - Pages and Specific Elements
+/*  rishabhjain2018.github.io - Pages and Specific Elements
 ------------------------------------------------------ */
 
 /* Learning */
@@ -1064,4 +1064,46 @@ ol.jekyll-toc li a {
 
 .sharebuttons .linkedin svg {
   fill: #0077B5;
+}
+
+
+.publication-images {
+  width: 860px !important;
+  height: auto !important;
+}
+
+h5 {
+  font-weight: 400 !important;
+}
+.conference {
+  font-weight: 400;
+  color: purple;
+}
+span .rishabh {
+  font-weight: 400 !important;
+}
+
+.padding-top-10 {
+  padding-top: 10px;
+}
+
+.padding-right-20 {
+  padding-right: 20px;"
+}
+
+.paper {
+  color: #381ebc
+}
+
+.code {
+  color: black
+}
+
+.padding-bottom-10 {
+  padding-bottom: 10px;
+}
+
+.images {
+  width: 100%;
+  height: auto;
 }
