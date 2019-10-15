@@ -18,7 +18,7 @@ defaults:
       permalink: /blog/:year/:month/:day/:title/
 # google_analytics: ''
 title: Rishabh Jain
-description: Computer Science MS student at Georgia Tech, advised by Dr. Dhruv Batra. He works at the intersection of software engineering & Machine Learning and is excited to build large scale machine learning systems. He also leads an open source organization - CloudCV to build tools for reproducible AI research. 
+description: Computer Science MS student at Georgia Tech, advised by Dr. Dhruv Batra. He works at the intersection of Machine Learning & Software Engineering. He also leads an open source organization - CloudCV to build tools for reproducible AI research. 
 author: Rishabh Jain
 twitter:
   username: rishabhjain2018
@@ -29,4 +29,3 @@ social:
     - https://twitter.com/rishabhjain2018
     - https://www.linkedin.com/in/rishabh-jain-2621a3b4
     - https://github.com/rishabhjain2018
-    - https://speakerdeck.com/rishabhjain2018

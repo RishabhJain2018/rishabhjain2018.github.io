@@ -74,9 +74,9 @@ layout: default
             <span class="website padding-right-20"> <a href="https://evalai.cloudcv.org/" target="_blank" class="nocaps.org">evalai.cloudcv.org</a></span>
           </div>
         </div>
-        <!-- <div class="padding-top-10">
-          <img class="images" src="/images/contents/nocaps.jpg" />
-        </div> -->
+        <div class="padding-top-10">
+          <img class="images" src="/images/contents/evalai.png" />
+        </div>
 
     <div class="hr-line"></div>
 
@@ -98,6 +98,84 @@ layout: default
 
   </div>
 
+  <!-- Projects Section -->
+  <div id="projects" class="hentry-no-border">
+
+        <h2 class="padding-bottom-10"> Projects </h2>
+    <!-- EvalAI-->
+
+  <div>
+
+    <h5><a href="https://evalai.cloudcv.org/" target="_blank">EvalAI:</a> Towards Better Evaluation Systems for AI Agents</h5>
+    <span>Open source platform to create, collaborate and participate in the AI Challenges organized around the globe.</span>
+    <div>
+        <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star Cloud-CV/EvalAI on GitHub">Star</a> &nbsp;
+        <a class="github-button" href="https://github.com/Cloud-CV/EvalAI/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/EvalAI on GitHub">Fork</a>
+
+  <!-- <div class="padding-top-10">
+
+    <img class="images no-border" src="/images/contents/nocaps.jpg" /> -->
+
+    <div class="hr-line-projects"></div>
+
+  </div>
+
+  <div>
+
+    <h5><a href="https://github.com/Cloud-CV/Fabrik" target="_blank">Fabrik:</a> Collaboratively build, visualize, and design neural nets in browser</h5>
+    <span>Online collaborative platform to build, visualize and train deep learning models via a simple drag-and-drop interface.</span><br>
+    <a class="github-button" href="https://github.com/Cloud-CV/Fabrik" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/Fabrik on GitHub">Star</a> &nbsp; 
+    <a class="github-button" href="https://github.com/Cloud-CV/Fabrik/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/Fabrik on GitHub">Fork</a>
+    <!-- <div class="padding-top-10">
+
+    <img class="images no-border" src="/images/contents/nocaps.jpg" /> -->
+
+    <div class="hr-line-projects"></div>
+
+  </div>
+
+  <div>
+
+    <h5><a href="https://vqa.cloudcv.org/" target="_blank">VQA</a>: Visual Question Answering Demo</h5>
+    <span>In Visual Question Answering, given an image and a free-form natural language question about the image (e.g., "What kindof store is this?", "How many people are waiting in the queue?", "Is it safe to cross the street?") the model's task is to automatically produce a concise, accurate, free-form, natural language answer ("bakery", "5", "Yes"). This demo is implemented using <a href="https://github.com/facebookresearch/pythia" target="_blank">Pythia</a> model.</span><br>
+    <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp; 
+    <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a>
+    <!-- <div class="padding-top-10">
+
+    <img class="images no-border" src="/images/contents/nocaps.jpg" /> -->
+
+    <div class="hr-line-projects"></div>
+
+  </div>
+
+  <div>
+
+    <h5><a href="http://doodle.cloudcv.org/" target="_blank">Trick or TReAT:</a> Thematic Reinforcement for Artistic Typography</h5>
+    <span>Given an input word (e.g.exam) and a theme (e.g.education), the individual letters of the input word are replaced by cliparts relevant to the theme which visually resemble the letters - adding creative context to the potentially boring input word.</span><br>
+    <!-- <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp; 
+    <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a> -->
+    <!-- <div class="padding-top-10">
+
+    <img class="images no-border" src="/images/contents/nocaps.jpg" /> -->
+
+    <div class="hr-line-projects"></div>
+
+  </div>
+
+  <div>
+
+    <h5><a href="http://210.212.85.155:8082/" target="_blank">JSS InfoConnect</a></h5>
+    <span>Web based application that acts as a medium for interaction between all students, faculties and management of JSSATE Noida college. Officially recognized by college. Serves 10, 000+ requests per day, 20, 000+ users, 20, 000+ notices uploaded.</span><br>
+    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star ncs-jss/HTTP_200 on GitHub">Star</a> &nbsp; 
+    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork ncs-jss/HTTP_200 on GitHub">Fork</a>
+    <!-- <div class="padding-top-10">
+
+    <img class="images no-border" src="/images/contents/nocaps.jpg" /> -->
+
+    <div class="hr-line-projects"></div>
+
+  </div>
+<hr/>
   <!-- Experience Section -->
   <div id="experience" class="hentry-no-border post">
 
@@ -286,86 +364,6 @@ layout: default
 
   <hr/>
   </div>
-
-  <!-- Projects Section -->
-  <div id="projects" class="hentry-no-border">
-
-        <h2 class="padding-bottom-10"> Projects </h2>
-    <!-- EvalAI-->
-
-  <div>
-
-    <h5><a href="https://evalai.cloudcv.org/" target="_blank">EvalAI:</a> Towards Better Evaluation Systems for AI Agents</h5>
-    <span>Open source platform to create, collaborate and participate in the AI Challenges organized around the globe.</span>
-    <div>
-        <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star Cloud-CV/EvalAI on GitHub">Star</a> &nbsp;
-        <a class="github-button" href="https://github.com/Cloud-CV/EvalAI/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/EvalAI on GitHub">Fork</a>
-
-  <!-- <div class="padding-top-10">
-
-    <img class="images no-border" src="/images/contents/nocaps.jpg" /> -->
-
-    <div class="hr-line-projects"></div>
-
-  </div>
-
-  <div>
-
-    <h5><a href="https://github.com/Cloud-CV/Fabrik" target="_blank">Fabrik:</a> Collaboratively build, visualize, and design neural nets in browser</h5>
-    <span>Online collaborative platform to build, visualize and train deep learning models via a simple drag-and-drop interface.</span><br>
-    <a class="github-button" href="https://github.com/Cloud-CV/Fabrik" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/Fabrik on GitHub">Star</a> &nbsp; 
-    <a class="github-button" href="https://github.com/Cloud-CV/Fabrik/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/Fabrik on GitHub">Fork</a>
-    <!-- <div class="padding-top-10">
-
-    <img class="images no-border" src="/images/contents/nocaps.jpg" /> -->
-
-    <div class="hr-line-projects"></div>
-
-  </div>
-
-  <div>
-
-    <h5><a href="https://vqa.cloudcv.org/" target="_blank">VQA</a>: Visual Question Answering Demo</h5>
-    <span>In Visual Question Answering, given an image and a free-form natural language question about the image (e.g., "What kindof store is this?", "How many people are waiting in the queue?", "Is it safe to cross the street?") the model's task is to automatically produce a concise, accurate, free-form, natural language answer ("bakery", "5", "Yes"). This demo is implemented using <a href="https://github.com/facebookresearch/pythia" target="_blank">Pythia</a> model.</span><br>
-    <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp; 
-    <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a>
-    <!-- <div class="padding-top-10">
-
-    <img class="images no-border" src="/images/contents/nocaps.jpg" /> -->
-
-    <div class="hr-line-projects"></div>
-
-  </div>
-
-  <div>
-
-    <h5><a href="http://doodle.cloudcv.org/" target="_blank">Trick or TReAT:</a> Thematic Reinforcement for Artistic Typography</h5>
-    <span>Given an input word (e.g.exam) and a theme (e.g.education), the individual letters of the input word are replaced by cliparts relevant to the theme which visually resemble the letters - adding creative context to the potentially boring input word.</span><br>
-    <!-- <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp; 
-    <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a> -->
-    <!-- <div class="padding-top-10">
-
-    <img class="images no-border" src="/images/contents/nocaps.jpg" /> -->
-
-    <div class="hr-line-projects"></div>
-
-  </div>
-
-  <div>
-
-    <h5><a href="http://210.212.85.155:8082/" target="_blank">JSS InfoConnect</a></h5>
-    <span>Web based application that acts as a medium for interaction between all students, faculties and management of JSSATE Noida college. Officially recognized by college. Serves 10, 000+ requests per day, 20, 000+ users, 20, 000+ notices uploaded.</span><br>
-    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star ncs-jss/HTTP_200 on GitHub">Star</a> &nbsp; 
-    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork ncs-jss/HTTP_200 on GitHub">Fork</a>
-    <!-- <div class="padding-top-10">
-
-    <img class="images no-border" src="/images/contents/nocaps.jpg" /> -->
-
-    <div class="hr-line-projects"></div>
-
-  </div>
-
-<hr />
   <!-- Talks Section -->
   <div class="hentry-no-border">
 
