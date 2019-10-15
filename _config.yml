@@ -18,11 +18,11 @@ defaults:
       permalink: /blog/:year/:month/:day/:title/
 # google_analytics: ''
 title: Rishabh Jain
-description: Rishabh Jain's portfolio
+description: Computer Science MS student at Georgia Tech, advised by Dr. Dhruv Batra. He works at the intersection of software engineering & Machine Learning and is excited to build large scale machine learning systems. He also leads an open source organization - CloudCV where we are building tools for reproducible AI research. 
 author: Rishabh Jain
 twitter:
   username: rishabhjain2018
-logo: images/contents/rishabh_jain.jpeg
+logo: images/contents/rishabh_j.png
 social:
   name: Rishabh Jain
   links:

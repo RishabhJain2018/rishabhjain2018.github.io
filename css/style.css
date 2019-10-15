@@ -1,20 +1,4 @@
-﻿/**
- * Theme Name: Origin
- * Theme URI: http://alienwp.com/themes/origin/
- * Description: Minimalistic, mobile-optimized theme with responsive layout. The theme settings include options for uploading favicon and logo images, color picker, typography settings, and a nice selection of Google fonts.
- * Version: 0.2.8
- * Author: Galin Simeonov
- * Author URI: http://alienwp.com
- * Tags: flexible-width, theme-options, threaded-comments, microformats, translation-ready, rtl-language-support, one-column, two-columns, right-sidebar, sticky-post, custom-background, featured-images
- * License: GNU General Public License v2.0
- * License URI: http://www.gnu.org/licenses/gpl-2.0.html
- *
- * Copyright (c) 2011 - 2012 Galin Simeonov.  All rights reserved.
- * http://alienwp.com
- */
-
-/* Normalize
--------------------------------------------------------------- */
+﻿-------------------------------------------------------------- */
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
 audio, canvas, video {
   display: inline-block;
@@ -33,24 +17,25 @@ html {
 }
 body {
   margin: 0;
-  font: 0.9em/1.692307em 'Roboto', Helvetica;
-  color: #555;
+  font: 1em/1.692307em 'Roboto';
+  color: black;
+  /* color: #000; */
   padding: 0;
   height: 100%;
+  font-weight: 300;
 }
 #container {
   background-color: #fff;
 }
-a, a:visited {
+/* a, a:visited {
   color: #4e2a8e;
-  text-decoration: underline;
-}
+} */
 a.spec, a.spec:visited {
   text-decoration: none;
+  color: #28D;
 }
 a:hover {
   text-decoration: none;
-  color: #000;
 }
 a:focus { outline: none; }
 a:hover, a:active { outline: 0; }
@@ -279,7 +264,7 @@ img.alignleft, img.alignright {
 blockquote.alignleft, blockquote .alignright { width: 33%; }
 .byline abbr, .entry-meta abbr, .comment-meta abbr { border: none; }
 .clear { clear: both; }
-.no-border { border: 0 };
+.no-border { border: 0 !important};
 .no-border-bottom {border-bottom: 0 !important;}
 
 /* Tables
@@ -463,7 +448,7 @@ iframe.video { border:0; }
 #content {
   float: left;
   width: 100%;
-  margin: 0 0 30px 0;
+  /* margin: 0 0 30px 0; */
   min-height: 180px;
 }
 .page-template-fullwidth #content-post { width: 100%; }
@@ -489,7 +474,7 @@ iframe.video { border:0; }
 -------------------------------------------------------------- */
 #menu-primary {
   font-size: 1em;
-  width: 75%;
+  width: 70%;
   margin: 30px 0 12px 0;
   float: right;
   position: relative;
@@ -530,7 +515,7 @@ body.github           div.menu li.github          a,
 body.contact          div.menu li.contact          a,
 body.resume           div.menu li.resume    a,
 body.skills           div.menu li.skills          a {
-  color: #aaa;
+  color: black;
 }
 
 /* Header
@@ -541,7 +526,7 @@ body.skills           div.menu li.skills          a {
 }
 #branding {
   float: left;
-  width: 25%;
+  width: 30%;
   overflow: hidden;
   margin-top: 20px;
 }
@@ -549,7 +534,7 @@ body.skills           div.menu li.skills          a {
   font-size: 2.307692307692308em;  /* 30 / 13 = 2.307692307692308 */
   line-height: 1em;
   font-weight: lighter;
-  margin: 0 0 20px 5px;
+  /* margin: 0 0 0px 5px; */
   /* text-transform: uppercase; */
   letter-spacing: 1px;
   font-family: Roboto;
@@ -557,7 +542,7 @@ body.skills           div.menu li.skills          a {
   text-decoration: none;
 }
 #site-title a {
-  color: #222;
+  color: #222 !important;
   border-bottom: none;
   text-decoration: none;
 }
@@ -608,6 +593,7 @@ body.skills           div.menu li.skills          a {
   padding: 0 0 5px 0;
   font-size: 1em;
   border-bottom: 1px solid #e5e5e5;
+  justify-content: center;
 }
 .hentry:last-child {
   border-bottom: 0;
@@ -812,7 +798,7 @@ li.image {
 
 #copyright {
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
   padding: 0 0 10px;
 }
 
@@ -1076,8 +1062,8 @@ h5 {
   font-weight: 400 !important;
 }
 .conference {
-  font-weight: 400;
-  color: purple;
+  font-weight: 800;
+  color: purple !important;
 }
 span .rishabh {
   font-weight: 400 !important;
@@ -1106,4 +1092,102 @@ span .rishabh {
 .images {
   width: 100%;
   height: auto;
+}
+
+.remove-bottom {
+  border-bottom: 0px !important;
+}
+
+a {
+  color: #28D;
+  text-decoration: none;
+  border-bottom: 1px dashed #ccc;
+}
+
+li a {
+  color:black;
+}
+
+li a:hover{
+  color: #28D;
+}
+
+.border-bottom {
+  border-bottom: 1px dashed #ccc;
+}
+
+.author-names {
+  color: #555;
+}
+
+.rishabh {
+  color: black;
+  font-weight: 400;
+}
+
+.website {
+  color: #28D;
+}
+
+.period {
+  color: #555;
+  font-size: 14px;
+}
+
+.position {
+  color: black;
+  font-weight: 400;
+}
+
+.hr-line {
+  display: block;
+  height: 1px;
+  border: 0;
+  /* border-top: 1px solid #e7e7e7; */
+  margin: 0.7em 0 0.7em 0;
+  padding: 0;
+}
+
+.fw-400 {
+  font-weight: 400;
+}
+
+.company-logo {
+  float: right;
+  height: auto;
+  width: 120px;
+}
+
+.exp-desc {
+  width: 80%;
+  text-align: justify;
+  padding-top: 10px;
+}
+
+.hr-line-projects {
+  display: block;
+  height: 1px;
+  border: 0;
+  /* border-top: 1px solid #e7e7e7; */
+  margin: 1.3em 0 1.3em 0;
+  padding: 0;
+}
+
+.fw-300 {
+  font-weight: 300;
+}
+
+a.social-icons {
+  text-decoration: none;
+  border-bottom: none;
+  font-size: 23px;
+  padding-right: 5%;
+}
+
+a.social-icons:hover {
+  color: #555;
+  text-decoration: none;
+  border-bottom: none;
+  font-size: 23px;
+  padding-right: 5%;
 }

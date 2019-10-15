@@ -4,17 +4,15 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>{% if page.title %}{{ page.title }} - {% endif %}Rishabh Jain</title>
+  <title>Rishabh Jain</title>
   <link rel="stylesheet" type="text/css" href="/css/style.css" />
   <link rel="stylesheet" type="text/css" href="/css/syntax.css" />
   <link rel="stylesheet" href="/js/icons/style.css">
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <!-- <link rel="stylesheet" id="font-bitter-css" href="http://fonts.googleapis.com/css?family=Quicksand:300,400,700"
-    type="text/css" media="screen" /> -->
   <link rel="stylesheet" id="font-bitter-css" href="http://fonts.googleapis.com/css?family=Roboto:300,400,700"
     type="text/css" media="screen" />
-  <link rel="shortcut icon" type="image/x-icon" href="/images/contents/favico.ico" />
-
+  <link rel="shortcut icon" type="image/x-icon" href="/images/contents/rj.png" />
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
   <meta property="og:type" content="website" />
   <meta property="og:url"
     content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url}}" />
@@ -33,35 +31,50 @@
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://kit.fontawesome.com/060792e9fc.js" crossorigin="anonymous"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150080297-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
-    gtag('config', '{{ site.google_analytics }}');
-  </script>
-  <script>
-    var trackOutboundLink = function (url) {
-      gtag('event', 'click', {
-        'event_category': 'outbound',
-        'event_label': url,
-        'transport_type': 'beacon',
-        'event_callback': function () { document.location = url; }
-      });
-    }
+    gtag('config', 'UA-150080297-1');
   </script>
   <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+  <!-- Place this tag in your head or just before your close body tag. -->
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
   {% seo title=false %}
 </head>
 
 <body class="{{ page.section }}">
   <div id="container">
     <div class="wrap">
-      <div id="header">
+      <div class="sticky-header" id="header">
         <div id="branding">
           <h1 id="site-title">
             <a href="/" title="Rishabh Jain" rel="Home">Rishabh Jain</a>
           </h1>
+          <a class="social-icons" target="_blank" href="https://github.com/RishabhJain2018">
+            <i class="fab fa-github"></i>
+          </a>
+          <a class="social-icons" target="_blank" href="https://www.linkedin.com/in/rishabhjain1795/">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          <a class="social-icons" target="_blank" href="https://twitter.com/rishabhjain2018">
+            <i class="fab fa-twitter"></i>
+
+          </a>
+          <a class="social-icons" target="_blank" href="https://www.facebook.com/rishabh.jain.1795">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a class="social-icons" target="_blank" href="mailto:rishabhjain2018@gmail.com">
+            <i class="fas fa-envelope"></i>
+          </a>
+          <a class="social-icons" target="_blank" href="https://scholar.google.com/citations?user=xej-tvUAAAAJ&hl=en">
+            <i class="ai ai-google-scholar"></i>
+
+          </a>
         </div>
 
         <div id="menu-primary" class="menu-container">
@@ -70,11 +83,15 @@
 
               <!-- First Row -->
 
-              <li class="menu-item experience"><a class="spec" href="/#/experience">Experience</a></li>
-              <li class="menu-item publications"><a class="spec" href="/projects">Publications</a></li>
-              <li class="menu-item talks"><a class="spec" href="/talks">Talks</a></li>
-              <li class="menu-item contact"><a class="spec" href="/contact">Contact Me</a></li>
-              <li class="menu-item resume"><a class="spec" href="https://goo.gl/nWYXsm" target="_blank">Resume</a></li>
+              <li class="menu-item publications"><a class="spec" href="#publications">Publications</a></li>
+              <li class="menu-item experience"><a class="spec" href="#experience">Experience</a></li>
+              <li class="menu-item projects"><a class="spec" href="#projects">Projects</a></li>
+              <li class="menu-item cv"><a class="spec" href="/images/contents/rishabh_cv.pdf" target="_blank">CV</a>
+              </li>
+              <!-- <br>
+              <li class="menu-item talks">
+                
+              </li> -->
             </ul>
           </div>
         </div>
