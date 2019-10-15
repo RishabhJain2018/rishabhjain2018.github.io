@@ -9,14 +9,13 @@ layout: default
 
     <img src="/images/contents/rishabh_j.png" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
     <div class="entry-summary">
-            I'm a first year master's student in Computer Science advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a> at Georgia Tech. I work at the junction of software engineering and Machine Learning. I am excited to building large-scale machine learning systems.
+            I'm a first year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a>.  I work at the junction of machine learning and software engineering.
         <br>
-        I'm currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a>.
-        I also lead an open source organization - <a  target="_blank" href="https://cloudcv.org/">CloudCV</a> where we are building tools for reproducible AI research.
+        I'm currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> on setting up a robust pipeline for uploading machine learning model code in the form of docker containers which will be evaluated on remote machines and the results will be displayed on the <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> leaderboard.<br>
+        I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a> where we are building tools for reproducible AI research.
         <br>
-        Previously, I was working as a research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.
-        <br>
-        <span style="margin-left: 24%;" >Feel free to reach out to me at <a href="#">rishabhjain@gatech.edu</a></span>
+        Previously, I spent an year as a research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
+        I am actively looking for a summer internship at the intersection of machine learning and engineering. Please feel free to reach out to me at <a href="#">rishabhjain@gatech.edu</a>
     </div>
 
   </div>
@@ -26,7 +25,7 @@ layout: default
 
         <h2> News </h2>
         <ul>
-          <li>[Oct 2019] <a href="https://arxiv.org/pdf/1902.03570.pdf" target="_blank">EvalAI</a> accepted in <a href="http://learningsys.org/sosp19/index.html" target="_blank">AI systems workshop</a> at SOSP conference.</li>
+          <li><span style="width: 10%">[Oct 2019]</span> <a href="https://arxiv.org/pdf/1902.03570.pdf" target="_blank">EvalAI</a> accepted in <a href="http://learningsys.org/sosp19/index.html" target="_blank">AI systems workshop</a> at SOSP conference.</li>
           <li>[Aug 2019] Joined Georgia Tech as a Masters in Computer Science student.</li>
           <li>[Jun 2019] Presented <a href="https://evalai.cloudcv.org/" target="_blank">EvalAI</a> in Habitat Workshop at CVPR.</li>
           <li>[Mar 2019] Our paper <a href="https://arxiv.org/abs/1812.08658" target="_blank">nocaps: novel object captioning at scale</a> is accepted to ICCV!</li>
