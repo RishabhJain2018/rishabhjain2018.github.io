@@ -14,20 +14,15 @@
   <link rel="shortcut icon" type="image/x-icon" href="/images/contents/rj.png" />
   <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
   <meta property="og:type" content="website" />
-  <meta property="og:url"
-    content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url}}" />
-  {% if page.title %}
-  <meta property="og:title" content="{{ page.title }}" />{% endif %}
-  {% if page.excerpt %}
-  <meta property="og:description" content="{{ page.excerpt }}" />{% endif %}
+  <meta property="og:url" content="https://rishabhjain2018.github.io" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta property="og:image" content="https://rishabhjain2018.github.io/images/contents/rishabh_j.png" />
 
   <meta name="twitter:site" value="@rishabhjain2018" />
-  {% if page.title %}
-  <meta property="twitter:title" content="{{ page.title }}" />{% endif %}
-  {% if page.excerpt %}
-  <meta property="twitter:description" content="{{ page.excerpt }}" />{% endif %}
-  <meta property="twitter:image"
-    content="{% if page.preview_image %}{{ page.preview_image }}{% else %}https://rishabhjain2018.github.io/images/contents/rishabh_jain.jpg{% endif %}" />
+  <meta property="twitter:title" content="{{ page.title }}" />
+  <meta property="twitter:description" content="{{ page.description }}" />
+  <meta property="twitter:image" content="https://rishabhjain2018.github.io/images/contents/rishabh_j.jpg" />
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
