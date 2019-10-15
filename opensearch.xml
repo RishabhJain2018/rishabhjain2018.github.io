@@ -11,5 +11,5 @@
   <Url rel="self" type="application/opensearchdescription+xml" href="http://rishabhjain2018.github.io/opensearch.xml" />
   <Url method="get" type="text/html" 
       template="https://www.google.com/search?q={searchTerms}&amp;sitesearch=rishabhjain2018.github.io" />
-  <Image width="16" height="16">http://rishabhjain2018.github.io/images/contents/fav.png</Image>
+  <Image width="16" height="16">http://rishabhjain2018.github.io/images/contents/rj.png</Image>
 </OpenSearchDescription>
