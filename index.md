@@ -26,7 +26,7 @@ layout: default
         <h2> News </h2>
         <ul>
           <li><span style="width: 10%">[Oct 2019]</span> <a href="https://arxiv.org/pdf/1902.03570.pdf" target="_blank">EvalAI</a> accepted in <a href="http://learningsys.org/sosp19/index.html" target="_blank">AI systems workshop</a> at SOSP conference.</li>
-          <li>[Aug 2019] Joined Georgia Tech as a Masters in Computer Science student.</li>
+          <li>[Aug 2019] Joined Georgia Tech for Masters in Computer Science.</li>
           <li>[Jun 2019] Presented <a href="https://evalai.cloudcv.org/" target="_blank">EvalAI</a> in Habitat Workshop at CVPR.</li>
           <li>[Mar 2019] Our paper <a href="https://arxiv.org/abs/1812.08658" target="_blank">nocaps: novel object captioning at scale</a> is accepted to ICCV!</li>
           <li>[Feb 2019] Served as a <span class="border-bottom"><a href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">Google Summer of Code orgnization administrator</a></span> with CloudCV.</li>
