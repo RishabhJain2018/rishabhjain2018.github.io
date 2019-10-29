@@ -25,6 +25,7 @@ layout: default
 
         <h2> News </h2>
         <ul>
+          <li>[Oct 2019] Represented <a href="https://cloudcv.org/" target="_blank">CloudCV</a> at <a href="https://sites.google.com/view/gsoc-mentorsummit2019/home" target="_blank">Google Summer of Code Mentor Summit 2019 </a>, Munich Germany.</li>
           <li><span style="width: 10%">[Oct 2019]</span> <a href="https://arxiv.org/pdf/1902.03570.pdf" target="_blank">EvalAI</a> accepted in <a href="http://learningsys.org/sosp19/index.html" target="_blank">AI systems workshop</a> at SOSP conference.</li>
           <li>[Aug 2019] Joined Georgia Tech for Masters in Computer Science.</li>
           <li>[Jun 2019] Presented <a href="https://evalai.cloudcv.org/" target="_blank">EvalAI</a> in Habitat Workshop at CVPR.</li>
@@ -32,7 +33,7 @@ layout: default
           <li>[Feb 2019] Served as a <span class="border-bottom"><a href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">Google Summer of Code orgnization administrator</a></span> with CloudCV.</li>
           <li>[Jan 2019] Team Lead, <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
           <li>[Nov 2018] Served as a <span class="border-bottom"><a href="http://gci.cloudcv.org/" target="_blank">Google Code-In orgnization administrator</a></span> with CloudCV.</li>
-          <li>[Oct 2018] Represented <a href="https://cloudcv.org/" target="_blank">CloudCV</a> at <a href="https://summerofcode.withgoogle.com/organizations/5709446018236416/" target="_blank">Google Summer of Code Mentor Summit 2018 </a>, Google Sunnyvale.</li>
+          <li>[Oct 2018] Represented <a href="https://cloudcv.org/" target="_blank">CloudCV</a> at <a href="https://sites.google.com/view/gsoc-mentorsummit-2018/home" target="_blank">Google Summer of Code Mentor Summit 2018 </a>, Google Sunnyvale.</li>
           <li>[Jul 2018] Joined as a <span class="border-bottom"><a href="https://mlp.cc.gatech.edu/" target="_blank">Visiting Research Scholar</a></span> at Georgia Tech to work with <span class="border-bottom"><a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Dr. Dhruv Batra</a></span> & <span class="border-bottom"><a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a></span>.</li>
           <li>[Apr 2018] Served as a <span class="border-bottom"><a href="https://summerofcode.withgoogle.com/archive/2018/projects/4538857819209728/" target="_blank">Google Summer of Code mentor</a></span> with CloudCV.</li>
           <li>[Nov 2017] Served as a <span class="border-bottom"><a href="http://gci.cloudcv.org/2017/" target="_blank">Google Code In 2017 Mentor</a></span> with CloudCV.</li>
@@ -368,6 +369,7 @@ layout: default
         <h2> Talks </h2>
           <img class="images margin-btm-20" src="/images/contents/talk.png" />
         <ul>
+          <li>[Oct 2019] Represented CloudCV in <a href="https://sites.google.com/view/gsoc-mentorsummit2019/home" target="_blank">Google Summer of Code Mentor Summit</a> at Munich Germany. (<a href="https://drive.google.com/file/d/1X-facagynmwyp8ArTnT2uKi5cmx6BYp6/view?usp=sharing" target="_blank">Slides</a>)</li>
           <li>[Jun 2019] Presented EvalAI in <a href="https://aihabitat.org/workshop/2019/" target="_blank">Habitat workshop</a> at CVPR. (<a href="https://drive.google.com/file/d/1TzDHrkjudWDgv3IfN3ifOzJrEyvgCA6p/view" target="_blank">Slides</a>)</li>
           <li>[Oct 2018] Represented CloudCV in <a href="https://sites.google.com/view/gsoc-mentorsummit-2018/home" target="_blank">Google Summer of Code Mentor Summit</a> at Google Sunnyvale. (<a href="https://docs.google.com/presentation/d/1EUvzGOXSRyE5F59G4gn2HDD4u3Tq8ODTHiGj-otl1IY/edit?usp=sharing" target="_blank">Slides</a>)</li>
         </ul>
