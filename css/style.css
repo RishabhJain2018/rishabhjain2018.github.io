@@ -1065,6 +1065,11 @@ h5 {
   font-weight: 800;
   color: purple !important;
 }
+
+.conference-in-submission {
+  font-weight: 800;
+  color: brown !important;
+}
 span .rishabh {
   font-weight: 400 !important;
 }
@@ -1194,4 +1199,8 @@ a.social-icons:hover {
 
 .margin-btm-20 {
   margin-bottom: 10px;
+}
+.equal-contribution {
+  font-style: italic;
+  color: #555;
 }
