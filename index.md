@@ -122,7 +122,7 @@ layout: default
     </div>
 
     <div>
-      Built a visual chatbot which can hold a meaningful dialog with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history, and a question about the image, the chatbot will ground the question in image, infer context from history, and answer the question accurately. This demo is implemented using <a href="https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch" target="_blank">Late Fusion</a> model and <a href="https://arxiv.org/abs/1611.08669" target="_blank"> CVPR 2017 Paper</a>.
+      Built a visual chatbot which can hold a meaningful dialog with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history, and a question about the image, the chatbot will ground the question in image, infer context from history, and answer the question accurately. This demo is implemented using <a href="https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch" target="_blank">Late Fusion</a> model from <a href="https://arxiv.org/abs/1611.08669" target="_blank"> CVPR 2017 Paper</a>.
 
     </div>
 
@@ -291,7 +291,7 @@ layout: default
        <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo rs-gt"/></span>  
         Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2018 -- June 2019)</span>
         <div class="exp-desc">
-          Developed first of its kind, a large-scale benchmark for <span class="fw-400"> Novel Object Captioning </span> , consisting of <span class="fw-400"> 166, 100 captions</span> describing <span class= "fw-400">15, 100 images</span> containing more than <span class="fw-400">500 objects</span>, out of which more than 400 objects are never described in COCO captions dataset.
+          Developed first of its kind, a large-scale benchmark for <span class="fw-400"> Novel Object Captioning </span> , consisting of <span class="fw-400"> 166, 100 captions</span> describing <span class= "fw-400">15,100 images</span> containing more than <span class="fw-400">500 objects</span>, out of which more than 400 objects are never described in COCO captions dataset.
         </div>
 
     </div>
