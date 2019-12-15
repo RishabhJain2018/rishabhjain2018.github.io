@@ -128,8 +128,8 @@ layout: default
 
     <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/visual-chatbot on GitHub">Star</a> &nbsp; 
     <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/visual-dialog on GitHub">Fork</a>
-    <div>
-      <img class="images no-border" src="https://visualdialog.org/static/img/visdial/visdial_task.jpg">
+    <div class="padding-top-10">
+      <img class="images no-border" src="/images/contents/visdial_task.jpg">
     </div> 
 
     <div class="hr-line-projects"></div>
