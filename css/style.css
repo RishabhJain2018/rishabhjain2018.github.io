@@ -1204,3 +1204,43 @@ a.social-icons:hover {
   font-style: italic;
   color: #555;
 }
+.cloudcv {
+  margin-top: 1.3%;
+}
+.rs-gt {
+  margin-top: 1.5%;
+}
+.bullet-points {
+  font-weight: 400;
+  color: #000 !important;  
+}
+a.bullet-points:hover {
+  color: #28D !important;
+}
+.gsoc-mentor {
+  margin-top: 2.2%;
+}
+.gci {
+  margin-top: 4.3%;
+}
+.gsoc-student {
+  margin-top: 2%;
+}
+.pssi {
+  margin-top: 2%;
+}
+.ncs {
+  margin-top: 3%;
+}
+.gt-gra {
+  margin-top: 9.5%;
+}
+.color-black {
+  color: black;
+}
+a.color-black:hover{
+  color: #28D !important;
+}
+.guesswhich {
+  margin-top: 1.5%;
+}

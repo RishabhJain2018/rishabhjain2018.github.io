@@ -242,13 +242,11 @@ layout: default
   <div class="hentry remove-bottom">
 
     <div class="entry-summary">
-      <img src="/images/contents/cloudcv.png" alt="CloudCV" class=" home-thumbnail company-logo"/>
+      <img src="/images/contents/cloudcv.png" alt="CloudCV" class="home-thumbnail company-logo cloudcv"/>
       <span class="position">Team Lead</span> &nbsp; <br>
       <span class="period"> (Jan.2019 -- Present) </span>
       <div class="exp-desc">
-        Actively maintain CloudCV Project which aims to make AI research more reproducible.
-        Responsible for the design, development and maintenance of EvalAI that enable researchers to build, 
-        compare and share state-of-the-art algorithms.
+        Leading a team of <span class="fw-400">15+ contributors</span> to actively maintain <a href="https://cloudcv.org" target="_blank">CloudCV Project</a> which aims to make AI research more reproducible.
         </div>
 
     </div>
@@ -265,10 +263,15 @@ layout: default
   <div class="hentry remove-bottom">
 
     <div class="entry-summary">
-       <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo"></span>  
+       <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo gt-gra"></span>  
         Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2019 -- Present)</span>
         <div class="exp-desc">
-          Built an open source platform for evaluating  benchmarking AI models. We have hosted 40+ challenges with 5000+users, who have created 40, 000+ submissions. The project is open source with 90+ contributors, 750+ stars, 375+ forks. Some of the organizations using it are Google, Facebook, IBM, eBay etc.and research labs fromStanford, CMU, Georgia Tech, MIT etc.also use it to host their challenges.
+          <div class="evalai">
+            <a href="https://evalai.cloudcv.org" target="_blank" class="bullet-points">EvalAI:</a> Built an open source platform called as <a href="https://evalai.cloudcv.org" target="_blank"> EvalAI </a> for evaluating and benchmarking AI models. We have hosted <span class="fw-400"> 45+ challenges </span> with <span class="fw-400">5000+ users</span>, who have created <span class="fw-400">45, 000+ submissions</span>. The project is open source with <span class="fw-400">90+ contributors</span>, <span class="fw-400"> 800+ stars</span>, <span class="fw-400">400+ forks</span>. Some of the organizations using it are <span class="fw-400"> Google, Facebook, IBM, eBay etc.</span> and research labs from <span class="fw-400">Stanford, CMU, Georgia Tech, MIT etc. </span>also use it to host their challenges.
+          </div>
+          <div class="guesswhich">
+            <a class="bullet-points " href="#">GuessWhich: </a>Evaluating the role of interpretable explanations towards making a model predictable to a human. We are studying if explanations from model helps humans to predict the models behavior.
+          </div>
         </div>
 
     </div>
@@ -285,10 +288,10 @@ layout: default
   <div class="hentry remove-bottom">
 
     <div class="entry-summary">
-       <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo"/></span>  
+       <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo rs-gt"/></span>  
         Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2018 -- June 2019)</span>
         <div class="exp-desc">
-          Developed first of its kind large-scale benchmark for Novel Object Captioning, consisting of 166, 100 captions describing 15, 100 images containing more than 500 objects, out of which more than 400 objects are never described in COCO captions dataset.
+          Developed first of its kind, a large-scale benchmark for <span class="fw-400"> Novel Object Captioning </span> , consisting of <span class="fw-400"> 166, 100 captions</span> describing <span class= "fw-400">15, 100 images</span> containing more than <span class="fw-400">500 objects</span>, out of which more than 400 objects are never described in COCO captions dataset.
         </div>
 
     </div>
@@ -304,15 +307,20 @@ layout: default
   <div class="hentry  remove-bottom post">
 
     <div class="entry-summary">
-    <img src="/images/contents/gsoc2017.png" alt="Google Summer Of Code" class=" home-thumbnail company-logo" />
+    <img src="/images/contents/gsoc2017.png" alt="Google Summer Of Code" class=" home-thumbnail company-logo gsoc-mentor" />
         <a href="https://summerofcode.withgoogle.com/organizations/5709446018236416/#projects" target="_blank"><span class="fw-400">Organization Administrator <span class="period fw-300">(2019)</span></span></a>, <a href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank"><span class="fw-400">Organization Mentor <span class="period fw-300">(2018)</span></span></a>&nbsp; <br>
          <span class="period">(Feb 2018 -- Aug 2019)</span>
       <div class="exp-desc">
-          I was selected to lead the Google Summer of Code program from CloudCV in 2019 and in the previous year I served as a mentor to help university students in software development.
+        <div class="gsoc-2019">
+          <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">2019:</a> Led a team of <span class="fw-400">10+ mentors</span> and students to accomplish tasks proposed in <a href="https://gsoc.cloudcv.org/" target="_blank">GSoC Proposal</a>.
+        </div>
+        <div class="gsoc-2018">
+          <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank">2018:</a> Mentor a student to design a command line tool <a href="https://github.com/Cloud-CV/evalai-cli" target="_blank">(evalai-cli)</a> for EvalAI which lets the participants to install and use evalai as a python package.
         </div>
 
     </div>
 
+  </div>
   <div class="hr-line"></div>
   </div>
 
@@ -325,11 +333,19 @@ layout: default
   <div class="hentry remove-bottom">
 
     <div class="entry-summary">
-    <img src="/images/contents/gci.png" alt="Google Code In" class=" home-thumbnail company-logo"/>
-        <a href="http://gci.cloudcv.org/" target="_blank"><span class="fw-400">Organization Administrator <span class="period fw-300">(2018)</span></span></a>, <a href="http://gci.cloudcv.org/2017/" target="_blank"><span class="fw-400">Organization Mentor <span class="period fw-300">(2017)</span></span></a>&nbsp; <br>
-    <span class="period">(Nov.2017 -- Jan.2018)</span>
+    <img src="/images/contents/gci.png" alt="Google Code In" class=" home-thumbnail company-logo gci"/>
+        <a href="http://gci.cloudcv.org/" target="_blank"><span class="fw-400">Organization Administrator <span class="period fw-300">(2019, 2018)</span></span></a>, <a href="http://gci.cloudcv.org/2017/" target="_blank"><span class="fw-400">Organization Mentor <span class="period fw-300">(2017)</span></span></a>&nbsp; <br>
+    <span class="period">(Nov.2017 -- Present)</span>
     <div class="exp-desc">
-        I was selected to lead the Google Code In program from CloudCV in 2018 and in the previous year I served as a mentor to help high school students resolve their issues while contributing in open source project and also help them achieve better understanding in software development.
+        <div class="gci-2019">
+          <a class="bullet-points" href="#" target="_blank">2019:</a> Leading a team of <span class="fw-400">10+ mentors</span> on open source projects <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>, <a href="https://github.com/Cloud-CV/evalai-cli" target="_blank">EvalAI-cli</a>, <a href="https://github.com/Cloud-CV/EvalAI-ngx" target="_blank">EvalAI-ngx</a>.
+        </div>
+        <div class="gci-2018">
+          <a class="bullet-points" href="http://gci.cloudcv.org/" target="_blank">2018:</a> Led a team of <span class="fw-400">10+ mentors</span> to help high school students on open source projects EvalAI, Fabrik.
+        </div>
+        <div class="gci-2017">
+          <a class="bullet-points" href="http://gci.cloudcv.org/2017/" target="_blank">2017:</a> Mentored students to ramp up in open source projects in back-end and front-end technologies.
+        </div>
 
     </div>
 
@@ -347,11 +363,11 @@ layout: default
   <div class="hentry remove-bottom">
 
     <div class="entry-summary">
-    <img src="/images/contents/gsoc2017.png" alt="Google Summer Of Code" class=" home-thumbnail company-logo"/>
+    <img src="/images/contents/gsoc2017.png" alt="Google Summer Of Code" class=" home-thumbnail company-logo gsoc-student"/>
       <a href="https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/" target="_blank"><span class="fw-400">Student Developer</span> <span class="period fw-300">(2017)</span> <br></a>
       <span class="period">(May.2017 -- Aug.2017)</span>
     <div class="exp-desc">
-        In 2017, I was selected as GSoC student where I developed new features for hosting AI challenges in streamlined manner, implemented several analytics features for both participants and hosts in EvalAI.
+        In 2017, I was selected as GSoC student where I developed <a href="https://medium.com/@rishabhjain17/gsoc17-with-cloudcv-final-report-a50e964d2e87" target="_blank"> new features </a> for hosting AI challenges in streamlined manner, implemented several analytics features for both participants and hosts in <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>.
 
     </div>
 
@@ -370,11 +386,11 @@ layout: default
   <div class="hentry remove-bottom">
 
     <div class="entry-summary">
-    <img src="/images/contents/pythonindia.png" alt="Python India" class=" home-thumbnail company-logo"/>
+    <img src="/images/contents/pythonindia.png" alt="Python India" class=" home-thumbnail company-logo pssi"/>
         <span class="rishabh">Open Source Contributor</span> &nbsp; <br>
          <span class="period">(July 2016 -- Oct.2016)</span>
         <div class="exp-desc">
-        Developed the feature of user’s profile for <a href="https://github.com/pythonindia/junction/graphs/contributors" target="_blank">Junction</a> project. It is a software to manage proposals, reviews, schedule, feedback during conference.
+        Implemented several features in the <a href="https://github.com/pythonindia/junction/graphs/contributors" target="_blank">Junction</a> project including the feature of creating and managing users profile in the software. It is a software to manage proposals, reviews, schedule, feedback during conference.
         </div>
 
     </div>
@@ -396,7 +412,7 @@ layout: default
     <span class="rishabh">Software Developer Internship</span> &nbsp; <br>
     <span class="period">(Jun.2016 -- Aug.2016)</span>
       <div class="exp-desc">
-        Responsible for creating a platform for smile detection in which a classifier was trained for classifying smiling and unsmiling images using OpenCV, dlib python packages.
+        Responsible for developing a product which takes a video (an answer of a job interview question) as an input and outputs the accuracy on smiling behavior of the user by training an SVM classifier in the form of a web based demo.
       </div>
 
     </div>
@@ -414,12 +430,11 @@ layout: default
   <div class="hentry remove-bottom post">
 
     <div class="entry-summary">
-      <img src="/images/contents/ncs.jpeg" alt="Nibble Computer Society" class=" home-thumbnail company-logo"/>
+      <img src="/images/contents/ncs.jpeg" alt="Nibble Computer Society" class=" home-thumbnail company-logo ncs"/>
         <span class="rishabh">Organizing Member</span> &nbsp; <br>
         <span class="period">(Feb.2015 -- May 2017)</span>
     <div class="exp-desc">
-        Responsible for the development of REST APIs and managing the infrastructure of InfoConnect.
-        I was also responsible for Organizing college’s Tech-fest Zealicon along with its website and other management tasks.
+      Organized multiple code labs, seminars, workshops on OOPs, Advanced C, C++, Google Summer of Code, Git etc.and mentored <span class="fw-400">30+ undergraduate students</span> on software development.  I was also responsible for organizing college’sannual techno-cultural fest Zealicon.
 
     </div>
 
