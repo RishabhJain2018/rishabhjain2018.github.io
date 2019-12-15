@@ -461,7 +461,7 @@ layout: default
   <!-- Georgia Institute of Technology -->
   <div>
 
-        <img src="/images/contents/gt.png" alt="Georgia Institute of Technology" class="home-thumbnail" style="float: right; height: 90px; width: auto; "/>
+        <img src="/images/contents/gt.png" alt="Georgia Institute of Technology" class="home-thumbnail" style="float: right; height: 90px; width: auto; margin-top: 1%;"/>
         <h5> Masters in Computer Science</h5>
         <span>Georgia Institute of Technology, Atlanta, USA </span> &nbsp; <br>
         <span class="period">(Aug 2019 -- Present)</span>
@@ -472,7 +472,7 @@ layout: default
 
   <div>
 
-        <img src="/images/contents/jss.jpg" alt="Georgia Institute of Technology" class="home-thumbnail company-logo"/>
+        <img src="/images/contents/jss.jpg" alt="Georgia Institute of Technology" class="home-thumbnail company-logo margin-top-2"/>
         <h5> Bachelor of Technology in Computer Science and Engineering</h5>
         <span>JSS Academy of Technical Education, Noida, India </span> &nbsp; <br>
         <span class="period">(Aug 2014 -- May 2018)</span>
