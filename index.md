@@ -431,7 +431,7 @@ layout: default
     <div class="entry-summary">
       <img src="/images/contents/ncs.jpeg" alt="Nibble Computer Society" class=" home-thumbnail company-logo ncs"/>
         <span class="rishabh">Organizing Member</span> &nbsp; <br>
-        <span class="period">(Feb 2015 -- May 2017)</span>
+        <span class="period">(Feb 2015 -- May 2018)</span>
     <div class="exp-desc">
       Organized multiple code labs, seminars, workshops on OOPs, Advanced C, C++, Google Summer of Code, Git etc.and mentored <span class="fw-400">30+ undergraduate students</span> on software development.  I was also responsible for organizing college’sannual techno-cultural fest Zealicon.
 
