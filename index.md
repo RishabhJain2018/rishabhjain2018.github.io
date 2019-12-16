@@ -88,7 +88,7 @@ layout: default
 
     <h5><a href="https://github.com/Cloud-CV/Fabrik" target="_blank">Fabrik:</a> Collaboratively build, visualize, and design neural nets in browser</h5>
     <span>An online collaborative platform to build, visualize and train deep learning models via a simple drag-and-drop interface in browser. It has <span class="fw-400"> 45+ open source contributors.</span></span><br>
-    <a class="github-button" href="https://github.com/Cloud-CV/Fabrik" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/Fabrik on GitHub">Star</a> &nbsp; 
+    <a class="github-button" href="https://github.com/Cloud-CV/Fabrik" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/Fabrik on GitHub">Star</a> &nbsp;
     <a class="github-button" href="https://github.com/Cloud-CV/Fabrik/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/Fabrik on GitHub">Fork</a>
     <div class="padding-top-10">
 
@@ -103,7 +103,7 @@ layout: default
 
     <h5><a href="https://vqa.cloudcv.org/" target="_blank">VQA</a>: Visual Question Answering Demo</h5>
     <span>In Visual Question Answering, given an image and a free-form natural language question about the image (e.g., "What kind of store is this?", "How many people are waiting in the queue?", "Is it safe to cross the street?") the model's task is to automatically produce a concise, accurate, free-form, natural language answer ("bakery", "5", "Yes"). This demo is implemented using <a href="https://github.com/facebookresearch/pythia" target="_blank">Pythia</a> model.</span><br>
-    <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp; 
+    <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp;
     <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a>
     <div class="padding-top-10">
 
@@ -126,11 +126,11 @@ layout: default
 
     </div>
 
-    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/visual-chatbot on GitHub">Star</a> &nbsp; 
+    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/visual-chatbot on GitHub">Star</a> &nbsp;
     <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/visual-dialog on GitHub">Fork</a>
     <div class="padding-top-10">
       <img class="images no-border" src="/images/contents/visdial_task.jpg">
-    </div> 
+    </div>
 
     <div class="hr-line-projects"></div>
 
@@ -139,7 +139,7 @@ layout: default
 
     <h5><a href="http://doodle.cloudcv.org/" target="_blank">Trick or TReAT:</a> Thematic Reinforcement for Artistic Typography Demo</h5>
     <span>Given an input word (e.g.exam) and a theme (e.g.education), the individual letters of the input word are replaced by cliparts relevant to the theme which visually resemble the letters - adding creative context to the potentially boring input word.</span><br>
-    <!-- <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp; 
+    <!-- <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp;
     <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a> -->
     <div class="padding-top-10">
 
@@ -155,7 +155,7 @@ layout: default
 
     <h5><a href="http://210.212.85.155:8082/" target="_blank">JSS InfoConnect</a>: Information Center for College</h5>
     <span>Web based <span class="fw-400">officially recognized</span> application that acts as a medium for interaction between all students, faculties and management of JSSATE, Noida. It serves <span class="fw-400">10, 000+</span> requests per day, <span class="fw-400">20, 000+ registered users</span>, <span class="fw-400">20, 000+</span> notices/documents uploaded along with <span class="fw-400">3 million</span> page views since it’s launch in 2016.</span> <br>
-    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star ncs-jss/HTTP_200 on GitHub">Star</a> &nbsp; 
+    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star ncs-jss/HTTP_200 on GitHub">Star</a> &nbsp;
     <a class="github-button" href="https://github.com/ncs-jss/HTTP_200/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork ncs-jss/HTTP_200 on GitHub">Fork</a>
     <div class="padding-top-10">
 
@@ -232,7 +232,6 @@ layout: default
 
         <h2 class="padding-bottom-10"> Experience </h2>
 
-  
 <!-- CloudCV -->
   <div>
 
@@ -263,7 +262,7 @@ layout: default
   <div class="hentry remove-bottom">
 
     <div class="entry-summary">
-       <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo gt-gra"></span>  
+       <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo gt-gra"></span>
         Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2019 -- Present)</span>
         <div class="exp-desc">
           <div class="evalai">
@@ -288,7 +287,7 @@ layout: default
   <div class="hentry remove-bottom">
 
     <div class="entry-summary">
-       <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo rs-gt"/></span>  
+       <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo rs-gt"/></span>
         Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2018 -- June 2019)</span>
         <div class="exp-desc">
           Developed first of its kind, a large-scale benchmark for <span class="fw-400"> Novel Object Captioning </span> , consisting of <span class="fw-400"> 166, 100 captions</span> describing <span class= "fw-400">15,100 images</span> containing more than <span class="fw-400">500 objects</span>, out of which more than 400 objects are never described in COCO captions dataset.
@@ -409,7 +408,7 @@ layout: default
 
     <div class="entry-summary">
     <img src="/images/contents/iaugmentor.png" alt="iAugmentor" class=" home-thumbnail company-logo"/>
-    <span class="rishabh">Software Developer Internship</span> &nbsp; <br>
+    <span class="rishabh">Software Developer Intern, Machine Learning</span> &nbsp; <br>
     <span class="period">(Jun 2016 -- Aug 2016)</span>
       <div class="exp-desc">
         Responsible for developing a product which takes a video (an answer of a job interview question) as an input and outputs the accuracy on smiling behavior of the user by training an SVM classifier in the form of a web based demo.
@@ -483,4 +482,3 @@ layout: default
 
   </div>
 </div>
-
