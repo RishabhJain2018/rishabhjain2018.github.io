@@ -335,7 +335,7 @@ layout: default
     <div class="entry-summary">
     <img src="/images/contents/gci.png" alt="Google Code In" class=" home-thumbnail company-logo gci"/>
         <a href="http://gci.cloudcv.org/" target="_blank"><span class="fw-400">Organization Administrator <span class="period fw-300">(2019, 2018)</span></span></a>, <a href="http://gci.cloudcv.org/2017/" target="_blank"><span class="fw-400">Organization Mentor <span class="period fw-300">(2017)</span></span></a>&nbsp; <br>
-    <span class="period">(Nov.2017 -- Present)</span>
+    <span class="period">(Nov 2017 -- Present)</span>
     <div class="exp-desc">
         <div class="gci-2019">
           <a class="bullet-points" href="#" target="_blank">2019:</a> Leading a team of <span class="fw-400">10+ mentors</span> on open source projects <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>, <a href="https://github.com/Cloud-CV/evalai-cli" target="_blank">EvalAI-cli</a>, <a href="https://github.com/Cloud-CV/EvalAI-ngx" target="_blank">EvalAI-ngx</a>.
@@ -365,7 +365,7 @@ layout: default
     <div class="entry-summary">
     <img src="/images/contents/gsoc2017.png" alt="Google Summer Of Code" class=" home-thumbnail company-logo gsoc-student"/>
       <a href="https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/" target="_blank"><span class="fw-400">Student Developer</span> <span class="period fw-300">(2017)</span> <br></a>
-      <span class="period">(May.2017 -- Aug.2017)</span>
+      <span class="period">(May 2017 -- Aug 2017)</span>
     <div class="exp-desc">
         In 2017, I was selected as GSoC student where I developed <a href="https://medium.com/@rishabhjain17/gsoc17-with-cloudcv-final-report-a50e964d2e87" target="_blank"> new features </a> for hosting AI challenges in streamlined manner, implemented several analytics features for both participants and hosts in <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>.
 
@@ -388,7 +388,7 @@ layout: default
     <div class="entry-summary">
     <img src="/images/contents/pythonindia.png" alt="Python India" class=" home-thumbnail company-logo pssi"/>
         <span class="rishabh">Open Source Contributor</span> &nbsp; <br>
-         <span class="period">(July 2016 -- Oct.2016)</span>
+         <span class="period">(July 2016 -- Oct 2016)</span>
         <div class="exp-desc">
         Implemented several features in the <a href="https://github.com/pythonindia/junction/graphs/contributors" target="_blank">Junction</a> project including the feature of creating and managing users profile in the software. It is a software to manage proposals, reviews, schedule, feedback during conference.
         </div>
@@ -410,7 +410,7 @@ layout: default
     <div class="entry-summary">
     <img src="/images/contents/iaugmentor.png" alt="iAugmentor" class=" home-thumbnail company-logo"/>
     <span class="rishabh">Software Developer Internship</span> &nbsp; <br>
-    <span class="period">(Jun.2016 -- Aug.2016)</span>
+    <span class="period">(Jun 2016 -- Aug 2016)</span>
       <div class="exp-desc">
         Responsible for developing a product which takes a video (an answer of a job interview question) as an input and outputs the accuracy on smiling behavior of the user by training an SVM classifier in the form of a web based demo.
       </div>
@@ -432,7 +432,7 @@ layout: default
     <div class="entry-summary">
       <img src="/images/contents/ncs.jpeg" alt="Nibble Computer Society" class=" home-thumbnail company-logo ncs"/>
         <span class="rishabh">Organizing Member</span> &nbsp; <br>
-        <span class="period">(Feb.2015 -- May 2017)</span>
+        <span class="period">(Feb 2015 -- May 2017)</span>
     <div class="exp-desc">
       Organized multiple code labs, seminars, workshops on OOPs, Advanced C, C++, Google Summer of Code, Git etc.and mentored <span class="fw-400">30+ undergraduate students</span> on software development.  I was also responsible for organizing college’sannual techno-cultural fest Zealicon.
 
