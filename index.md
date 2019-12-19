@@ -465,8 +465,8 @@ layout: default
         <span>Georgia Institute of Technology, Atlanta, USA </span> &nbsp; <br>
         <span class="period">(Aug 2019 -- Present)</span>
       <ul>
-        <li><i> Specialization in Machine Learning </i></li>
-        <li class="fw-400"><i> Current GPA: 4.0/4.0 </i></li>
+        <li>Specialization in Machine Learning</li>
+        <li class="fw-400">Current GPA: 4.0/4.0</li>
       </ul>
     <div class="hr-line-projects"></div>
 
