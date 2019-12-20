@@ -9,7 +9,7 @@ layout: default
 
     <img src="/images/contents/rishabh_j.png" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
     <div class="entry-summary">
-            I'm a first year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a>.  I work at the junction of machine learning and software engineering.
+            I'm a first year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a>.  I want to build tools for reproducible AI research and is quite excited to build large scale machine learning systems which will help in training, testing and visualizing machine learning models.
         <br>
         I'm currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> on setting up a robust pipeline for uploading machine learning model code in the form of docker containers which will be evaluated on remote machines and the results will be displayed on the <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> leaderboard.<br>
         I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a> where we are building tools for reproducible AI research.
@@ -126,10 +126,11 @@ layout: default
 
     </div>
 
-    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/visual-chatbot on GitHub">Star</a> &nbsp;
+    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/visual-chatbot on GitHub">Star</a> &nbsp; 
     <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/visual-dialog on GitHub">Fork</a>
     <div class="padding-top-10">
       <img class="images no-border" src="/images/contents/visdial_task.jpg">
+
     </div>
 
     <div class="hr-line-projects"></div>
@@ -460,7 +461,7 @@ layout: default
   <!-- Georgia Institute of Technology -->
   <div>
 
-        <img src="/images/contents/gt.png" alt="Georgia Institute of Technology" class="home-thumbnail" style="float: right; height: 90px; width: auto; margin-top: 1%;"/>
+        <img src="/images/contents/gt.png" alt="Georgia Institute of Technology" class="home-thumbnail" style="float: right; height: 90px; width: auto; margin-top: 1%; "/>
         <h5> Masters in Computer Science</h5>
         <span>Georgia Institute of Technology, Atlanta, USA </span> &nbsp; <br>
         <span class="period">(Aug 2019 -- Present)</span>
@@ -468,6 +469,7 @@ layout: default
         <li>Specialization in Machine Learning</li>
         <li class="fw-400">Current GPA: 4.0/4.0</li>
       </ul>
+
     <div class="hr-line-projects"></div>
 
   </div>
@@ -485,3 +487,4 @@ layout: default
 
   </div>
 </div>
+
