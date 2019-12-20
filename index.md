@@ -213,7 +213,7 @@ layout: default
     <div class="hr-line"></div>
 
           <div>
-          <h5>Dialog without Dialog: Learning Image-Discriminative DialogPolicies from Single-Shot QuestionAnswering Data</h5>
+          <h5>Dialog without Dialog: Learning Image-Discriminative DialogPolicies from Single-Shot Question Answering Data</h5>
           <div class="author-names">Michael Cogswell*, Jiasen Lu*, <span class="rishabh">Rishabh Jain</span>, Stefan Lee, Dhruv Batra, Devi Parikh</div>
           <div>
             <span class="padding-right-20"> <a href="" target="_blank" class="conference-in-submission">In Submission</a></span>
