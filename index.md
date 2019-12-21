@@ -71,7 +71,7 @@ layout: default
   <div>
 
     <h5><a href="https://evalai.cloudcv.org/" target="_blank">EvalAI:</a> Towards Better Evaluation Systems for AI Agents</h5>
-    <span>Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">45+ AI challenges</span> with <span class="fw-400">5500+  users</span>, who have created <span class="fw-400">45,000+ submissions</span>. The project is open source with <span class="fw-400">90+ contributors,</span> and <span class="fw-400"> 1.2+ million pageviews.</span> Some of the organizations using it are <span class="fw-400">Google, Facebook, IBM, eBay, etc.</span> and research labs from <span class="fw-400"> Stanford, CMU, Georgia Tech, MIT etc.</span> also use it for hosting their challenges.
+    <span>Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">45+ AI challenges</span> with <span class="fw-400">5500+  users</span>, who have created <span class="fw-400">45,000+ submissions</span>. The project is open source with <span class="fw-400">90+ contributors,</span> and <span class="fw-400"> 1.2+ million pageviews.</span> Some of the organizations using it are <span class="fw-400">Google, Facebook, IBM, eBay, etc.</span> and research labs from <span class="fw-400"> Stanford, CMU, Georgia Tech, MIT etc.</span> also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
     <div>
         <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star Cloud-CV/EvalAI on GitHub">Star</a> &nbsp;
         <a class="github-button" href="https://github.com/Cloud-CV/EvalAI/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/EvalAI on GitHub">Fork</a>
@@ -126,7 +126,7 @@ layout: default
 
     </div>
 
-    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/visual-chatbot on GitHub">Star</a> &nbsp; 
+    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/visual-chatbot on GitHub">Star</a> &nbsp;
     <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/visual-dialog on GitHub">Fork</a>
     <div class="padding-top-10">
       <img class="images no-border" src="/images/contents/visdial_task.jpg">
@@ -267,7 +267,7 @@ layout: default
         Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2019 -- Present)</span>
         <div class="exp-desc">
           <div class="evalai">
-            <a href="https://evalai.cloudcv.org" target="_blank" class="bullet-points">EvalAI:</a> Built an open source platform called as <a href="https://evalai.cloudcv.org" target="_blank"> EvalAI </a> for evaluating and benchmarking AI models. We have hosted <span class="fw-400"> 45+ challenges </span> with <span class="fw-400">5000+ users</span>, who have created <span class="fw-400">45, 000+ submissions</span>. The project is open source with <span class="fw-400">90+ contributors</span>, <span class="fw-400"> 800+ stars</span>, <span class="fw-400">400+ forks</span>. Some of the organizations using it are <span class="fw-400"> Google, Facebook, IBM, eBay etc.</span> and research labs from <span class="fw-400">Stanford, CMU, Georgia Tech, MIT etc. </span>also use it to host their challenges.
+            <a href="https://evalai.cloudcv.org" target="_blank" class="bullet-points">EvalAI:</a> Built an open source platform called as <a href="https://evalai.cloudcv.org" target="_blank"> EvalAI </a> for evaluating and benchmarking AI models. We have hosted <span class="fw-400"> 45+ challenges </span> with <span class="fw-400">5000+ users</span>, who have created <span class="fw-400">45, 000+ submissions</span>. The project is open source with <span class="fw-400">90+ contributors</span>, <span class="fw-400"> 800+ stars</span>, <span class="fw-400">400+ forks</span>. Some of the organizations using it are <span class="fw-400"> Google, Facebook, IBM, eBay etc.</span> and research labs from <span class="fw-400">Stanford, CMU, Georgia Tech, MIT etc. </span>also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
           </div>
           <div class="guesswhich">
             <a class="bullet-points " href="#">GuessWhich: </a>Evaluating the role of interpretable explanations towards making a model predictable to a human. We are studying if explanations from model helps humans to predict the models behavior.
@@ -487,4 +487,3 @@ layout: default
 
   </div>
 </div>
-
