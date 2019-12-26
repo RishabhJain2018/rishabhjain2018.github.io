@@ -390,7 +390,7 @@ layout: default
         <span class="rishabh">Open Source Contributor</span> &nbsp; <br>
          <span class="period">(July 2016 -- Oct 2016)</span>
         <div class="exp-desc">
-        Implemented several features in the <a href="https://github.com/pythonindia/junction/graphs/contributors" target="_blank">Junction</a> project including the feature of creating and managing users profile in the software. It is a software to manage proposals, reviews, schedule, feedback during conference.
+        Implemented several features in the <a href="https://github.com/pythonindia/junction/graphs/contributors" target="_blank">Junction</a> project including the feature of creating and managing users profile in the software. It is a software to manage proposals, reviews, schedules, feedback during the conference.
         </div>
 
     </div>
@@ -487,3 +487,4 @@ layout: default
 
   </div>
 </div>
+
