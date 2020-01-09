@@ -9,7 +9,7 @@ layout: default
 
     <img src="/images/contents/rishabh_j.png" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
     <div class="entry-summary">
-            I'm a first year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a>.  I want to build tools for reproducible AI research and is quite excited to build large scale machine learning systems which will help in training, testing and visualizing machine learning models.
+            I'm a first year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a>.  I want to build tools for reproducible AI research and am quite excited to build large scale machine learning systems which will help in training, testing and visualizing machine learning models.
         <br>
         I'm currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> on setting up a robust pipeline for uploading machine learning model code in the form of docker containers which will be evaluated on remote machines and the results will be displayed on the <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> leaderboard.<br>
         I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a> where we are building tools for reproducible AI research.
@@ -71,7 +71,7 @@ layout: default
   <div>
 
     <h5><a href="https://evalai.cloudcv.org/" target="_blank">EvalAI:</a> Towards Better Evaluation Systems for AI Agents</h5>
-    <span>Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">45+ AI challenges</span> with <span class="fw-400">5500+  users</span>, who have created <span class="fw-400">45,000+ submissions</span>. The project is open source with <span class="fw-400">90+ contributors,</span> and <span class="fw-400"> 1.2+ million pageviews.</span> Some of the organizations using it are <span class="fw-400">Google, Facebook, IBM, eBay, etc.</span> and research labs from <span class="fw-400"> Stanford, CMU, Georgia Tech, MIT etc.</span> also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
+    <span>Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">45+ AI challenges</span> with <span class="fw-400">5500+  users</span>, who have created <span class="fw-400">45,000+ submissions</span>. The project is open source with <span class="fw-400">90+ contributors,</span> and <span class="fw-400"> 1.2+ million pageviews.</span> Some of the organizations using it are <span class="fw-400">Google, Facebook, IBM, eBay, etc.</span> and research labs from <span class="fw-400"> Stanford, CMU, Georgia Tech, MIT, etc.</span> also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
     <div>
         <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star Cloud-CV/EvalAI on GitHub">Star</a> &nbsp;
         <a class="github-button" href="https://github.com/Cloud-CV/EvalAI/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/EvalAI on GitHub">Fork</a>
@@ -206,7 +206,7 @@ layout: default
           <h5>Evaluating visual and text explanations in an interactive, goal-driven human-AI task</h5>
           <div class="author-names">Arjun Chandrasekaran, <span class="rishabh">Rishabh Jain</span>, Karan Desai, Kerry Moffitt, Jeff Miller, David Diller, Bill Ferguson, Devi Parikh</div>
           <div>
-            <span class="padding-right-20"> <a href="#" target="_blank" class="conference-in-submission">In Submission</a></span>
+            <span class="padding-right-20"> <a href="#" target="_blank" class="conference-in-submission">Under Review</a></span>
           </div>
         </div>
 
@@ -216,7 +216,7 @@ layout: default
           <h5>Dialog without Dialog: Learning Image-Discriminative Dialog Policies from Single-Shot Question Answering Data</h5>
           <div class="author-names">Michael Cogswell*, Jiasen Lu*, <span class="rishabh">Rishabh Jain</span>, Stefan Lee, Dhruv Batra, Devi Parikh</div>
           <div>
-            <span class="padding-right-20"> <a href="" target="_blank" class="conference-in-submission">In Submission</a></span>
+            <span class="padding-right-20"> <a href="" target="_blank" class="conference-in-submission">Under Review</a></span>
           </div>
         </div>
     <div class="padding-top-10 equal-contribution">
@@ -487,4 +487,3 @@ layout: default
 
   </div>
 </div>
-
