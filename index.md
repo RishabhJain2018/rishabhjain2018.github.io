@@ -9,9 +9,9 @@ layout: default
 
     <img src="/images/contents/rishabh_j.png" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
     <div class="entry-summary">
-            I'm a first year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a>.  I want to build tools for reproducible AI research and am quite excited to build large scale machine learning systems which will help in training, testing and visualizing machine learning models.
+            I'm a first year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a>.  I want to build tools for reproducible AI research and am quite excited to build large scale machine learning systems which will help in training, testing and visualizing machine learning models.
         <br>
-        I'm currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> on setting up a robust pipeline for uploading machine learning model code in the form of docker containers which will be evaluated on remote machines and the results will be displayed on the <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> leaderboard.<br>
+        I'm currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> on setting up a robust pipeline for uploading machine learning model code in the form of docker containers which will be evaluated on remote machines and the results will be displayed on the <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> leaderboard.<br>
         I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a> where we are building tools for reproducible AI research.
         <br>
         Previously, I spent an year as a research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
@@ -35,7 +35,7 @@ layout: default
           <li>[Jan 2019] Team Lead, <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
           <li>[Nov 2018] Served as a <span class="border-bottom"><a href="http://gci.cloudcv.org/" target="_blank">Google Code-In orgnization administrator</a></span> with CloudCV.</li>
           <li>[Oct 2018] Represented <a href="https://cloudcv.org/" target="_blank">CloudCV</a> at <a href="https://sites.google.com/view/gsoc-mentorsummit-2018/home" target="_blank">Google Summer of Code Mentor Summit 2018 </a>, Google Sunnyvale.</li>
-          <li>[Jul 2018] Joined as a <span class="border-bottom"><a href="https://mlp.cc.gatech.edu/" target="_blank">Visiting Research Scholar</a></span> at Georgia Tech to work with <span class="border-bottom"><a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Dr. Dhruv Batra</a></span> & <span class="border-bottom"><a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a></span>.</li>
+          <li>[Jul 2018] Joined as a <span class="border-bottom"><a href="https://mlp.cc.gatech.edu/" target="_blank">Visiting Research Scholar</a></span> at Georgia Tech to work with <span class="border-bottom"><a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Prof. Dhruv Batra</a></span> & <span class="border-bottom"><a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a></span>.</li>
           <li>[Apr 2018] Served as a <span class="border-bottom"><a href="https://summerofcode.withgoogle.com/archive/2018/projects/4538857819209728/" target="_blank">Google Summer of Code mentor</a></span> with CloudCV.</li>
           <li>[Nov 2017] Served as a <span class="border-bottom"><a href="http://gci.cloudcv.org/2017/" target="_blank">Google Code In 2017 Mentor</a></span> with CloudCV.</li>
           <li>[May 2017] Selected as a <span class="border-bottom"><a href="https://summerofcode.withgoogle.com/archive/2017/projects/4507838760091648/" target="_blank">Google Summer of Code student</a></span>  with CloudCV.</li>
@@ -264,7 +264,7 @@ layout: default
 
     <div class="entry-summary">
        <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo gt-gra"></span>
-        Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2019 -- Present)</span>
+        Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2019 -- Present)</span>
         <div class="exp-desc">
           <div class="evalai">
             <a href="https://evalai.cloudcv.org" target="_blank" class="bullet-points">EvalAI:</a> Built an open source platform called as <a href="https://evalai.cloudcv.org" target="_blank"> EvalAI </a> for evaluating and benchmarking AI models. We have hosted <span class="fw-400"> 45+ challenges </span> with <span class="fw-400">5000+ users</span>, who have created <span class="fw-400">45, 000+ submissions</span>. The project is open source with <span class="fw-400">90+ contributors</span>, <span class="fw-400"> 800+ stars</span>, <span class="fw-400">400+ forks</span>. Some of the organizations using it are <span class="fw-400"> Google, Facebook, IBM, eBay etc.</span> and research labs from <span class="fw-400">Stanford, CMU, Georgia Tech, MIT etc. </span>also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
@@ -289,7 +289,7 @@ layout: default
 
     <div class="entry-summary">
        <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo rs-gt"/></span>
-        Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Dr. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Dr. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2018 -- June 2019)</span>
+        Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2018 -- June 2019)</span>
         <div class="exp-desc">
           Developed first of its kind, a large-scale benchmark for <span class="fw-400"> Novel Object Captioning </span> , consisting of <span class="fw-400"> 166, 100 captions</span> describing <span class= "fw-400">15,100 images</span> containing more than <span class="fw-400">500 objects</span>, out of which more than 400 objects are never described in COCO captions dataset.
         </div>
@@ -487,3 +487,4 @@ layout: default
 
   </div>
 </div>
+
