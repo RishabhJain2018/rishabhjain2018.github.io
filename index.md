@@ -125,7 +125,7 @@ layout: default
 
     <div>
       Built a visual chatbot which can hold a meaningful dialog with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history, and a question about the image, the chatbot will ground the question in image, infer context from history, and answer the question accurately. This demo is implemented using <a href="https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch" target="_blank">Late Fusion</a> model from <a href="https://arxiv.org/abs/1611.08669" target="_blank"> CVPR 2017 Paper</a>. It has
-    <span class="fw-400">120k+ pageviews</span> and <span class="fw-400">60,000+ unique visitors</span> have used it.
+    <span class="fw-400">120K+ pageviews</span> and <span class="fw-400">60,000+ unique visitors</span> have used it.
 
     </div>
 
