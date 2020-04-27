@@ -7,7 +7,7 @@ layout: default
   <hr />
   <div class="hentry">
 
-    <img src="/images/contents/rishabh_j.png" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
+    <img src="/images/contents/rishabh_jain.png" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
     <div class="entry-summary">
             I'm a first year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a>.  I want to build tools for reproducible AI research and am quite excited to build large scale machine learning systems which will help in training, testing and visualizing machine learning models.
         <br>
