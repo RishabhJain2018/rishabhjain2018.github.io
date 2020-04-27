@@ -139,10 +139,27 @@ layout: default
     <div class="hr-line-projects"></div>
 
   </div>
+
+  <div>
+
+    <h5><a href="http://vilbert.cloudcv.org/" target="_blank">12-in-1: </a> Multi-Task Vision and Language Representation Learning Web Demo</h5>
+    <span>Built a demo of a single model <span class="fw-400">trained on 12 datasets</span> from four broad categories of tasks including visual question answering, caption-based image retrieval, grounding referring expressions, and multi-modal verification and compared to independently trained single-task models, this represents a reduction from approximately 3 billion parameters to 270 million while simultaneously improving performance by 2.05 points on average across tasks.  It has <span class="fw-400">1k+ pageviews</span> and <span class="fw-400">800+ unique visitors</span> have used it.</span><br>
+
+    <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp;
+    <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a>
+    <div class="padding-top-10">
+
+    </div>
+
+    <div class="hr-line-projects"></div>
+
+  </div>
+
   <div>
 
     <h5><a href="http://doodle.cloudcv.org/" target="_blank">Trick or TReAT:</a> Thematic Reinforcement for Artistic Typography Demo</h5>
     <span>Given an input word (e.g.exam) and a theme (e.g.education), the individual letters of the input word are replaced by cliparts relevant to the theme which visually resemble the letters - adding creative context to the potentially boring input word.</span><br>
+
     <!-- <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp;
     <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a> -->
     <div class="padding-top-10">
