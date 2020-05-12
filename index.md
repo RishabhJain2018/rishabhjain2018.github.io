@@ -16,9 +16,11 @@ layout: default
         <br>
         Previously, I spent an year as a research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
         Please feel free to reach out to me at <a href="#">rishabhjain@gatech.edu</a>
+
     </div>
+
   </div>
-<!-- I am actively looking for a summer internship at the intersection of machine learning and engineering.  -->
+
   <!-- News Section -->
   <div class="hentry-no-border post">
 
