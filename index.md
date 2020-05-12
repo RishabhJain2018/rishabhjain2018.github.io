@@ -15,12 +15,10 @@ layout: default
         I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a> where we are building tools for reproducible AI research.
         <br>
         Previously, I spent an year as a research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
-        I am actively looking for a summer internship at the intersection of machine learning and engineering. Please feel free to reach out to me at <a href="#">rishabhjain@gatech.edu</a>
-
+        Please feel free to reach out to me at <a href="#">rishabhjain@gatech.edu</a>
     </div>
-
   </div>
-
+<!-- I am actively looking for a summer internship at the intersection of machine learning and engineering.  -->
   <!-- News Section -->
   <div class="hentry-no-border post">
 
