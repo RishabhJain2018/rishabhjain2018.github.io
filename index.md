@@ -9,7 +9,7 @@ layout: default
 
     <img src="/images/contents/rishabh_jain.jpg" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
     <div class="entry-summary">
-            I'm a first year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a>.  I want to build tools for reproducible AI research and am quite excited to build large scale machine learning systems which will help in training, testing and visualizing machine learning models.
+            I'm a first year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a>.  I want to build tools for reproducible AI research and am quite excited to build scalable softwares which will help in evaluating machine learning models in real-time on static/dynamic test datasets.
         <br>
         I'm currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> on setting up a robust pipeline for uploading machine learning model code in the form of docker containers which will be evaluated on remote machines and the results will be displayed on the <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> leaderboard.<br>
         I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a> where we are building tools for reproducible AI research.
@@ -27,8 +27,9 @@ layout: default
         <h2> News </h2>
         <ul>
           <li style="color: darkorange;">[Jun 2020] Invited speaker <a href="http://cvpr2020.thecvf.com/" target="_blank"> CVPR 2020</a> conference at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
-          <li style="color: darkorange;">[Feb 2020] Organization Administrator for <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code 2020</a> with <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
-          <li style="color: darkorange;">[Feb 2020] <a href="https://cloudcv.org/" target="_blank">CloudCV</a> selected as a mentoring organization in <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code</a> for the 6th time in a row.</li>
+          <li style="color: darkorange;">[May 2020] Joined <a href="https://www.ebay.com/" target="_blank">eBay</a> as a summer intern with structured data and applied research team.</li>
+          <li>[Feb 2020] Organization Administrator for <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code 2020</a> with <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
+          <li>[Feb 2020] <a href="https://cloudcv.org/" target="_blank">CloudCV</a> selected as a mentoring organization in <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code</a> for the 6th time in a row.</li>
           <li>[Oct 2019] Represented <a href="https://cloudcv.org/" target="_blank">CloudCV</a> at <a href="https://sites.google.com/view/gsoc-mentorsummit2019/home" target="_blank">Google Summer of Code Mentor Summit 2019 </a>, Munich Germany.</li>
           <li><span style="width: 10%">[Oct 2019]</span> <a href="https://arxiv.org/pdf/1902.03570.pdf" target="_blank">EvalAI</a> accepted in <a href="http://learningsys.org/sosp19/index.html" target="_blank">AI systems workshop</a> at SOSP conference.</li>
           <li>[Aug 2019] Joined Georgia Tech for Masters in Computer Science.</li>
