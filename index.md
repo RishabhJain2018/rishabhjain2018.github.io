@@ -26,6 +26,9 @@ layout: default
 
         <h2> News </h2>
         <ul>
+          <li style="color: darkorange;">[Jun 2020] Invited speaker <a href="http://cvpr2020.thecvf.com/" target="_blank"> CVPR 2020</a> conference at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
+          <li style="color: darkorange;">[Feb 2020] Organization Administrator for <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code 2020</a> with <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
+          <li style="color: darkorange;">[Feb 2020] <a href="https://cloudcv.org/" target="_blank">CloudCV</a> selected as a mentoring organization in <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code</a> for the 6th time in a row.</li>
           <li>[Oct 2019] Represented <a href="https://cloudcv.org/" target="_blank">CloudCV</a> at <a href="https://sites.google.com/view/gsoc-mentorsummit2019/home" target="_blank">Google Summer of Code Mentor Summit 2019 </a>, Munich Germany.</li>
           <li><span style="width: 10%">[Oct 2019]</span> <a href="https://arxiv.org/pdf/1902.03570.pdf" target="_blank">EvalAI</a> accepted in <a href="http://learningsys.org/sosp19/index.html" target="_blank">AI systems workshop</a> at SOSP conference.</li>
           <li>[Aug 2019] Joined Georgia Tech for Masters in Computer Science.</li>
@@ -328,7 +331,7 @@ layout: default
 
     <div class="entry-summary">
     <img src="/images/contents/gsoc2017.png" alt="Google Summer Of Code" class=" home-thumbnail company-logo gsoc-mentor" />
-        <a href="https://summerofcode.withgoogle.com/organizations/5709446018236416/#projects" target="_blank"><span class="fw-400">Organization Administrator <span class="period fw-300">(2019)</span></span></a>, <a href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank"><span class="fw-400">Organization Mentor <span class="period fw-300">(2018)</span></span></a>&nbsp; <br>
+        <span style="color: #28D;" class="fw-400">Organization Administrator <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">2020</a>, <a href="https://summerofcode.withgoogle.com/organizations/5709446018236416/#projects" target="_blank">2019</a>)</span></span>, <a href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank"><span class="fw-400">Organization Mentor <span class="period fw-300">(2018)</span></span></a>&nbsp; <br>
          <span class="period">(Feb 2018 -- Aug 2019)</span>
       <div class="exp-desc">
         <div class="gsoc-2019">
