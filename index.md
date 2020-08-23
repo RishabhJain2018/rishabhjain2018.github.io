@@ -9,13 +9,15 @@ layout: default
 
     <img src="/images/contents/rishabh_jain.jpg" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
     <div class="entry-summary">
-            I'm a first year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a>.  I want to build tools for reproducible AI research and am quite excited to build scalable softwares which will help in evaluating machine learning models in real-time on static/dynamic test datasets.
+            I'm a second year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a>.  I want to build tools for reproducible AI research and am quite excited to build scalable softwares which will help in training, visualizing and evaluating machine learning models in real-time on static/dynamic test datasets.
         <br>
         I'm currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> on setting up a robust pipeline for uploading machine learning model code in the form of docker containers which will be evaluated on remote machines and the results will be displayed on the <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> leaderboard.<br>
         I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a> where we are building tools for reproducible AI research.
         <br>
         Previously, I spent an year as a research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
-        Please feel free to reach out to me at <a href="#">rishabhjain@gatech.edu</a>
+
+        <span class="fw-400">I'm currently looking for full-time opportunities at the intersection of Software engineering and Machine Learning.</span><br>
+        Please feel free to reach out to me at <a href="#">rishabhjain@gatech.edu</a> or <a href="#">rishabhjain2018@gmail.com</a>
 
     </div>
 
@@ -27,7 +29,7 @@ layout: default
         <h2> News </h2>
         <ul>
           <li style="color: darkorange;">[Jun 2020] Invited speaker <a href="http://cvpr2020.thecvf.com/" target="_blank"> CVPR 2020</a> conference at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
-          <li style="color: darkorange;">[May 2020] Joined <a href="https://www.ebay.com/" target="_blank">eBay</a> as a summer intern with structured data and applied research team.</li>
+          <li>[May 2020] Interned at <a href="https://www.ebay.com/" target="_blank">eBay</a> under <a href="https://www.linkedin.com/in/maslovskis/" target="_blank">Roman Maslovskis</a> and <a href="https://www.linkedin.com/in/uwe-mayer-a73ab81/" target="_blank">Uwe Mayer</a> for summer 2020.</li>
           <li>[Feb 2020] Organization Administrator for <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code 2020</a> with <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
           <li>[Feb 2020] <a href="https://cloudcv.org/" target="_blank">CloudCV</a> selected as a mentoring organization in <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code</a> for the 6th time in a row.</li>
           <li>[Oct 2019] Represented <a href="https://cloudcv.org/" target="_blank">CloudCV</a> at <a href="https://sites.google.com/view/gsoc-mentorsummit2019/home" target="_blank">Google Summer of Code Mentor Summit 2019 </a>, Munich Germany.</li>
@@ -78,7 +80,8 @@ layout: default
     <span>Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">75+ AI challenges</span> with <span class="fw-400">7000+  users</span>, who have created <span class="fw-400">70,000+ submissions</span>. More than <span class="fw-400">22 organizations</span> from industry and academia use it for hosting their AI challenges.  The project is open source with <span class="fw-400">100+ contributors,</span> and <span class="fw-400"> 1.4M+ pageviews.</span>. Some of the organizations using it are <span class="fw-400">Google, Facebook, IBM, Intel, eBay, etc.</span> and research labs from <span class="fw-400"> Stanford, CMU, MIT, Georgia Tech, etc.</span> also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
     <div>
         <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star Cloud-CV/EvalAI on GitHub">Star</a> &nbsp;
-        <a class="github-button" href="https://github.com/Cloud-CV/EvalAI/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/EvalAI on GitHub">Fork</a>
+        <a class="github-button" href="https://github.com/Cloud-CV/EvalAI/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/EvalAI on GitHub">Fork</a> &nbsp;
+        <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
 
         <div class="padding-top-10">
           <img class="images" src="/images/contents/evalai.png" />
@@ -93,7 +96,8 @@ layout: default
     <h5><a href="https://github.com/Cloud-CV/Fabrik" target="_blank">Fabrik:</a> Collaboratively build, visualize, and design neural nets in browser</h5>
     <span>An online collaborative platform to build, visualize and train deep learning models via a simple drag-and-drop interface in browser. It has <span class="fw-400"> 45+ open source contributors.</span></span><br>
     <a class="github-button" href="https://github.com/Cloud-CV/Fabrik" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/Fabrik on GitHub">Star</a> &nbsp;
-    <a class="github-button" href="https://github.com/Cloud-CV/Fabrik/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/Fabrik on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/Cloud-CV/Fabrik/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/Fabrik on GitHub">Fork</a> &nbsp;
+    <a class="github-button" href="https://github.com/Cloud-CV/Fabrik" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
     <div class="padding-top-10">
 
     <img class="images no-border" src="/images/contents/fabrik.png" />
@@ -110,7 +114,8 @@ layout: default
     <span class="fw-400">35,000+ pageviews</span> and <span class="fw-400">18,000+ unique visitors</span> have used it.<br>
 
     <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp;
-    <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a> &nbsp;
+    <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
     <div class="padding-top-10">
 
     <img class="images no-border" src="/images/contents/vqa.png" />
@@ -134,7 +139,8 @@ layout: default
     </div>
 
     <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/visual-chatbot on GitHub">Star</a> &nbsp;
-    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/visual-dialog on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/visual-dialog on GitHub">Fork</a> &nbsp;
+    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
     <div class="padding-top-10">
       <img class="images no-border" src="/images/contents/visdial_task.jpg">
 
@@ -150,7 +156,8 @@ layout: default
     <span>Built a demo of a single model <span class="fw-400">trained on 12 datasets</span> from four broad categories of tasks including visual question answering, caption-based image retrieval, grounding referring expressions, and multi-modal verification and compared to independently trained single-task models, this represents a reduction from approximately 3 billion parameters to 270 million while simultaneously improving performance by 2.05 points on average across tasks.  It has <span class="fw-400">1k+ pageviews</span> and <span class="fw-400">800+ unique visitors</span> have used it.</span><br>
 
     <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/vilbert-multi-task on GitHub">Star</a> &nbsp;
-    <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/vilbert-multi-task on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/vilbert-multi-task on GitHub">Fork</a> &nbsp;
+    <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
     <div class="padding-top-10">
 
     </div>
@@ -181,7 +188,8 @@ layout: default
     <h5><a href="http://210.212.85.155:8082/" target="_blank">JSS InfoConnect</a>: Information Center for College</h5>
     <span>Web based <span class="fw-400">officially recognized</span> application that acts as a medium for interaction between all students, faculties and management of JSSATE, Noida. It serves <span class="fw-400">10, 000+</span> requests per day, <span class="fw-400">20, 000+ registered users</span>, <span class="fw-400">20, 000+</span> notices/documents uploaded along with <span class="fw-400">3 million</span> page views since it’s launch in 2016.</span> <br>
     <a class="github-button" href="https://github.com/ncs-jss/HTTP_200" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star ncs-jss/HTTP_200 on GitHub">Star</a> &nbsp;
-    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork ncs-jss/HTTP_200 on GitHub">Fork</a>
+    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork ncs-jss/HTTP_200 on GitHub">Fork</a> &nbsp;
+    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
     <div class="padding-top-10">
 
     <img class="images no-border" src="/images/contents/infoconnect.png" />
@@ -291,7 +299,7 @@ layout: default
         Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2019 -- Present)</span>
         <div class="exp-desc">
           <div class="evalai">
-            <a href="https://evalai.cloudcv.org" target="_blank" class="bullet-points">EvalAI:</a> Built an open source platform called as <a href="https://evalai.cloudcv.org" target="_blank"> EvalAI </a> for evaluating and benchmarking AI models. We have hosted <span class="fw-400"> 45+ challenges </span> with <span class="fw-400">5000+ users</span>, who have created <span class="fw-400">45, 000+ submissions</span>. The project is open source with <span class="fw-400">90+ contributors</span>, <span class="fw-400"> 800+ stars</span>, <span class="fw-400">400+ forks</span>. Some of the organizations using it are <span class="fw-400"> Google, Facebook, IBM, eBay etc.</span> and research labs from <span class="fw-400">Stanford, CMU, Georgia Tech, MIT etc. </span>also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
+            <a href="https://evalai.cloudcv.org" target="_blank" class="bullet-points">EvalAI:</a> Built an open source platform called as <a href="https://evalai.cloudcv.org" target="_blank"> EvalAI </a> for evaluating and benchmarking AI models. We have hosted <span class="fw-400"> 85+ challenges </span> with <span class="fw-400">8000+ users</span>, who have created <span class="fw-400">90, 000+ submissions</span>. The project is open source with <span class="fw-400">100+ contributors</span>, <span class="fw-400"> 950+ stars</span>, <span class="fw-400">450+ forks</span>. Some of the organizations using it are <span class="fw-400"> Google, Facebook, IBM, eBay etc.</span> and research labs from <span class="fw-400">Stanford, CMU, Georgia Tech, MIT etc. </span>also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
           </div>
           <div class="guesswhich">
             <a class="bullet-points " href="#">GuessWhich: </a>Evaluating the role of interpretable explanations towards making a model predictable to a human. We are studying if explanations from model helps humans to predict the models behavior.
@@ -303,6 +311,28 @@ layout: default
   <div class="hr-line"></div>
   </div>
 
+<!-- eBay's internship -->
+  <div>
+
+    <h5>Software Engineering Intern, <a href="#" target="_blank">Structured Data and Applied Research Team</a></h5>
+
+  </div>
+  <div class="hentry remove-bottom">
+
+    <div class="entry-summary">
+       <span><img src="/images/contents/ebay.png" alt="Georgia Tech" class=" home-thumbnail company-logo gt-gra"></span>
+        Supervised by: <a target="_blank" href="https://www.linkedin.com/in/maslovskis/"> Dr. Roman Maslovskis</a> and <a target="_blank" href="https://www.linkedin.com/in/uwe-mayer-a73ab81/"> Dr. Uwe Mayer</a> &nbsp; <br> <span class="period">(May 2020 -- Aug. 2020)</span>
+        <div class="exp-desc">
+          <div class="evalai">
+            <span class="bullet-points">Evaluating and Predicting aspect values in listings:</span> Given an image, and a text description about the listing on eBay the task is to predict the missing aspects about the listing, for instance predict the missing color or brand aspect in the listing. <br>
+            I built an end-to-end system for processing and training the AI models using textual and visual data and also trained early fusion models with an accuracy of 78%, 83% on the test dataset for color aspect and brand aspect respectively. 
+          </div>
+        </div>
+
+    </div>
+
+  <div class="hr-line"></div>
+  </div>
 <!-- Research Scholar -->
   <div>
 
