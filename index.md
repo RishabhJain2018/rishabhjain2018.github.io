@@ -16,7 +16,7 @@ layout: default
         <br>
         Previously, I spent an year as a research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
 
-        <span class="fw-400">I'm currently looking for full-time opportunities at the intersection of Software engineering and Machine Learning.</span><br>
+        <span style="color:purple !important;" class="fw-400">I'm currently looking for full-time opportunities at the intersection of Software engineering and Machine Learning.</span><br>
         Please feel free to reach out to me at <a href="#">rishabhjain@gatech.edu</a> or <a href="#">rishabhjain2018@gmail.com</a>
 
     </div>
