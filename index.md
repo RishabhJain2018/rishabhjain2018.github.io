@@ -325,7 +325,7 @@ layout: default
         <div class="exp-desc">
           <div class="evalai">
             <span class="bullet-points">Evaluating and Predicting aspect values in listings:</span> Given an image, and a text description about the listing on eBay the task is to predict the missing aspects about the listing, for instance predict the missing color or brand aspect in the listing. <br>
-            I built an end-to-end system for processing and training the AI models using textual and visual data and also trained early fusion models with an accuracy of 78%, 83% on the test dataset for color aspect and brand aspect respectively. 
+            I built an end-to-end system for processing textual and visual data and training the AI models using it and also trained early fusion models with an accuracy of 78%, 83% on the test dataset for color and brand aspect respectively. 
           </div>
         </div>
 
@@ -362,7 +362,7 @@ layout: default
 
     <div class="entry-summary">
     <img src="/images/contents/gsoc2017.png" alt="Google Summer Of Code" class=" home-thumbnail company-logo gsoc-mentor" />
-        <span style="color: #28D;" class="fw-400">Organization Administrator <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">2020</a>, <a href="https://summerofcode.withgoogle.com/organizations/5709446018236416/#projects" target="_blank">2019</a>)</span></span>, <a href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank"><span class="fw-400">Organization Mentor <span class="period fw-300">(2018)</span></span></a>&nbsp; <br>
+        <span style="color: #28D;" class="fw-400">Organization Administrator <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">2020</a>, <a href="https://summerofcode.withgoogle.com/organizations/5709446018236416/#projects" target="_blank">2019</a>)</span></span>,  <span style="color: #28D;" class="fw-400">Organization Mentor <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank">2018</a>)</span></span>&nbsp; <br>
          <span class="period">(Feb 2018 -- Aug 2019)</span>
       <div class="exp-desc">
         <div class="gsoc-2019">
@@ -388,7 +388,7 @@ layout: default
 
     <div class="entry-summary">
     <img src="/images/contents/gci.png" alt="Google Code In" class=" home-thumbnail company-logo gci"/>
-        <a href="http://gci.cloudcv.org/" target="_blank"><span class="fw-400">Organization Administrator <span class="period fw-300">(2019, 2018)</span></span></a>, <a href="http://gci.cloudcv.org/2017/" target="_blank"><span class="fw-400">Organization Mentor <span class="period fw-300">(2017)</span></span></a>&nbsp; <br>
+        <span style="color: #28D;" class="fw-400">Organization Administrator <span class="period fw-300">(<a href="http://gci.cloudcv.org/" target="_blank">2019</a>, <a href="http://gci.cloudcv.org/2018/" target="_blank">2018</a>)</span></span>, <span style="color: #28D;" class="fw-400">Organization Mentor <span class="period fw-300">(<a href="http://gci.cloudcv.org/2017/" target="_blank">2017</a>)</span></span>&nbsp; <br>
     <span class="period">(Nov 2017 -- Present)</span>
     <div class="exp-desc">
         <div class="gci-2019">
@@ -418,7 +418,7 @@ layout: default
 
     <div class="entry-summary">
     <img src="/images/contents/gsoc2017.png" alt="Google Summer Of Code" class=" home-thumbnail company-logo gsoc-student"/>
-      <a href="https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/" target="_blank"><span class="fw-400">Student Developer</span> <span class="period fw-300">(2017)</span> <br></a>
+      <span style="color: #28D;" class="fw-400">Student Developer</span> <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/" target="_blank">2017</a>)</span> <br>
       <span class="period">(May 2017 -- Aug 2017)</span>
     <div class="exp-desc">
         In 2017, I was selected as GSoC student where I developed <a href="https://medium.com/@rishabhjain17/gsoc17-with-cloudcv-final-report-a50e964d2e87" target="_blank"> new features </a> for hosting AI challenges in streamlined manner, implemented several analytics features for both participants and hosts in <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>.
@@ -500,6 +500,7 @@ layout: default
         <h2> Talks </h2>
           <img class="images margin-btm-20" src="/images/contents/talk.png" />
         <ul>
+          <li>[June 2020] Invited speaker at <a href="https://embodied-ai.org/" target="_blank">Embodied AI Workshop</a> in <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>. (<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>)</li>
           <li>[Oct 2019] Represented CloudCV in <a href="https://sites.google.com/view/gsoc-mentorsummit2019/home" target="_blank">Google Summer of Code Mentor Summit</a> at Munich Germany. (<a href="https://drive.google.com/file/d/1X-facagynmwyp8ArTnT2uKi5cmx6BYp6/view?usp=sharing" target="_blank">Slides</a>)</li>
           <li>[Jun 2019] Presented EvalAI in <a href="https://aihabitat.org/workshop/2019/" target="_blank">Habitat workshop</a> at CVPR. (<a href="https://drive.google.com/file/d/1TzDHrkjudWDgv3IfN3ifOzJrEyvgCA6p/view" target="_blank">Slides</a>)</li>
           <li>[Oct 2018] Represented CloudCV in <a href="https://sites.google.com/view/gsoc-mentorsummit-2018/home" target="_blank">Google Summer of Code Mentor Summit</a> at Google Sunnyvale. (<a href="https://docs.google.com/presentation/d/1EUvzGOXSRyE5F59G4gn2HDD4u3Tq8ODTHiGj-otl1IY/edit?usp=sharing" target="_blank">Slides</a>)</li>
