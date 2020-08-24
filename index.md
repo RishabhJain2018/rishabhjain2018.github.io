@@ -523,6 +523,7 @@ layout: default
       <ul>
         <li>Specialization in Machine Learning</li>
         <li class="fw-400">Current GPA: 4.0/4.0</li>
+        <li> Expected Graduation -- May 2021</li>
       </ul>
 
     <div class="hr-line-projects"></div>
