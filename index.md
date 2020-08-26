@@ -291,7 +291,7 @@ layout: default
     <div class="entry-summary">
       <img src="/images/contents/cloudcv.png" alt="CloudCV" class="home-thumbnail company-logo cloudcv"/>
       <span class="position">Team Lead</span> &nbsp; <br>
-      <span class="period"> (Jan.2019 -- Present) </span>
+      <span class="period"> (Jan 2019 &nbsp;-&nbsp; Present) </span>
       <div class="exp-desc">
         Leading a team of <span class="fw-400">15+ contributors</span> to actively maintain <a href="https://cloudcv.org" target="_blank">CloudCV Project</a> which aims to make AI research more reproducible.
         </div>
@@ -308,16 +308,15 @@ layout: default
 
   </div>
   <div class="hentry remove-bottom">
-
     <div class="entry-summary">
        <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo gt-gra"></span>
-        Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2019 -- Present)</span>
+        Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2019 &nbsp;-&nbsp; Present)</span>
         <div class="exp-desc">
           <div class="evalai">
-            <a href="https://evalai.cloudcv.org" target="_blank" class="bullet-points">EvalAI:</a> Built an open source platform called as <a href="https://evalai.cloudcv.org" target="_blank"> EvalAI </a> for evaluating and benchmarking AI models. We have hosted <span class="fw-400"> 85+ challenges </span> with <span class="fw-400">8000+ users</span>, who have created <span class="fw-400">90, 000+ submissions</span>. The project is open source with <span class="fw-400">100+ contributors</span>, <span class="fw-400"> 950+ stars</span>, <span class="fw-400">450+ forks</span>. Some of the organizations using it are <span class="fw-400"> Google, Facebook, IBM, eBay etc.</span> and research labs from <span class="fw-400">Stanford, CMU, Georgia Tech, MIT etc. </span>also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
+            <a href="https://evalai.cloudcv.org" target="_blank" class="bullet-points">EvalAI:</a> Built an open source platform called as <a href="https://evalai.cloudcv.org" target="_blank"> EvalAI </a> for evaluating and benchmarking AI models. We have hosted <span class="fw-400"> 85+ challenges </span> with <span class="fw-400">8000+ users</span>, who have created <span class="fw-400">90,000+ submissions</span>. The project is open source with <span class="fw-400">100+ contributors</span>, <span class="fw-400"> 950+ stars</span>, <span class="fw-400">450+ forks</span>. More than <span class="fw-400">25 organizations</span> are using it including <span class="fw-400"> Google, Facebook, IBM, Intel, eBay etc.</span> and research labs from <span class="fw-400">MIT, Stanford, CMU, Georgia Tech, etc. </span>also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
           </div>
           <div class="guesswhich">
-            <a class="bullet-points " href="#">GuessWhich: </a>Evaluating the role of interpretable explanations towards making a model predictable to a human. We are studying if explanations from model helps humans to predict the models behavior.
+            <a class="bullet-points " href="#">GuessWhich: </a>Evaluating the role of interpretable explanations towards making a model predictable to a human. We studied if the textual or visual explanations from an AI model in the context of an interactive, goal-driven, collabora-tive human-AI task help humans to predict it’s behavior.
           </div>
         </div>
 
@@ -336,11 +335,10 @@ layout: default
 
     <div class="entry-summary">
        <span><img src="/images/contents/ebay.png" alt="Georgia Tech" class=" home-thumbnail company-logo gt-gra"></span>
-        Supervised by: <a target="_blank" href="https://www.linkedin.com/in/maslovskis/"> Dr. Roman Maslovskis</a> and <a target="_blank" href="https://www.linkedin.com/in/uwe-mayer-a73ab81/"> Dr. Uwe Mayer</a> &nbsp; <br> <span class="period">(May 2020 -- Aug. 2020)</span>
+        Supervised by: <a target="_blank" href="https://www.linkedin.com/in/maslovskis/"> Dr. Roman Maslovskis</a> and <a target="_blank" href="https://www.linkedin.com/in/uwe-mayer-a73ab81/"> Dr. Uwe Mayer</a> &nbsp; <br> <span class="period">(May 2020 &nbsp;-&nbsp; Aug 2020)</span>
         <div class="exp-desc">
           <div class="evalai">
-            <span class="bullet-points">Evaluating and Predicting aspect values in listings:</span> Given an image, and a text description about the listing on eBay the task is to predict the missing aspects about the listing, for instance predict the missing color or brand aspect in the listing. <br>
-            I built an end-to-end system for processing textual and visual data and training the AI models using it and also trained early fusion models with an accuracy of 78%, 83% on the test dataset for color and brand aspect respectively. 
+            <span class="bullet-points">Evaluating and Predicting attribute values in listings:</span> Given an image, and a text description about the listing on eBay the task is to predict the missing attributes about the listing. For instance, predicting the missing color or brand attribute in the listing. I built an end-to-end system for processing visual and textual data along with training AI models. I also trained an early fusion model of image and text data which gave an accuracy of 78%, 83% on the test dataset for color and brand attribute respectively. 
           </div>
         </div>
 
@@ -358,9 +356,9 @@ layout: default
 
     <div class="entry-summary">
        <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo rs-gt"/></span>
-        Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2018 -- June 2019)</span>
+        Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2018 &nbsp;-&nbsp; June 2019)</span>
         <div class="exp-desc">
-          Developed first of its kind, a large-scale benchmark for <span class="fw-400"> Novel Object Captioning </span> , consisting of <span class="fw-400"> 166, 100 captions</span> describing <span class= "fw-400">15,100 images</span> containing more than <span class="fw-400">500 objects</span>, out of which more than 400 objects are never described in COCO captions dataset.
+          To encourage the development of image captioning models that can learn visual concepts from alternative data sources, such as object detection datasets, we present the first large-scale benchmark for this task. Dubbed nocaps, for novel object captioning at scale, our benchmark consists of 166,100 human-generated captions describing 15,100 images from the Open Images validation and test sets containing more than 500 objects, out of which more than 400 objects are never described in COCO captions dataset.
         </div>
 
     </div>
@@ -377,17 +375,21 @@ layout: default
     <div class="entry-summary">
     <img src="/images/contents/gsoc2017.png" alt="Google Summer Of Code" class=" home-thumbnail company-logo gsoc-mentor" />
         <span style="color: #28D;" class="fw-400">Organization Administrator <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">2020</a>, <a href="https://summerofcode.withgoogle.com/organizations/5709446018236416/#projects" target="_blank">2019</a>)</span></span>,  <span style="color: #28D;" class="fw-400">Organization Mentor <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank">2018</a>)</span></span>, <span style="color: #28D;" class="fw-400">Student Developer</span> <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/" target="_blank">2017</a>)</span>&nbsp;<br>
-         <span class="period">(May 2017 -- Aug 2020)</span>
+         <span class="period">(May 2017 &nbsp;-&nbsp; Aug 2020)</span>
       <div class="exp-desc">
-        <div class="gsoc-2019">
-          <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">2019:</a> Led a team of <span class="fw-400">10+ mentors</span> and students to accomplish tasks proposed in <a href="https://gsoc.cloudcv.org/" target="_blank">GSoC Proposal</a>.
-        </div>
-        <div class="gsoc-2018">
-          <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank">2018:</a> Mentor a student to design a command line tool <a href="https://github.com/Cloud-CV/evalai-cli" target="_blank">(evalai-cli)</a> for EvalAI which lets the participants to install and use evalai as a python package.
-        </div>
         <div class="gsoc-2017">
           <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/" target="_blank">2017:</a>
-          In 2017, I was selected as GSoC student where I developed <a href="https://medium.com/@rishabhjain17/gsoc17-with-cloudcv-final-report-a50e964d2e87" target="_blank"> new features </a> for hosting AI challenges in streamlined manner, implemented several analytics features for both participants and hosts in <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>.
+          I was selected as GSoC student where I developed <a href="https://medium.com/@rishabhjain17/gsoc17-with-cloudcv-final-report-a50e964d2e87" target="_blank"> new features </a> for hosting AI challenges in streamlined manner, implemented REST-API’s, frontend and several analytics features for both participants and hosts in <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>.
+        </div>
+        <div class="gsoc-2018">
+          <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank">2018:</a> Mentored a student to design a command line tool <a href="https://evalai-cli.cloudcv.org/" target="_blank">(EvalAI-CLI)</a> for EvalAI which lets the participants to install and use <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> as a <a href="https://pypi.org/project/evalai/" target="_blank">python package</a>.
+        </div>
+        <div class="gsoc-2019">
+          <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">2019:</a> Led a team of <span class="fw-400">10+ mentors</span> and students to accomplish tasks proposed in <a href="https://gsoc.cloudcv.org/2019/" target="_blank">GSoC 2019 Proposal</a>.
+        </div>
+        <div class="gsoc-2020">
+          <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">2020:</a> Leading a team of 10+ mentors and students under <a target="_blank" href="https://cloudcv.org/">CloudCV</a> organization to build an open-source software for evaluating machine learning models in real-time on static/dynamic datasets.
+        </div>
       </div>
     </div>
 
@@ -402,25 +404,22 @@ layout: default
 
   </div>
   <div class="hentry remove-bottom">
-
     <div class="entry-summary">
     <img src="/images/contents/gci.png" alt="Google Code In" class=" home-thumbnail company-logo gci"/>
         <span style="color: #28D;" class="fw-400">Organization Administrator <span class="period fw-300">(<a href="http://gci.cloudcv.org/" target="_blank">2019</a>, <a href="http://gci.cloudcv.org/2018/" target="_blank">2018</a>)</span></span>, <span style="color: #28D;" class="fw-400">Organization Mentor <span class="period fw-300">(<a href="http://gci.cloudcv.org/2017/" target="_blank">2017</a>)</span></span>&nbsp; <br>
-    <span class="period">(Nov 2017 -- Present)</span>
+    <span class="period">(Nov 2017 &nbsp;-&nbsp; Jan 2020)</span>
     <div class="exp-desc">
-        <div class="gci-2019">
-          <a class="bullet-points" href="#" target="_blank">2019:</a> Leading a team of <span class="fw-400">10+ mentors</span> on open source projects <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>, <a href="https://github.com/Cloud-CV/evalai-cli" target="_blank">EvalAI-cli</a>, <a href="https://github.com/Cloud-CV/EvalAI-ngx" target="_blank">EvalAI-ngx</a>.
+        <div class="gci-2017">
+          <a class="bullet-points" href="http://gci.cloudcv.org/2017/" target="_blank">2017:</a> Applied with <a target="_blank" href="https://cloudcv.org/">CloudCV</a> as a mentoring organization and got it accepted to mentor for the first time in <a href="https://codein.withgoogle.com/archive/" target="_blank">Google Code-In</a>. I mentored high school students on open-source projects in frontend, backend and devops.
         </div>
         <div class="gci-2018">
-          <a class="bullet-points" href="http://gci.cloudcv.org/" target="_blank">2018:</a> Led a team of <span class="fw-400">10+ mentors</span> to help high school students on open source projects EvalAI, Fabrik.
+          <a class="bullet-points" href="http://gci.cloudcv.org/2018/" target="_blank">2018:</a> Led a team of <span class="fw-400">10+ mentors</span> to mentor high school students on open-source projects <a href="https://github.com/Cloud-CV/EvalAI" target="_blank">EvalAI</a>, <a href="https://github.com/Cloud-CV/Fabrik" target="_blank">Fabrik</a> and, <a href="https://github.com/Cloud-CV/Origami" target="_blank">Orgami</a>.
         </div>
-        <div class="gci-2017">
-          <a class="bullet-points" href="http://gci.cloudcv.org/2017/" target="_blank">2017:</a> Mentored students to ramp up in open source projects in back-end and front-end technologies.
+        <div class="gci-2019">
+          <a class="bullet-points" href="http://gci.cloudcv.org/" target="_blank">2019:</a> Led a team of <span class="fw-400">10+ mentors</span> to mentor high school students on open source projects <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>, <a href="https://github.com/Cloud-CV/evalai-cli" target="_blank">EvalAI-CLI</a>, <a href="https://github.com/Cloud-CV/EvalAI-ngx" target="_blank">EvalAI-ngx</a>.
         </div>
-
     </div>
-
-    </div>
+  </div>
 
   <div class="hr-line"></div>
   </div>
@@ -459,9 +458,9 @@ layout: default
     <div class="entry-summary">
     <img src="/images/contents/pythonindia.png" alt="Python India" class=" home-thumbnail company-logo pssi"/>
         <span class="rishabh">Open Source Contributor</span> &nbsp; <br>
-         <span class="period">(July 2016 -- Oct 2016)</span>
+         <span class="period">(July 2016 &nbsp;-&nbsp; Oct 2016)</span>
         <div class="exp-desc">
-        Implemented several features in the <a href="https://github.com/pythonindia/junction/graphs/contributors" target="_blank">Junction</a> project including the feature of creating and managing users profile in the software. It is a software to manage proposals, reviews, schedules, feedback during the conference.
+        Implemented several features in the <a href="https://github.com/pythonindia/junction/graphs/contributors" target="_blank">Junction</a> project including the feature of creating and managing users profile. <a href="https://github.com/pythonindia/junction/graphs/contributors" target="_blank">Junction</a> is an open-source software to manage proposals, reviews, schedules, feedback during the <a href="https://in.pycon.org/2020/" target="_blank">PyCon</a> conference.
         </div>
 
     </div>
@@ -481,9 +480,9 @@ layout: default
     <div class="entry-summary">
     <img src="/images/contents/iaugmentor.png" alt="iAugmentor" class=" home-thumbnail company-logo"/>
     <span class="rishabh">Software Developer Intern, Machine Learning</span> &nbsp; <br>
-    <span class="period">(Jun 2016 -- Aug 2016)</span>
+    <span class="period">(Jun 2016 &nbsp;-&nbsp; Aug 2016)</span>
       <div class="exp-desc">
-        Responsible for developing a product which takes a video (an answer of a job interview question) as an input and outputs the accuracy on smiling behavior of the user by training an SVM classifier in the form of a web based demo.
+        Developed a product which takes a video answer of a job interview question as an input and outputs the accuracy on smiling behavior of the user by training an SVM classifier in the form of a web based demo.
       </div>
 
     </div>
@@ -503,7 +502,7 @@ layout: default
     <div class="entry-summary">
       <img src="/images/contents/ncs.jpeg" alt="Nibble Computer Society" class=" home-thumbnail company-logo ncs"/>
         <span class="rishabh">Organizing Member</span> &nbsp; <br>
-        <span class="period">(Feb 2015 -- May 2018)</span>
+        <span class="period">(Feb 2015 &nbsp;-&nbsp; May 2018)</span>
     <div class="exp-desc">
       Organized multiple code labs, seminars, workshops on OOPs, Advanced C, C++, Google Summer of Code, Git etc.and mentored <span class="fw-400">30+ undergraduate students</span> on software development.  I was also responsible for organizing college’sannual techno-cultural fest Zealicon.
 
@@ -517,7 +516,7 @@ layout: default
         <h2> Invited Talks </h2>
           <img class="images margin-btm-20" src="/images/contents/talk.png" />
         <ul>
-          <li>[June 2020] Invited speaker at <a href="https://embodied-ai.org/" target="_blank">Embodied AI Workshop</a> in <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>. (<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>)</li>
+          <li>[Jun 2020] Invited speaker <a href="http://cvpr2020.thecvf.com/" target="_blank"> CVPR 2020</a> conference at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
           <li>[Oct 2019] Represented CloudCV in <a href="https://sites.google.com/view/gsoc-mentorsummit2019/home" target="_blank">Google Summer of Code Mentor Summit</a> at Munich Germany. (<a href="https://drive.google.com/file/d/1X-facagynmwyp8ArTnT2uKi5cmx6BYp6/view?usp=sharing" target="_blank">Slides</a>)</li>
           <li>[Jun 2019] Presented EvalAI in <a href="https://aihabitat.org/workshop/2019/" target="_blank">Habitat workshop</a> at CVPR. (<a href="https://drive.google.com/file/d/1TzDHrkjudWDgv3IfN3ifOzJrEyvgCA6p/view" target="_blank">Slides</a>)</li>
           <li>[Oct 2018] Represented CloudCV in <a href="https://sites.google.com/view/gsoc-mentorsummit-2018/home" target="_blank">Google Summer of Code Mentor Summit</a> at Google Sunnyvale. (<a href="https://docs.google.com/presentation/d/1EUvzGOXSRyE5F59G4gn2HDD4u3Tq8ODTHiGj-otl1IY/edit?usp=sharing" target="_blank">Slides</a>)</li>
@@ -536,11 +535,11 @@ layout: default
         <img src="/images/contents/gt.png" alt="Georgia Institute of Technology" class="home-thumbnail" style="float: right; height: 90px; width: auto; margin-top: 1%; "/>
         <h5> Masters in Computer Science</h5>
         <span>Georgia Institute of Technology, Atlanta, USA </span> &nbsp; <br>
-        <span class="period">(Aug 2019 -- Present)</span>
+        <span class="period">(Aug 2019 &nbsp;-&nbsp; Present)</span>
       <ul>
         <li>Specialization in Machine Learning</li>
         <li class="fw-400">Current GPA: 4.0/4.0</li>
-        <li> Expected Graduation -- May 2021</li>
+        <li> Expected Graduation &nbsp;-&nbsp; May 2021</li>
       </ul>
 
     <div class="hr-line-projects"></div>
@@ -552,10 +551,10 @@ layout: default
         <img src="/images/contents/jss.jpg" alt="Georgia Institute of Technology" class="home-thumbnail company-logo margin-top-2"/>
         <h5> Bachelor of Technology in Computer Science and Engineering</h5>
         <span>JSS Academy of Technical Education, Noida, India </span> &nbsp; <br>
-        <span class="period">(Aug 2014 -- May 2018)</span>
+        <span class="period">(Aug 2014 &nbsp;-&nbsp; May 2018)</span>
       <ul>
-        <li> Passed with an aggregate of <i class="fw-400"> 80.4% (with Hons.) </i></li>
-        <li> Class Rank: <i>8th out of 150 Students (or top 5%)</i></li>
+        <li> Passed with an aggregate of <span class="fw-400"> 80.4% (with Hons.) </span></li>
+        <li> Class Rank: 8th out of 150 Students (or top 5%)</li>
       </ul>
 
   </div>
