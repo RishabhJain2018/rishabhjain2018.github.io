@@ -456,7 +456,7 @@ layout: default
     <span class="period">(Nov 2017 &nbsp; -&nbsp; Jan 2020)</span>
     <div class="exp-desc">
         <div class="gci-2017">
-          <a class="bullet-points" href="http://gci.cloudcv.org/2017/" target="_blank">2017:</a> Applied with <a target="_blank" href="https://cloudcv.org/">CloudCV</a> as a mentoring organization and got it accepted to mentor for the first time in <a href="https://codein.withgoogle.com/archive/" target="_blank">Google Code-In</a>. I mentored high school students on open-source projects in frontend, backend and devops.
+          <a class="bullet-points" href="http://gci.cloudcv.org/2017/" target="_blank">2017:</a> Applied with <a target="_blank" href="https://cloudcv.org/">CloudCV</a> as a mentoring organization and got it accepted to mentor for the first time in <a href="https://codein.withgoogle.com/archive/" target="_blank">Google Code-In</a>. I mentored high school students on open-source projects in frontend, backend and DevOps.
         </div>
         <div class="gci-2018">
           <a class="bullet-points" href="http://gci.cloudcv.org/2018/" target="_blank">2018:</a> Led a team of <span class="fw-400">10+ mentors</span> to mentor high school students on open-source projects <a href="https://github.com/Cloud-CV/EvalAI" target="_blank">EvalAI</a>, <a href="https://github.com/Cloud-CV/Fabrik" target="_blank">Fabrik</a> and, <a href="https://github.com/Cloud-CV/Origami" target="_blank">Orgami</a>.
