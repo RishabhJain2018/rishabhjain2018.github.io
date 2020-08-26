@@ -374,11 +374,10 @@ layout: default
 
   </div>
   <div class="hentry  remove-bottom post">
-
     <div class="entry-summary">
     <img src="/images/contents/gsoc2017.png" alt="Google Summer Of Code" class=" home-thumbnail company-logo gsoc-mentor" />
-        <span style="color: #28D;" class="fw-400">Organization Administrator <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">2020</a>, <a href="https://summerofcode.withgoogle.com/organizations/5709446018236416/#projects" target="_blank">2019</a>)</span></span>,  <span style="color: #28D;" class="fw-400">Organization Mentor <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank">2018</a>)</span></span>&nbsp; <br>
-         <span class="period">(Feb 2018 -- Aug 2019)</span>
+        <span style="color: #28D;" class="fw-400">Organization Administrator <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">2020</a>, <a href="https://summerofcode.withgoogle.com/organizations/5709446018236416/#projects" target="_blank">2019</a>)</span></span>,  <span style="color: #28D;" class="fw-400">Organization Mentor <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank">2018</a>)</span></span>, <span style="color: #28D;" class="fw-400">Student Developer</span> <span class="period fw-300">(<a href="https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/" target="_blank">2017</a>)</span>&nbsp;<br>
+         <span class="period">(May 2017 -- Aug 2020)</span>
       <div class="exp-desc">
         <div class="gsoc-2019">
           <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">2019:</a> Led a team of <span class="fw-400">10+ mentors</span> and students to accomplish tasks proposed in <a href="https://gsoc.cloudcv.org/" target="_blank">GSoC Proposal</a>.
@@ -386,7 +385,10 @@ layout: default
         <div class="gsoc-2018">
           <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank">2018:</a> Mentor a student to design a command line tool <a href="https://github.com/Cloud-CV/evalai-cli" target="_blank">(evalai-cli)</a> for EvalAI which lets the participants to install and use evalai as a python package.
         </div>
-
+        <div class="gsoc-2017">
+          <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/" target="_blank">2017:</a>
+          In 2017, I was selected as GSoC student where I developed <a href="https://medium.com/@rishabhjain17/gsoc17-with-cloudcv-final-report-a50e964d2e87" target="_blank"> new features </a> for hosting AI challenges in streamlined manner, implemented several analytics features for both participants and hosts in <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>.
+      </div>
     </div>
 
   </div>
@@ -424,7 +426,7 @@ layout: default
   </div>
 
 <!-- Google Summer Of Code 2017 -->
-  <div>
+  <!-- <div>
 
         <h5>Google Summer Of Code (<a href="" target="_blank">GSoC</a>)</h5>
 
@@ -444,7 +446,7 @@ layout: default
 
     <div class="hr-line"></div>
 
-  </div>
+  </div> -->
 
   <!-- PSSI -->
   <div>
@@ -512,7 +514,7 @@ layout: default
   <!-- Talks Section -->
   <div class="hentry-no-border">
 
-        <h2> Talks </h2>
+        <h2> Invited Talks </h2>
           <img class="images margin-btm-20" src="/images/contents/talk.png" />
         <ul>
           <li>[June 2020] Invited speaker at <a href="https://embodied-ai.org/" target="_blank">Embodied AI Workshop</a> in <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>. (<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>)</li>
