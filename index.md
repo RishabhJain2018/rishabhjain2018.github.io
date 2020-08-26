@@ -9,15 +9,17 @@ layout: default
 
     <img src="/images/contents/rishabh_jain.jpg" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
     <div class="entry-summary">
-            I'm a second year Computer Science MS student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a>.  I want to build tools for reproducible AI research and am quite excited to build scalable softwares which will help in training, visualizing and evaluating machine learning models in real-time on static/dynamic test datasets.
+        I'm a rising second year Computer Science MS (specialization in Machine Learning) student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and work closely with <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a>. I work at the junction of software engineering and AI research, solving problems which lie at the intersection of Machine Learning, Computer Vision and Natural Language Processing.
         <br>
-        I'm currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> on setting up a robust pipeline for uploading machine learning model code in the form of docker containers which will be evaluated on remote machines and the results will be displayed on the <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> leaderboard.<br>
-        I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a> where we are building tools for reproducible AI research.
+        I want to build tools for reproducible AI research and am quite excited to build scalable softwares which will help in training, visualizing and evaluating machine learning models in real-time on static/dynamic test datasets.
         <br>
-        Previously, I spent an year as a research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
+        I'm currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> for simplifying and standardizing the process of evaluating RL models by developing and managing a widely recognized evaluation platform <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> for reproducibility of results, maintaining evaluation consistency, evaluation of model’s code, and to measure constant progress for pushing the frontiers of AI.
+        <br>
+        I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a> where we are building several open source softwares for reproducible AI research.
+        Previously, I spent an year as a visiting research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
 
-        <span style="color:purple !important;" class="fw-400">I'm currently looking for full-time opportunities at the intersection of Software engineering and Machine Learning.</span><br>
-        Please feel free to reach out to me at <a href="#">rishabhjain@gatech.edu</a> or <a href="#">rishabhjain2018@gmail.com</a>
+        <span style="color:red !important;" class="fw-400">I am graduating in May 2021 and am on the job market.</span>
+        Please feel free to reach out to me at <a href="#">rishabhjain2018@gmail.com</a>.
 
     </div>
 
@@ -28,7 +30,7 @@ layout: default
 
         <h2> News </h2>
         <ul>
-          <li style="color: darkorange;">[Jun 2020] Invited speaker <a href="http://cvpr2020.thecvf.com/" target="_blank"> CVPR 2020</a> conference at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
+          <li>[Jun 2020] Invited speaker <a href="http://cvpr2020.thecvf.com/" target="_blank"> CVPR 2020</a> conference at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
           <li>[May 2020] Interned at <a href="https://www.ebay.com/" target="_blank">eBay</a> under <a href="https://www.linkedin.com/in/maslovskis/" target="_blank">Roman Maslovskis</a> and <a href="https://www.linkedin.com/in/uwe-mayer-a73ab81/" target="_blank">Uwe Mayer</a> for summer 2020.</li>
           <li>[Feb 2020] Organization Administrator for <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code 2020</a> with <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
           <li>[Feb 2020] <a href="https://cloudcv.org/" target="_blank">CloudCV</a> selected as a mentoring organization in <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code</a> for the 6th time in a row.</li>
@@ -75,24 +77,26 @@ layout: default
     <!-- EvalAI-->
 
   <div>
-
-    <h5><a href="https://evalai.cloudcv.org/" target="_blank">EvalAI:</a> Towards Better Evaluation Systems for AI Agents</h5>
-    <span>Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">85+ AI challenges</span> with <span class="fw-400">8000+  users</span>, who have created <span class="fw-400">90,000+ submissions</span>. More than <span class="fw-400">25 organizations</span> from industry and academia use it for hosting their AI challenges.  The project is open source with <span class="fw-400">100+ contributors,</span> and <span class="fw-400"> 1.8M+ pageviews.</span>. Some of the organizations using it are <span class="fw-400">Google, Facebook, IBM, Intel, eBay, etc.</span> and research labs from <span class="fw-400"> Stanford, CMU, MIT, Georgia Tech, etc.</span> also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
     <div>
-        <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star Cloud-CV/EvalAI on GitHub">Star</a> &nbsp;
-        <a class="github-button" href="https://github.com/Cloud-CV/EvalAI/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/EvalAI on GitHub">Fork</a> &nbsp;
-        <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
-
-        <div class="padding-top-10">
-          <img class="images" src="/images/contents/evalai.png" />
-        </div>
+      <div style="float:left;">
+        <h5><a href="https://evalai.cloudcv.org/" target="_blank">EvalAI:</a> Towards Better Evaluation Systems for AI Agents</h5>
+      </div>
+      <div style="float: right;">
+          <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star Cloud-CV/EvalAI on GitHub">Star</a> &nbsp;
+          <a class="github-button" href="https://github.com/Cloud-CV/EvalAI/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/EvalAI on GitHub">Fork</a> &nbsp;
+          <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
+      </div>
+    </div>
+    <div style="float:left;">
+      <span>Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">85+ AI challenges</span> with <span class="fw-400">8000+  users</span>, who have created <span class="fw-400">90,000+ submissions</span>. More than <span class="fw-400">25 organizations</span> from industry and academia use it for hosting their AI challenges.  The project is open source with <span class="fw-400">100+ contributors,</span> and <span class="fw-400"> 1.8M+ pageviews.</span>. Some of the organizations using it are <span class="fw-400">Google, Facebook, IBM, Intel, eBay, etc.</span> and research labs from <span class="fw-400"> Stanford, CMU, MIT, Georgia Tech, etc.</span> also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
+    </div>
+    <div class="padding-top-10">
+      <img class="images" src="/images/contents/evalai.png" />
+    </div>
 
     <div class="hr-line-projects"></div>
 
-  </div>
-
-  <div>
-
+  <!-- <div>
     <h5><a href="https://github.com/Cloud-CV/Fabrik" target="_blank">Fabrik:</a> Collaboratively build, visualize, and design neural nets in browser</h5>
     <span>An online collaborative platform to build, visualize and train deep learning models via a simple drag-and-drop interface in browser. It has <span class="fw-400"> 45+ open source contributors.</span></span><br>
     <a class="github-button" href="https://github.com/Cloud-CV/Fabrik" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/Fabrik on GitHub">Star</a> &nbsp;
@@ -106,44 +110,44 @@ layout: default
 
     <div class="hr-line-projects"></div>
 
-  </div>
+  </div> -->
   <div>
-
-    <h5><a href="https://vqa.cloudcv.org/" target="_blank">VQA</a>: Visual Question Answering Demo</h5>
-    <span>In Visual Question Answering, given an image and a free-form natural language question about the image (e.g., "What kind of store is this?", "How many people are waiting in the queue?", "Is it safe to cross the street?") the model's task is to automatically produce a concise, accurate, free-form, natural language answer ("bakery", "5", "Yes"). This demo is implemented using <a href="https://github.com/facebookresearch/pythia" target="_blank">Pythia</a> model.</span> It has
-    <span class="fw-400">35,000+ pageviews</span> and <span class="fw-400">18,000+ unique visitors</span> have used it.<br>
-
-    <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp;
-    <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a> &nbsp;
-    <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
+    <div>
+      <div style="float: left;">
+        <h5><a href="https://vqa.cloudcv.org/" target="_blank">VQA</a>: Visual Question Answering Demo</h5>
+      </div>
+      <div style="float: right;">
+        <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp;
+        <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a> &nbsp;
+        <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
+      </div>
+    </div>
+    <div style="float: left;">
+    <span>In Visual Question Answering, given an image and a free-form natural language question about the image (e.g., "What kind of store is this?", "How many people are waiting in the queue?", "Is it safe to cross the street?") the model's task is to automatically produce a concise, accurate, free-form, natural language answer ("bakery", "5", "Yes"). This demo is implemented using <a href="https://github.com/facebookresearch/pythia" target="_blank">Pythia</a> model.</span> It is used by  <span class="fw-400">100K+ </span> users.
+    </div>
     <div class="padding-top-10">
-
-    <img class="images no-border" src="/images/contents/vqa.png" />
-
+      <img class="images no-border" src="/images/contents/vqa.png" />
     </div>
 
     <div class="hr-line-projects"></div>
 
   </div>
   <div>
-
     <div>
-      <h5><a href="http://visualchatbot.cloudcv.org/" target="_blank">Visual Chatbot</a>: A chatbot that can see!</h5>
-
+      <div style="float: left;">
+        <h5><a href="http://visualchatbot.cloudcv.org/" target="_blank">Visual Chatbot</a>: A chatbot that can see!</h5>
+      </div>
+      <div style="float: right;">
+        <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/visual-chatbot on GitHub">Star</a> &nbsp;
+        <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/visual-dialog on GitHub">Fork</a> &nbsp;
+        <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
+      </div>
     </div>
-
-    <div>
-      Built a visual chatbot which can hold a meaningful dialog with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history, and a question about the image, the chatbot will ground the question in image, infer context from history, and answer the question accurately. This demo is implemented using <a href="https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch" target="_blank">Late Fusion</a> model from <a href="https://arxiv.org/abs/1611.08669" target="_blank"> CVPR 2017 Paper</a>. It has
-    <span class="fw-400">120K+ pageviews</span> and <span class="fw-400">60,000+ unique visitors</span> have used it.
-
+    <div style="float: left;">
+      Built a visual chatbot which can hold a meaningful dialog with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history, and a question about the image, the chatbot will ground the question in image, infer context from history, and answer the question accurately. This demo is implemented using <a href="https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch" target="_blank">Late Fusion</a> model from <a href="https://arxiv.org/abs/1611.08669" target="_blank"> CVPR 2017 Paper</a>. It is used by <span class="fw-400">170K+</span> users.
     </div>
-
-    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/visual-chatbot on GitHub">Star</a> &nbsp;
-    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/visual-dialog on GitHub">Fork</a> &nbsp;
-    <a class="github-button" href="https://github.com/Cloud-CV/visual-chatbot" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
     <div class="padding-top-10">
       <img class="images no-border" src="/images/contents/visdial_task.jpg">
-
     </div>
 
     <div class="hr-line-projects"></div>
@@ -151,49 +155,60 @@ layout: default
   </div>
 
   <div>
-
-    <h5><a href="http://vilbert.cloudcv.org/" target="_blank">12-in-1: </a> Multi-Task Vision and Language Representation Learning Web Demo</h5>
-    <span>Built a demo of a single model <span class="fw-400">trained on 12 datasets</span> from four broad categories of tasks including visual question answering, caption-based image retrieval, grounding referring expressions, and multi-modal verification and compared to independently trained single-task models, this represents a reduction from approximately 3 billion parameters to 270 million while simultaneously improving performance by 2.05 points on average across tasks.  It has <span class="fw-400">1k+ pageviews</span> and <span class="fw-400">800+ unique visitors</span> have used it.</span><br>
-
-    <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/vilbert-multi-task on GitHub">Star</a> &nbsp;
-    <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/vilbert-multi-task on GitHub">Fork</a> &nbsp;
-    <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
+    <div>
+      <div style="float: left;">
+        <h5><a href="http://vilbert.cloudcv.org/" target="_blank">12-in-1: </a> Multi-Task Vision and Language Representation Learning Demo</h5>
+      </div>
+      <div style="float: right;">
+        <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/vilbert-multi-task on GitHub">Star</a> &nbsp;
+        <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/vilbert-multi-task on GitHub">Fork</a> &nbsp;
+        <a class="github-button" href="https://github.com/Cloud-CV/vilbert-multi-task" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
+      </div>
+    </div>
+    <div style="float: left;">
+      <span>Built a demo of a single model <span class="fw-400">trained on 12 datasets</span> from four broad categories of tasks including visual question answering, caption-based image retrieval, grounding referring expressions, and multi-modal verification and compared to independently trained single-task models, this represents a reduction from approximately 3 billion parameters to 270 million while simultaneously improving performance by 2.05 points on average across tasks.  It is used by <span class="fw-400">20K+</span> users.</span>
+    </div>
     <div class="padding-top-10">
-
+      <img class="images no-border" src="/images/contents/vm.png">
     </div>
-
     <div class="hr-line-projects"></div>
-
   </div>
 
   <div>
-
-    <h5><a href="http://doodle.cloudcv.org/" target="_blank">Trick or TReAT:</a> Thematic Reinforcement for Artistic Typography Demo</h5>
+    <div>
+      <div style="float: left;">
+        <h5><a href="http://doodle.cloudcv.org/" target="_blank">Trick or TReAT:</a> Thematic Reinforcement for Artistic Typography Demo</h5>
+      </div>
+      <div style="float: right;">
+        <!-- <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp;
+        <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a> -->
+      </div>
+    </div>
+  <div style="float: left">
     <span>Given an input word (e.g.exam) and a theme (e.g.education), the individual letters of the input word are replaced by cliparts relevant to the theme which visually resemble the letters - adding creative context to the potentially boring input word.</span><br>
-
-    <!-- <a class="github-button" href="https://github.com/Cloud-CV/VQA" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/VQA on GitHub">Star</a> &nbsp;
-    <a class="github-button" href="https://github.com/Cloud-CV/VQA/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork Cloud-CV/VQA on GitHub">Fork</a> -->
-    <div class="padding-top-10">
-
+  </div>
+  <div class="padding-top-10">
     <img class="images no-border" src="/images/contents/doodle.png" />
-
-    </div>
-
+  </div>
     <div class="hr-line-projects"></div>
-
   </div>
 
   <div>
-
-    <h5><a href="http://210.212.85.155:8082/" target="_blank">JSS InfoConnect</a>: Information Center for College</h5>
-    <span>Web based <span class="fw-400">officially recognized</span> application that acts as a medium for interaction between all students, faculties and management of JSSATE, Noida. It serves <span class="fw-400">10, 000+</span> requests per day, <span class="fw-400">20, 000+ registered users</span>, <span class="fw-400">20, 000+</span> notices/documents uploaded along with <span class="fw-400">3 million</span> page views since it’s launch in 2016.</span> <br>
-    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star ncs-jss/HTTP_200 on GitHub">Star</a> &nbsp;
-    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork ncs-jss/HTTP_200 on GitHub">Fork</a> &nbsp;
-    <a class="github-button" href="https://github.com/ncs-jss/HTTP_200" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
+    <div>
+      <div style="float: left;">
+        <h5><a href="http://210.212.85.155:8082/" target="_blank">JSS InfoConnect</a>: Information Center for College</h5>
+      </div>
+      <div style="float: right;">
+        <a class="github-button" href="https://github.com/ncs-jss/HTTP_200" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star ncs-jss/HTTP_200 on GitHub">Star</a> &nbsp;
+        <a class="github-button" href="https://github.com/ncs-jss/HTTP_200/fork" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Fork ncs-jss/HTTP_200 on GitHub">Fork</a> &nbsp;
+        <a class="github-button" href="https://github.com/ncs-jss/HTTP_200" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Code">Code</a>
+      </div>
+    </div>
+    <div style="float: left;">
+      <span>Web based <span class="fw-400">officially recognized</span> application that acts as a medium for interaction between all students, faculties and management of JSSATE, Noida. It serves <span class="fw-400">10K+ requests per day</span>, <span class="fw-400">20K+ registered users</span>, <span class="fw-400">20K+</span> notices/documents were uploaded since it’s launch in 2016.</span>
+    </div>
     <div class="padding-top-10">
-
-    <img class="images no-border" src="/images/contents/infoconnect.png" />
-
+      <img class="images no-border" src="/images/contents/infoconnect.png" />
     </div>
 
     <div class="hr-line-projects"></div>
