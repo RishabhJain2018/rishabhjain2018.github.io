@@ -1247,3 +1247,12 @@ a.color-black:hover{
 .margin-top-2 {
   margin-top: 2%;
 }
+
+/* img {
+    transition: transform 0.25s ease;
+}
+
+img:click {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+} */
