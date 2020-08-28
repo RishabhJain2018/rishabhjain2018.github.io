@@ -432,7 +432,7 @@ layout: default
           <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">2019:</a> Led a team of <span class="fw-400">10+ mentors</span> and students under the <a target="_blank" href="https://cloudcv.org/">CloudCV</a> organization to setup the pipeline for evaluation of code upload challenges, leading the development of new UI and automating the existing submission worker using AWS Fargate on <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>.
         </div>
         <div class="gsoc-2020">
-          <a class="bullet-points" href="https://gsoc.cloudcv.org/" target="_blank">2020:</a> Leading a team of 10+ mentors and students under the <a target="_blank" href="https://cloudcv.org/">CloudCV</a> organization to automate the pipeline for evaluation of code upload challenges, release new UI and, streamlining AI challenge creation on <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>.
+          <a class="bullet-points" href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">2020:</a> Leading a team of <span class="fw-400">10+ mentors</span> and students under the <a target="_blank" href="https://cloudcv.org/">CloudCV</a> organization to automate the pipeline for evaluation of code upload challenges, release new UI and, streamlining AI challenge creation on <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>.
         </div>
       </div>
 
