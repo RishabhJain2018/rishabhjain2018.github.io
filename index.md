@@ -9,14 +9,14 @@ layout: default
 
     <img src="/images/contents/rishabh_jain.jpg" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
     <div class="entry-summary">
-        I'm a rising second year Computer Science MS (specialization in Machine Learning) student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and work closely with <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a>. I work at the junction of software engineering and AI research, solving problems which lie at the intersection of Machine Learning, Computer Vision and Natural Language Processing.
+        I am a rising second year Computer Science MS (specialization in Machine Learning) student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and work closely with <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a>. I work at the intersection of software engineering and AI research, solving problems which lie at the intersection of Machine Learning, Computer Vision and Natural Language Processing.
         <br>
-        I want to build tools for reproducible AI research and am quite excited to build scalable softwares which will help in training, visualizing and evaluating machine learning models in real-time on static/dynamic test datasets.
+        I am excited about building tools for reproducible AI research and scalable software which will help in training, visualizing and evaluating machine learning models in real-time on static and dynamic datasets.
         <br>
-        I'm currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> for simplifying and standardizing the process of evaluating RL models by developing and managing a widely recognized evaluation platform <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> for reproducibility of results, maintaining evaluation consistency, evaluation of model’s code, and to measure constant progress for pushing the frontiers of AI.
+        I am currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> for simplifying and standardizing the process of evaluating Reinforcement Learning (RL) models by developing and managing a widely adopted evaluation platform, <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>, for reproducibility of results, maintaining evaluation consistency, evaluating of model’s code instead of predictions from the model, and to measure constant progress on pushing the frontiers of AI.
         <br>
-        I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a> where we are building several open source softwares for reproducible AI research.
-        Previously, I spent an year as a visiting research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
+        I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a>, where we are building several open-source softwares for reproducible AI research.
+        Previously, I spent a year as a visiting research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
 
         <span style="color:red !important;" class="fw-400">I am graduating in May 2021 and am on the job market.</span>
         Please feel free to reach out to me at <a href="#">rishabhjain2018@gmail.com</a>.
@@ -30,8 +30,8 @@ layout: default
 
         <h2> News </h2>
         <ul>
-          <li>[Jun 2020] Invited speaker <a href="http://cvpr2020.thecvf.com/" target="_blank"> CVPR 2020</a> conference at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
-          <li>[May 2020] Interned at <a href="https://www.ebay.com/" target="_blank">eBay</a> under <a href="https://www.linkedin.com/in/maslovskis/" target="_blank">Roman Maslovskis</a> and <a href="https://www.linkedin.com/in/uwe-mayer-a73ab81/" target="_blank">Uwe Mayer</a> for summer 2020.</li>
+          <li>[Jun 2020] Invited speaker at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
+          <li>[May 2020] Interned at <a href="https://www.ebay.com/" target="_blank">eBay</a> with <a href="https://www.linkedin.com/in/maslovskis/" target="_blank">Roman Maslovskis</a> and <a href="https://www.linkedin.com/in/uwe-mayer-a73ab81/" target="_blank">Uwe Mayer</a> for summer 2020.</li>
           <li>[Feb 2020] Organization Administrator for <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code 2020</a> with <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
           <li>[Feb 2020] <a href="https://cloudcv.org/" target="_blank">CloudCV</a> selected as a mentoring organization in <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code</a> for the 6th time in a row.</li>
           <li>[Oct 2019] Represented <a href="https://cloudcv.org/" target="_blank">CloudCV</a> at <a href="https://sites.google.com/view/gsoc-mentorsummit2019/home" target="_blank">Google Summer of Code Mentor Summit 2019 </a>, Munich Germany.</li>
@@ -564,7 +564,7 @@ layout: default
         <h2> Invited Talks </h2>
           <img class="images margin-btm-20" src="/images/contents/talk.png" />
         <ul>
-          <li>[Jun 2020] Invited speaker <a href="http://cvpr2020.thecvf.com/" target="_blank"> CVPR 2020</a> conference at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
+          <li>[Jun 2020] Invited speaker at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
           <li>[Oct 2019] Represented CloudCV in <a href="https://sites.google.com/view/gsoc-mentorsummit2019/home" target="_blank">Google Summer of Code Mentor Summit</a> at Munich Germany. (<a href="https://drive.google.com/file/d/1X-facagynmwyp8ArTnT2uKi5cmx6BYp6/view?usp=sharing" target="_blank">Slides</a>)</li>
           <li>[Jun 2019] Presented EvalAI in <a href="https://aihabitat.org/workshop/2019/" target="_blank">Habitat workshop</a> at CVPR. (<a href="https://drive.google.com/file/d/1TzDHrkjudWDgv3IfN3ifOzJrEyvgCA6p/view" target="_blank">Slides</a>)</li>
           <li>[Oct 2018] Represented CloudCV in <a href="https://sites.google.com/view/gsoc-mentorsummit-2018/home" target="_blank">Google Summer of Code Mentor Summit</a> at Google Sunnyvale. (<a href="https://docs.google.com/presentation/d/1EUvzGOXSRyE5F59G4gn2HDD4u3Tq8ODTHiGj-otl1IY/edit?usp=sharing" target="_blank">Slides</a>)</li>
