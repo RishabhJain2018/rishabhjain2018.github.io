@@ -530,7 +530,7 @@ layout: default
     <span class="rishabh">Software Developer Intern, Machine Learning</span> &nbsp; <br>
     <span class="period">(Jun 2016 &nbsp;-&nbsp; Aug 2016)</span>
       <div class="exp-desc">
-        Developed a product which takes a video answer of a job interview question as an input and outputs the accuracy on smiling behavior of the user by training an SVM classifier in the form of a web based demo.
+      Developed a classifier using SVM to detect and classify videos containing an answer of a job interview question as an input and outputs a confidence score on the smiling behaviour of a person in the video.
       </div>
 
     </div>
