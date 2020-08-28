@@ -91,7 +91,7 @@ layout: default
     </div>
 
     <div style="float:left; ">
-      <span>Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">85+ AI challenges</span> with <span class="fw-400">8000+  users</span>, who have created <span class="fw-400">90, 000+ submissions</span>. More than <span class="fw-400">25 organizations</span> from industry and academia use it for hosting their AI challenges.  The project is open source with <span class="fw-400">100+ contributors, </span> and <span class="fw-400"> 1.8M+ pageviews.</span>. Some of the organizations using it are <span class="fw-400">Google, Facebook, IBM, Intel, eBay, etc.</span> and research labs from <span class="fw-400"> Stanford, CMU, MIT, Georgia Tech, etc.</span> also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.</span>
+      <span>Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">85+ AI challenges</span> with <span class="fw-400">8000+  users</span>, who have created <span class="fw-400">90,000+ submissions</span>. More than <span class="fw-400">25 organizations</span> from industry and academia use it for hosting their AI challenges.  The project is open source with <span class="fw-400">100+ contributors, </span> and <span class="fw-400"> 1.8M+ pageviews.</span>. Some of the organizations using it are <span class="fw-400">Google, Facebook, IBM, Intel, eBay, etc.</span> and research labs from <span class="fw-400"> Stanford, CMU, MIT, Georgia Tech, etc.</span> also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.</span>
 
     </div>
 
@@ -381,7 +381,7 @@ layout: default
         Supervised by: <a target="_blank" href="https://www.linkedin.com/in/maslovskis/"> Dr. Roman Maslovskis</a> and <a target="_blank" href="https://www.linkedin.com/in/uwe-mayer-a73ab81/"> Dr. Uwe Mayer</a> &nbsp; <br> <span class="period">(May 2020 &nbsp;-&nbsp; Aug 2020)</span>
         <div class="exp-desc">
           <div class="evalai">
-            <span class="bullet-points">Evaluating and Predicting attribute values in listings:</span> Given an image, and a text description about the listing on eBay the task is to predict the missing attributes about the listing. For instance, predicting the missing color or brand attribute in the listing. I built an end-to-end system for processing visual and textual data along with training AI models. I also trained an early fusion model of image and text data which gave an accuracy of 78%, 83% on the test dataset for color and brand attribute respectively. 
+            <span class="bullet-points">Evaluating and Predicting attribute values in listings:</span> Given an image, and a text description about the listing on eBay, the task is to predict the missing attributes in the listing. For instance, predicting the missing color or brand attribute in the listing. I built an end-to-end system for processing visual and textual data along with training AI models. I also trained an early fusion model of image and text data which outperformed the uni-modal models of image and text by 5% and 22% on the test dataset for color attribute and by 20% and 4% on the test dataset for brand attribute. 
           </div>
         </div>
 
@@ -429,10 +429,10 @@ layout: default
           <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/#projects" target="_blank">2018:</a> Mentored a student to design a command line tool <a href="https://evalai-cli.cloudcv.org/" target="_blank">(EvalAI-CLI)</a> for EvalAI which lets the participants to install and use <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a> as a <a href="https://pypi.org/project/evalai/" target="_blank">python package</a>.
         </div>
         <div class="gsoc-2019">
-          <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">2019:</a> Led a team of <span class="fw-400">10+ mentors</span> and students to accomplish tasks proposed in <a href="https://gsoc.cloudcv.org/2019/" target="_blank">GSoC 2019 Proposal</a>.
+          <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">2019:</a> Led a team of <span class="fw-400">10+ mentors</span> and students under the <a target="_blank" href="https://cloudcv.org/">CloudCV</a> organization to setup the pipeline for evaluation of code upload challenges, leading the development of new UI and automating the existing submission worker using AWS Fargate on <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>.
         </div>
         <div class="gsoc-2020">
-          <a class="bullet-points" href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">2020:</a> Leading a team of 10+ mentors and students under <a target="_blank" href="https://cloudcv.org/">CloudCV</a> organization to build an open-source software for evaluating machine learning models in real-time on static/dynamic datasets.
+          <a class="bullet-points" href="https://gsoc.cloudcv.org/" target="_blank">2020:</a> Leading a team of 10+ mentors and students under the <a target="_blank" href="https://cloudcv.org/">CloudCV</a> organization to automate the pipeline for evaluation of code upload challenges, release new UI and, streamlining AI challenge creation on <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>.
         </div>
       </div>
 
