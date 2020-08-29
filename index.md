@@ -19,7 +19,7 @@ layout: default
         Previously, I spent a year as a visiting research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
 
         <span style="color:red !important;" class="fw-400">I am graduating in May 2021 and am on the job market.</span>
-        Please feel free to reach out to me at <a href="#">rishabhjain2018@gmail.com</a>.
+        Please feel free to reach out to me at <a href="mailto:rishabhjain@gatech.edu">rishabhjain@gatech.edu</a>.
 
     </div>
 
