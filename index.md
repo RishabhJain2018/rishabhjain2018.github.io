@@ -30,6 +30,7 @@ layout: default
 
         <h2> News </h2>
         <ul>
+          <li>[Sep 2020] Our paper dialog without dialog is accepted to NeurIPS 2020.</li>
           <li>[Jun 2020] Invited speaker at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
           <li>[May 2020] Interned at <a href="https://www.ebay.com/" target="_blank">eBay</a> with <a href="https://www.linkedin.com/in/maslovskis/" target="_blank">Roman Maslovskis</a> and <a href="https://www.linkedin.com/in/uwe-mayer-a73ab81/" target="_blank">Uwe Mayer</a> for summer 2020.</li>
           <li>[Feb 2020] Organization Administrator for <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code 2020</a> with <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
@@ -38,7 +39,7 @@ layout: default
           <li><span style="width: 10%">[Oct 2019]</span> <a href="https://arxiv.org/pdf/1902.03570.pdf" target="_blank">EvalAI</a> accepted in <a href="http://learningsys.org/sosp19/index.html" target="_blank">AI systems workshop</a> at SOSP conference.</li>
           <li>[Aug 2019] Joined Georgia Tech for Masters in Computer Science.</li>
           <li>[Jun 2019] Presented <a href="https://evalai.cloudcv.org/" target="_blank">EvalAI</a> in Habitat Workshop at CVPR.</li>
-          <li>[Mar 2019] Our paper <a href="https://arxiv.org/abs/1812.08658" target="_blank">nocaps: novel object captioning at scale</a> is accepted to ICCV!</li>
+          <li>[Mar 2019] Our paper <a href="https://arxiv.org/abs/1812.08658" target="_blank">nocaps: novel object captioning at scale</a> is accepted to ICCV 2019.</li>
           <li>[Feb 2019] Served as a <span class="border-bottom"><a href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">Google Summer of Code orgnization administrator</a></span> with CloudCV.</li>
           <li>[Jan 2019] Team Lead, <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
           <li>[Nov 2018] Served as a <span class="border-bottom"><a href="http://gci.cloudcv.org/" target="_blank">Google Code-In orgnization administrator</a></span> with CloudCV.</li>
@@ -260,8 +261,16 @@ layout: default
 
   <!-- Publications Section -->
   <div id="publications" class="hentry-no-border post">
-
         <h2 class="padding-bottom-10"> Publications </h2>
+          <div>
+          <h5>Dialog without Dialog: Learning Image-Discriminative Dialog Policies from Single-Shot Question Answering Data</h5>
+          <div class="author-names">Michael Cogswell*, Jiasen Lu*, <span class="rishabh">Rishabh Jain</span>, Stefan Lee, Dhruv Batra, Devi Parikh</div>
+          <div>
+            <span class="padding-right-20"><a href="#" target="_blank" class="conference">NeurIPS 2020</a></span>
+          </div>
+        </div>
+      <div class="hr-line"></div>
+
         <div>
           <h5>EvalAI: Towards Better Evaluation Systems for AI Agents</h5>
           <div class="author-names">Deshraj Yadav, <span class="rishabh">Rishabh Jain</span>, Harsh Agrawal, Prithvijit Chattopadhyay, Taranjeet Singh, Akash Jain, Shiv Baran Singh, Stefan Lee, Dhruv Batra</div>
@@ -272,9 +281,7 @@ layout: default
             <span class="website padding-right-20"> <a href="https://evalai.cloudcv.org/" target="_blank" class="nocaps.org">evalai.cloudcv.org</a></span>
           </div>
         </div>
-
     <div class="hr-line"></div>
-
         <div>
           <h5>nocaps: novel object captioning at scale</h5>
           <div class="author-names">Harsh Agrawal*, Karan Desai*, Yufei Wang, Xinlei Chen, <span class="rishabh">Rishabh Jain</span>, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson</div>
@@ -290,22 +297,11 @@ layout: default
         </div>
 
     <div class="hr-line"></div>
-
         <div>
           <h5>Evaluating visual and text explanations in an interactive, goal-driven human-AI task</h5>
           <div class="author-names">Arjun Chandrasekaran, <span class="rishabh">Rishabh Jain</span>, Karan Desai, Kerry Moffitt, Jeff Miller, David Diller, Bill Ferguson, Devi Parikh</div>
           <div>
             <span class="padding-right-20"> <a href="#" target="_blank" class="conference-in-submission">Under Review</a></span>
-          </div>
-        </div>
-
-    <div class="hr-line"></div>
-
-          <div>
-          <h5>Dialog without Dialog: Learning Image-Discriminative Dialog Policies from Single-Shot Question Answering Data</h5>
-          <div class="author-names">Michael Cogswell*, Jiasen Lu*, <span class="rishabh">Rishabh Jain</span>, Stefan Lee, Dhruv Batra, Devi Parikh</div>
-          <div>
-            <span class="padding-right-20"> <a href="" target="_blank" class="conference-in-submission">Under Review</a></span>
           </div>
         </div>
     <div class="padding-top-10 equal-contribution">
