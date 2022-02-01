@@ -607,7 +607,7 @@ layout: default
         <span class="period">(Aug 2019 &nbsp;-&nbsp; May 2021)</span>
       <ul>
         <li>Specialization in Machine Learning</li>
-        <li class="fw-400">GPA: 4.0/4.0</li>
+        <li>GPA: <span class="fw-400">4.0/4.0</span></li>
       </ul>
 
     <div class="hr-line-projects"></div>
