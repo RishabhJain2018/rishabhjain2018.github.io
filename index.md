@@ -11,9 +11,9 @@ layout: default
     <div class="entry-summary">
       I am a Research Engineer at <a href="https://www.ebay.com/" target="_blank">eBay</a> working on deep neural networks and its applications in selling items on eBay. I work on building ML models to extract useful information from text and infrastructure frameworks that power our machine learning workflows such as automatic training, tuning and evaluating ML models at scale.
       <br>
-      Before this, I was a Computer Science MS (specialization in Machine Learning) student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and worked closely with <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a>. I worked at the intersection of software engineering and AI research where I focussed on simplifying and standardizing the process of evaluating ML models by developing and managing a widely adopted evaluation platform, <a href="https://evalai.cloudcv.org/" target="_blank">EvalAI</a> <a href="https://smartech.gatech.edu/bitstream/handle/1853/64704/JAIN-THESIS-2021.pdf" target="_blank"><i>(MS Thesis)</i></a>, for reproducibility of results, maintaining evaluation consistency, evaluating of model’s code instead of predictions from the model, and to measure constant progress on pushing the frontiers of AI.
+      Before this, I was a Computer Science MS (specialization in Machine Learning) student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and worked closely with <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a>. I worked at the intersection of software engineering and AI research where I focussed on simplifying and standardizing the process of evaluating ML models by developing and managing a widely adopted evaluation platform, <a href="https://eval.ai/" target="_blank">EvalAI</a> <a href="https://smartech.gatech.edu/handle/1853/64704" target="_blank"><i>(MS Thesis)</i></a>, for reproducibility of results, maintaining evaluation consistency, evaluating of model’s code instead of predictions from the model, and to measure constant progress on pushing the frontiers of AI. During my masters, I was awarded the <a href="https://gtcomputingawards2021.cc.gatech.edu/graduate-student-awards/" target="_blank">The Marshall D. Williamson Fellowship Award 2021</a> for academic excellence and leadership.
       <br>
-      I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a>, <a href="https://summerofcode.withgoogle.com/archive" target="_blank"> (7th year GSoC organization)</a>, where we are building several open-source softwares for reproducible AI research.
+      I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a>, <a href="https://summerofcode.withgoogle.com/archive" target="_blank"> (7th year GSoC organization)</a>, where we are building several open-source softwares for reproducible AI research such as <a href="https://github.com/Cloud-CV/evalai-cli" target="_blank">evalai-cli</a>, <a href="https://github.com/Cloud-CV/visual-chatbot" target="_blank">visual-chatbot</a>, etc.
       <br>
       Prior to joining grad school, I spent a year as a visiting research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
       Please feel free to reach out to me at <a href="mailto:rishabhjain2018@gmail.com">rishabhjain2018@gmail.com</a> or <a href="mailto:rishabhjain@gatech.edu">rishabhjain@gatech.edu</a>.
@@ -26,16 +26,19 @@ layout: default
 
         <h2> News </h2>
         <ul>
-          <li>[May 2021] Graduated from <a href="https://www.gatech.edu/">Georgia Tech</a> with a Master's degree in Computer Science.</li>
+          <li>[June 2021] Started working as a Research Engineer at eBay.</li>
+          <li>[May 2021] Graduated from <a href="https://www.gatech.edu/">Georgia Tech</a> with a Master's degree in Computer Science. My thesis is available <a href="https://smartech.gatech.edu/handle/1853/64704" target="_blank">here</a>.</li>
+          <li>[Mar 2021] Awarded <a href="https://gtcomputingawards2021.cc.gatech.edu/graduate-student-awards/" target="_blank">The Marshall D. Williamson Fellowship Award 2021</a> for academic excellence and leadership.</li>
+          <li>[Feb 2021] <a href="https://cloudcv.org/" target="_blank">CloudCV</a> selected as a mentoring organization in <a href="https://summerofcode.withgoogle.com/archive/2021/organizations/5332159690178560" target="_blank">Google Summer of Code</a> for the 7th time in a row.</li>
           <li>[Sep 2020] Our paper dialog without dialog is accepted to NeurIPS 2020.</li>
           <li>[Jun 2020] Invited speaker at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
           <li>[May 2020] Interned at <a href="https://www.ebay.com/" target="_blank">eBay</a> with <a href="https://www.linkedin.com/in/maslovskis/" target="_blank">Roman Maslovskis</a> and <a href="https://www.linkedin.com/in/uwe-mayer-a73ab81/" target="_blank">Uwe Mayer</a> for summer 2020.</li>
           <li>[Feb 2020] Organization Administrator for <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code 2020</a> with <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
-          <li>[Feb 2020] <a href="https://cloudcv.org/" target="_blank">CloudCV</a> selected as a mentoring organization in <a href="https://summerofcode.withgoogle.com/organizations/6054438164234240/" target="_blank">Google Summer of Code</a> for the 6th time in a row.</li>
+          <li>[Feb 2020] <a href="https://cloudcv.org/" target="_blank">CloudCV</a> selected as a mentoring organization in <a href="https://summerofcode.withgoogle.com/archive/2020/organizations/6719687229964288" target="_blank">Google Summer of Code</a> for the 6th time in a row.</li>
           <li>[Oct 2019] Represented <a href="https://cloudcv.org/" target="_blank">CloudCV</a> at <a href="https://sites.google.com/view/gsoc-mentorsummit2019/home" target="_blank">Google Summer of Code Mentor Summit 2019 </a>, Munich Germany.</li>
           <li><span style="width: 10%">[Oct 2019]</span> <a href="https://arxiv.org/pdf/1902.03570.pdf" target="_blank">EvalAI</a> accepted in <a href="http://learningsys.org/sosp19/index.html" target="_blank">AI systems workshop</a> at SOSP conference.</li>
           <li>[Aug 2019] Joined Georgia Tech for Masters in Computer Science.</li>
-          <li>[Jun 2019] Presented <a href="https://evalai.cloudcv.org/" target="_blank">EvalAI</a> in Habitat Workshop at CVPR.</li>
+          <li>[Jun 2019] Presented <a href="https://eval.ai/" target="_blank">EvalAI</a> in Habitat Workshop at CVPR.</li>
           <li>[Mar 2019] Our paper <a href="https://arxiv.org/abs/1812.08658" target="_blank">nocaps: novel object captioning at scale</a> is accepted to ICCV 2019.</li>
           <li>[Feb 2019] Served as a <span class="border-bottom"><a href="https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/#projects" target="_blank">Google Summer of Code orgnization administrator</a></span> with CloudCV.</li>
           <li>[Jan 2019] Team Lead, <a href="https://cloudcv.org/" target="_blank">CloudCV</a>.</li>
@@ -78,7 +81,7 @@ layout: default
 
     <div>
       <div style="float:left; ">
-        <h5><a href="https://evalai.cloudcv.org/" target="_blank">EvalAI:</a> Towards Better Evaluation Systems for AI Agents <a href="https://smartech.gatech.edu/bitstream/handle/1853/64704/JAIN-THESIS-2021.pdf" target="_blank"><span style="font-style: italic;">(MS Thesis)</span></a></h5>
+        <h5><a href="https://eval.ai/" target="_blank">EvalAI:</a> Towards Better Evaluation Systems for AI Agents <a href="https://smartech.gatech.edu/handle/1853/64704" target="_blank"><span style="font-style: italic;">(MS Thesis)</span></a></h5>
       </div>
       <div style="float: right; ">
           <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/EvalAI on GitHub">Star</a> &nbsp; 
@@ -258,12 +261,15 @@ layout: default
 
   <!-- Publications Section -->
   <div id="publications" class="hentry-no-border post">
+
         <h2 class="padding-bottom-10"> Publications </h2>
           <div>
           <h5>Dialog without Dialog: Learning Image-Discriminative Dialog Policies from Single-Shot Question Answering Data</h5>
           <div class="author-names">Michael Cogswell*, Jiasen Lu*, <span class="rishabh">Rishabh Jain</span>, Stefan Lee, Dhruv Batra, Devi Parikh</div>
           <div>
-            <span class="padding-right-20"><a href="#" target="_blank" class="conference">NeurIPS 2020</a></span>
+            <span class="padding-right-20"><a href="https://proceedings.neurips.cc/paper/2020/hash/e7023ba77a45f7e84c5ee8a28dd63585-Abstract.html" target="_blank" class="conference">NeurIPS 2020</a></span>
+            <span class="paper padding-right-20"> <a href="https://proceedings.neurips.cc/paper/2020/file/e7023ba77a45f7e84c5ee8a28dd63585-Paper.pdf" target="_blank" class="paper">Paper</a></span>
+            <span class="code padding-right-20"> <a href="https://github.com/mcogswell/dialog_without_dialog" target="_blank" class="code">Code</a></span>
           </div>
         </div>
       <div class="hr-line"></div>
@@ -275,7 +281,7 @@ layout: default
             <span class="padding-right-20"> <a href="http://learningsys.org/sosp19/acceptedpapers.html" target="_blank" class="conference">AI Systems Workshop (SOSP 2019)</a></span>
             <span class="paper padding-right-20"> <a href="https://arxiv.org/abs/1902.03570" target="_blank" class="paper">Paper</a></span>
             <span class="code padding-right-20"> <a href="https://github.com/Cloud-CV/EvalAI" target="_blank" class="code">Code</a></span>
-            <span class="website padding-right-20"> <a href="https://evalai.cloudcv.org/" target="_blank" class="nocaps.org">evalai.cloudcv.org</a></span>
+            <span class="website padding-right-20"> <a href="https://eval.ai/" target="_blank" class="nocaps.org">evalai.cloudcv.org</a></span>
           </div>
         </div>
     <div class="hr-line"></div>
@@ -294,13 +300,13 @@ layout: default
         </div>
 
     <div class="hr-line"></div>
-        <div>
+        <!-- <div>
           <h5>Evaluating visual and text explanations in an interactive, goal-driven human-AI task</h5>
           <div class="author-names">Arjun Chandrasekaran, <span class="rishabh">Rishabh Jain</span>, Karan Desai, Kerry Moffitt, Jeff Miller, David Diller, Bill Ferguson, Devi Parikh</div>
           <div>
             <span class="padding-right-20"> <a href="#" target="_blank" class="conference-in-submission">Under Review</a></span>
           </div>
-        </div>
+        </div> -->
     <div class="padding-top-10 equal-contribution">
     (* denotes equal contribution)
 
@@ -314,6 +320,28 @@ layout: default
   <div id="experience" class="hentry-no-border post">
 
         <h2 class="padding-bottom-10"> Experience </h2>
+
+<!-- eBay's internship -->
+  <div>
+
+    <h5>Research Engineer, <a href="#" target="_blank">Structured Data and Applied Research Team</a></h5>
+
+  </div>
+  <div class="hentry remove-bottom">
+
+    <div class="entry-summary">
+       <span><img src="/images/contents/ebay.png" alt="Georgia Tech" class=" home-thumbnail company-logo gt-gra"></span>
+        Supervised by: <a target="_blank" href="https://www.linkedin.com/in/maslovskis/"> Dr. Roman Maslovskis</a> and <a target="_blank" href="https://www.linkedin.com/in/yingweixin/"> Steven Xin</a> &nbsp; <br> <span class="period">(June 2021 &nbsp;-&nbsp; Present)</span>
+        <div class="exp-desc">
+          <div class="evalai">
+            I am currently working on deep neural networks and its applications in selling items on eBay. I work on building ML models to extract useful information from text and infrastructure frameworks that power our machine learning workflows such as automatic training, tuning and evaluating ML models at scale.
+          </div>
+        </div>
+
+    </div>
+
+  <div class="hr-line"></div>
+  </div>
 
 <!-- CloudCV -->
   <div>
@@ -346,10 +374,10 @@ layout: default
 
     <div class="entry-summary">
        <span><img src="/images/contents/gt.jpg" alt="Georgia Tech" class=" home-thumbnail company-logo gt-gra"></span>
-        Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2019 &nbsp;-&nbsp; Present)</span>
+        Supervised by: <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> &nbsp; <br> <span class="period">(Aug 2019 &nbsp;-&nbsp; May 2021)</span>
         <div class="exp-desc">
           <div class="evalai">
-            <a href="https://evalai.cloudcv.org" target="_blank" class="bullet-points">EvalAI:</a> Built an open source platform called as <a href="https://evalai.cloudcv.org" target="_blank"> EvalAI </a> for evaluating and benchmarking AI models. We have hosted <span class="fw-400"> 100+ challenges </span> with <span class="fw-400">10,000+ users</span>, who have created <span class="fw-400">100,000+ submissions</span>. The project is open source with <span class="fw-400">120+ contributors</span>, <span class="fw-400"> 1k+ stars</span>, <span class="fw-400">500+ forks</span>. More than <span class="fw-400">25 organizations</span> are using it including <span class="fw-400"> Google, Facebook, IBM, Intel, eBay etc.</span> and research labs from <span class="fw-400">MIT, Stanford, CMU, Georgia Tech, etc. </span>also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.
+            <a href="https://evalai.cloudcv.org" target="_blank" class="bullet-points">EvalAI</a> <i><a href="https://smartech.gatech.edu/handle/1853/64704" target="_blank">(MS Thesis)</a>:</i> Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">200+ AI challenges</span> with <span class="fw-400">18,000+  users</span>, who have created <span class="fw-400">180,000+ submissions</span>. More than <span class="fw-400">30 organizations</span> from industry and academia use it for hosting their AI challenges.  The project is open source with <span class="fw-400">130+ contributors, </span> and <span class="fw-400"> 2M+ yearly pageviews</span>. Some of the organizations using it are <span class="fw-400">Google Research, Facebook AI Research, DeepMind, Amazon, eBay Research, Mapillary Research, etc.</span> and research labs from <span class="fw-400">MIT, Stanford, Carnegie Mellon University, Georgia Tech, Virginia Tech, UMBC, University of Pittsburg, Draper, University of Adelaide, IIT-Madras, Nankai University, etc. </span> also use it to host large AI challenges like <a href="https://twitter.com/AmazonScience/status/1478543349871255553" target="_blank">AlexaPrize</a> on it. It's forked versions are used by large organizations such as <a href="https://health.aiaudit.org/" target="_blank">World Health Organization</a>, <a href="https://data-challenges.fz-juelich.de/about" target="_blank">Forschungszentrum Jülich</a> <span style="font-size: 0.85em">(one of the largest interdisciplinary research centres in Europe)</span>, etc. for hosting their challenges instead of reinventing the wheel.
           </div>
           <div class="guesswhich">
             <a class="bullet-points " href="#">GuessWhich: </a>Evaluating the role of interpretable explanations towards making a model predictable to a human. We studied if the textual or visual explanations from an AI model in the context of an interactive, goal-driven, collabora-tive human-AI task help humans to predict it’s behavior.
