@@ -134,7 +134,7 @@ layout: default
     </div>
 
     <div style="float: left; ">
-    <span>In Visual Question Answering, given an image and a free-form natural language question about the image (e.g., "What kind of store is this?", "How many people are waiting in the queue?", "Is it safe to cross the street?") the model's task is to automatically produce a concise, accurate, free-form, natural language answer ("bakery", "5", "Yes"). This demo is implemented using <a href="https://github.com/facebookresearch/pythia" target="_blank">Pythia</a> model.</span> It is used by  <span class="fw-400">100K+ </span> users.
+    <span>In Visual Question Answering, given an image and a free-form natural language question about the image (e.g., "What kind of store is this?", "How many people are waiting in the queue?", "Is it safe to cross the street?") the model's task is to automatically produce a concise, accurate, free-form, natural language answer ("bakery", "5", "Yes"). This demo is implemented using <a href="https://github.com/facebookresearch/pythia" target="_blank">Pythia</a> model.</span> It is used by  <span class="fw-400">120K+ </span> users.
 
     </div>
 
@@ -161,7 +161,7 @@ layout: default
     </div>
 
     <div style="float: left; ">
-      Built a visual chatbot which can hold a meaningful dialog with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history, and a question about the image, the chatbot will ground the question in image, infer context from history, and answer the question accurately. This demo is implemented using <a href="https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch" target="_blank">Late Fusion</a> model from <a href="https://arxiv.org/abs/1611.08669" target="_blank"> CVPR 2017 Paper</a>. It is used by <span class="fw-400">170K+</span> users.
+      Built a visual chatbot which can hold a meaningful dialog with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history, and a question about the image, the chatbot will ground the question in image, infer context from history, and answer the question accurately. This demo is implemented using <a href="https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch" target="_blank">Late Fusion</a> model from <a href="https://arxiv.org/abs/1611.08669" target="_blank"> CVPR 2017 Paper</a>. It is used by <span class="fw-400">200K+</span> users.
 
     </div>
 
@@ -189,7 +189,7 @@ layout: default
     </div>
 
     <div style="float: left; ">
-      <span>Built a demo of a single model <span class="fw-400">trained on 12 datasets</span> from four broad categories of tasks including visual question answering, caption-based image retrieval, grounding referring expressions, and multi-modal verification and compared to independently trained single-task models, this represents a reduction from approximately 3 billion parameters to 270 million while simultaneously improving performance by 2.05 points on average across tasks.  It is used by <span class="fw-400">20K+</span> users.</span>
+      <span>Built a demo of a single model <span class="fw-400">trained on 12 datasets</span> from four broad categories of tasks including visual question answering, caption-based image retrieval, grounding referring expressions, and multi-modal verification and compared to independently trained single-task models, this represents a reduction from approximately 3 billion parameters to 270 million while simultaneously improving performance by 2.05 points on average across tasks.  It is used by <span class="fw-400">30K+</span> users.</span>
 
     </div>
 
