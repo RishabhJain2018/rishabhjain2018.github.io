@@ -11,14 +11,14 @@ plugins:
   - jekyll-seo-tag
 defaults:
   - scope:
-      path: ""
+      path: ''
       type: posts
     values:
       layout: post
       permalink: /blog/:year/:month/:day/:title/
 # google_analytics: ''
 title: Rishabh Jain
-description: Computer Science MS student at Georgia Tech, advised by Prof. Dhruv Batra. He works at the intersection of Machine Learning & Software Engineering. He also leads an open source organization - CloudCV to build tools for reproducible AI research.
+description: Rishabh is a Research Engineer at eBay. He works on building ML models & large scale ML systems. He leads an open source organization - CloudCV where he developed EvalAI, an open source platform for hosting AI challenges.
 author: Rishabh Jain
 twitter:
   username: rishabhjain2018
