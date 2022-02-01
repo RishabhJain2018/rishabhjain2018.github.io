@@ -9,14 +9,14 @@ layout: default
 
     <img src="/images/contents/rishabh_jain.jpg" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
     <div class="entry-summary">
-      I am a Research Engineer at<a href="https://www.ebay.com/" target="_blank">eBay</a> working on deep neural networks and its applications in selling items on eBay. I work on building ML models to extract useful information from text and infrastructure frameworks that power our machine learning workflows such as automatic training, tuning and evaluating ML models at scale.
-
+      I am a Research Engineer at <a href="https://www.ebay.com/" target="_blank">eBay</a> working on deep neural networks and its applications in selling items on eBay. I work on building ML models to extract useful information from text and infrastructure frameworks that power our machine learning workflows such as automatic training, tuning and evaluating ML models at scale.
+      <br>
       Before this, I was a Computer Science MS (specialization in Machine Learning) student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and worked closely with <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a>. I worked at the intersection of software engineering and AI research where I focussed on simplifying and standardizing the process of evaluating ML models by developing and managing a widely adopted evaluation platform, EvalAI, for reproducibility of results, maintaining evaluation consistency, evaluating of model’s code instead of predictions from the model, and to measure constant progress on pushing the frontiers of AI.
-
+      <br>
       I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a><a href="#" target="_blank"> (7th year GSoC organization) </a>, where we are building several open-source softwares for reproducible AI research.
-
+      <br>
       Prior to joining grad school, I spent a year as a visiting research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
-      
+      <br>
       Please feel free to reach out to me at <a href="mailto:rishabhjain2018@gmail.com">rishabhjain2018@gmail.com"</a> or <a href="mailto:rishabhjain@gatech.edu">rishabhjain@gatech.edu</a>.
     </div>
 
@@ -27,6 +27,7 @@ layout: default
 
         <h2> News </h2>
         <ul>
+          <li>[May 2021] Graduated from <a href="https://www.gatech.edu/">Georgia Tech</a> with a Master's degree in Computer Science.</li>
           <li>[Sep 2020] Our paper dialog without dialog is accepted to NeurIPS 2020.</li>
           <li>[Jun 2020] Invited speaker at <a href="https://embodied-ai.org/" target="_blank">EmbodiedAI </a>workshop. [<a href="https://www.youtube.com/watch?v=3SoCElGefik&list=PL4XI7L9Xv5fX2nIAx8-ldtgaRh5u2yObq" target="_blank">Talk</a>]</li>
           <li>[May 2020] Interned at <a href="https://www.ebay.com/" target="_blank">eBay</a> with <a href="https://www.linkedin.com/in/maslovskis/" target="_blank">Roman Maslovskis</a> and <a href="https://www.linkedin.com/in/uwe-mayer-a73ab81/" target="_blank">Uwe Mayer</a> for summer 2020.</li>
