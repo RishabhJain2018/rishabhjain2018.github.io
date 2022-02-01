@@ -604,11 +604,10 @@ layout: default
         <img src="/images/contents/gt.png" alt="Georgia Institute of Technology" class="home-thumbnail" style="float: right; height: 90px; width: auto; margin-top: 1%; "/>
         <h5> Masters in Computer Science</h5>
         <span>Georgia Institute of Technology, Atlanta, USA </span> &nbsp; <br>
-        <span class="period">(Aug 2019 &nbsp;-&nbsp; Present)</span>
+        <span class="period">(Aug 2019 &nbsp;-&nbsp; May 2021)</span>
       <ul>
         <li>Specialization in Machine Learning</li>
-        <li class="fw-400">Current GPA: 4.0/4.0</li>
-        <li> Expected Graduation &nbsp;-&nbsp; May 2021</li>
+        <li class="fw-400">GPA: 4.0/4.0</li>
       </ul>
 
     <div class="hr-line-projects"></div>
