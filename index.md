@@ -11,13 +11,12 @@ layout: default
     <div class="entry-summary">
       I am a Research Engineer at <a href="https://www.ebay.com/" target="_blank">eBay</a> working on deep neural networks and its applications in selling items on eBay. I work on building ML models to extract useful information from text and infrastructure frameworks that power our machine learning workflows such as automatic training, tuning and evaluating ML models at scale.
       <br>
-      Before this, I was a Computer Science MS (specialization in Machine Learning) student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and worked closely with <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a>. I worked at the intersection of software engineering and AI research where I focussed on simplifying and standardizing the process of evaluating ML models by developing and managing a widely adopted evaluation platform, EvalAI, for reproducibility of results, maintaining evaluation consistency, evaluating of model’s code instead of predictions from the model, and to measure constant progress on pushing the frontiers of AI.
+      Before this, I was a Computer Science MS (specialization in Machine Learning) student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and worked closely with <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a>. I worked at the intersection of software engineering and AI research where I focussed on simplifying and standardizing the process of evaluating ML models by developing and managing a widely adopted evaluation platform, <a href="https://evalai.cloudcv.org/" target="_blank">EvalAI</a> <a href="https://smartech.gatech.edu/bitstream/handle/1853/64704/JAIN-THESIS-2021.pdf" target="_blank"><i>(MS Thesis)</i></a>, for reproducibility of results, maintaining evaluation consistency, evaluating of model’s code instead of predictions from the model, and to measure constant progress on pushing the frontiers of AI.
       <br>
-      I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a><a href="#" target="_blank"> (7th year GSoC organization) </a>, where we are building several open-source softwares for reproducible AI research.
+      I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a>, <a href="https://summerofcode.withgoogle.com/archive" target="_blank"> (7th year GSoC organization)</a>, where we are building several open-source softwares for reproducible AI research.
       <br>
       Prior to joining grad school, I spent a year as a visiting research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
-      <br>
-      Please feel free to reach out to me at <a href="mailto:rishabhjain2018@gmail.com">rishabhjain2018@gmail.com"</a> or <a href="mailto:rishabhjain@gatech.edu">rishabhjain@gatech.edu</a>.
+      Please feel free to reach out to me at <a href="mailto:rishabhjain2018@gmail.com">rishabhjain2018@gmail.com</a> or <a href="mailto:rishabhjain@gatech.edu">rishabhjain@gatech.edu</a>.
     </div>
 
   </div>
@@ -79,7 +78,7 @@ layout: default
 
     <div>
       <div style="float:left; ">
-        <h5><a href="https://evalai.cloudcv.org/" target="_blank">EvalAI:</a> Towards Better Evaluation Systems for AI Agents</h5>
+        <h5><a href="https://evalai.cloudcv.org/" target="_blank">EvalAI:</a> Towards Better Evaluation Systems for AI Agents <a href="https://smartech.gatech.edu/bitstream/handle/1853/64704/JAIN-THESIS-2021.pdf" target="_blank"><span style="font-style: italic;">(MS Thesis)</span></a></h5>
       </div>
       <div style="float: right; ">
           <a class="github-button" href="https://github.com/Cloud-CV/EvalAI" data-color-scheme="no-preference: light; light: light; dark: dark; " data-show-count="true" aria-label="Star Cloud-CV/EvalAI on GitHub">Star</a> &nbsp; 
@@ -90,7 +89,7 @@ layout: default
     </div>
 
     <div style="float:left; ">
-      <span>Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">100+ AI challenges</span> with <span class="fw-400">10,000+  users</span>, who have created <span class="fw-400">100,000+ submissions</span>. More than <span class="fw-400">25 organizations</span> from industry and academia use it for hosting their AI challenges.  The project is open source with <span class="fw-400">120+ contributors, </span> and <span class="fw-400"> 2M+ pageviews.</span>. Some of the organizations using it are <span class="fw-400">Google, Facebook, IBM, Intel, eBay, etc.</span> and research labs from <span class="fw-400"> Stanford, CMU, MIT, Georgia Tech, etc.</span> also use it and it's forked version for hosting their internal challenges instead of reinventing the wheel.</span>
+      <span>Built an open source platform for evaluating and benchmarking AI models. We have hosted <span class="fw-400">200+ AI challenges</span> with <span class="fw-400">18,000+  users</span>, who have created <span class="fw-400">180,000+ submissions</span>. More than <span class="fw-400">30 organizations</span> from industry and academia use it for hosting their AI challenges.  The project is open source with <span class="fw-400">130+ contributors, </span> and <span class="fw-400"> 2M+ yearly pageviews</span>. Some of the organizations using it are <span class="fw-400">Google Research, Facebook AI Research, DeepMind, Amazon, eBay Research, Mapillary Research, etc.</span> and research labs from <span class="fw-400">MIT, Stanford, Carnegie Mellon University, Georgia Tech, Virginia Tech, UMBC, University of Pittsburg, Draper, University of Adelaide, IIT-Madras, Nankai University, etc. </span> also use it to host large AI challenges like <a href="https://twitter.com/AmazonScience/status/1478543349871255553" target="_blank">AlexaPrize</a> on it. It's forked versions are used by large organizations such as <a href="https://health.aiaudit.org/" target="_blank">World Health Organization</a>, <a href="https://data-challenges.fz-juelich.de/about" target="_blank">Forschungszentrum Jülich</a> <span style="font-size: 0.85em">(one of the largest interdisciplinary research centres in Europe)</span>, etc. for hosting their challenges instead of reinventing the wheel.</span>
 
     </div>
 
