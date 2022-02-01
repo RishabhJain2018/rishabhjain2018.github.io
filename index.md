@@ -9,18 +9,15 @@ layout: default
 
     <img src="/images/contents/rishabh_jain.jpg" alt="Rishabh Jain" class="archive-thumbnail home-thumbnail" />
     <div class="entry-summary">
-        I am a rising second year Computer Science MS (specialization in Machine Learning) student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and work closely with <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a>. I work at the intersection of software engineering and AI research, solving problems which lie at the intersection of Machine Learning, Computer Vision and Natural Language Processing.
-        <br>
-        I am excited about building tools for reproducible AI research and scalable software which will help in training, visualizing and evaluating machine learning models in real-time on static and dynamic datasets.
-        <br>
-        I am currently working as a Graduate Research Assistant with <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank"> Prof. Dhruv Batra</a> and <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a> for simplifying and standardizing the process of evaluating Reinforcement Learning (RL) models by developing and managing a widely adopted evaluation platform, <a href="https://evalai.cloudcv.org" target="_blank">EvalAI</a>, for reproducibility of results, maintaining evaluation consistency, evaluating of model’s code instead of predictions from the model, and to measure constant progress on pushing the frontiers of AI.
-        <br>
-        I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a>, where we are building several open-source softwares for reproducible AI research.
-        Previously, I spent a year as a visiting research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
+      I am a Research Engineer at<a href="https://www.ebay.com/" target="_blank">eBay</a> working on deep neural networks and its applications in selling items on eBay. I work on building ML models to extract useful information from text and infrastructure frameworks that power our machine learning workflows such as automatic training, tuning and evaluating ML models at scale.
 
-        <span style="color:red !important;" class="fw-400">I am graduating in May 2021 and am on the job market.</span>
-        Please feel free to reach out to me at <a href="mailto:rishabhjain@gatech.edu">rishabhjain@gatech.edu</a>.
+      Before this, I was a Computer Science MS (specialization in Machine Learning) student at <a target="_blank" href="https://www.gatech.edu/">Georgia Tech</a> advised by <a target="_blank" href="https://www.cc.gatech.edu/~dbatra/"> Prof. Dhruv Batra</a> and worked closely with <a target="_blank" href="https://www.cc.gatech.edu/~parikh/"> Prof. Devi Parikh</a>. I worked at the intersection of software engineering and AI research where I focussed on simplifying and standardizing the process of evaluating ML models by developing and managing a widely adopted evaluation platform, EvalAI, for reproducibility of results, maintaining evaluation consistency, evaluating of model’s code instead of predictions from the model, and to measure constant progress on pushing the frontiers of AI.
 
+      I also lead an open source organization, <a  target="_blank" href="https://cloudcv.org/">CloudCV</a><a href="#" target="_blank"> (7th year GSoC organization) </a>, where we are building several open-source softwares for reproducible AI research.
+
+      Prior to joining grad school, I spent a year as a visiting research scholar in <a target="_blank" href="http://mlp.cc.gatech.edu/">Machine Learning and Perception Lab</a> at Georgia Tech.<br>
+      
+      Please feel free to reach out to me at <a href="mailto:rishabhjain2018@gmail.com">rishabhjain2018@gmail.com"</a> or <a href="mailto:rishabhjain@gatech.edu">rishabhjain@gatech.edu</a>.
     </div>
 
   </div>
