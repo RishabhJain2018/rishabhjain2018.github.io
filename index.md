@@ -325,7 +325,7 @@ layout: default
 <!-- eBay's internship -->
   <div>
 
-    <h5>Research Engineer, <a href="#" target="_blank">Structured Data and Applied Research Team</a></h5>
+    <h5>Applied Researcher, <a href="#" target="_blank">Knowledge Extraction Team, eBay Search</a></h5>
 
   </div>
   <div class="hentry remove-bottom">
